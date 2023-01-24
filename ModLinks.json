@@ -66,7 +66,9 @@
     "DownloadLink": "Mods/Cinema.dll",
     "GameVersion": "3.0.0",
     "Description": "",
-    "DependentMods": [],
+    "DependentMods": [
+      "CustomAlbums"
+    ],
     "SHA256": "ac48f627d97d5de86981af4af8d423b3d4464db265cc3259e2189eee90029df6"
   },
   {
@@ -126,7 +128,9 @@
     "DownloadLink": "Mods/Headquarters.dll",
     "GameVersion": "3.0.0",
     "Description": "",
-    "DependentMods": [],
+    "DependentMods": [
+      "CustomAlbums"
+    ],
     "SHA256": "2016b7af8ba2abc48e5339eb3ae99a6926c6bc5d1975cbeda6a338c37f9750cc"
   },
   {
@@ -144,7 +148,7 @@
     "Version": "2.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/IntroSkip.dll",
-    "GameVersion": "2.11.0",
+    "GameVersion": "2.10.0",
     "Description": "",
     "DependentMods": [],
     "SHA256": "cc08cc3649a26cd75e2948a9cfc3c4f27431ad75dccc558b91ae8d77c4d91483"
@@ -158,6 +162,16 @@
     "Description": "",
     "DependentMods": [],
     "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
+  },
+  {
+    "Name": "MuseDashModTools",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "Mods/MuseDashModTools.dll",
+    "GameVersion": "3.0.0",
+    "Description": "",
+    "DependentMods": [],
+    "SHA256": "08eb60555cf711a8afc5568b725a9e0dc05afdc34cd5e77515f7cf3fe53a5eba"
   },
   {
     "Name": "NoAutoPause",
