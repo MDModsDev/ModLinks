@@ -1,0 +1,252 @@
+[
+  {
+    "Name": "Alt Tab Mute",
+    "Version": "2.0.0",
+    "Author": "Dom Gintoki",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/AltTabMute.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "8b96855a511b466a22a08e0d6ec319bc784153ebb2596e0f00dd25259ac3925b"
+  },
+  {
+    "Name": "AlwaysDjmax",
+    "Version": "1.0.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/AlwaysDjmax.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "bdd95f4e13de61cf394c74a574db813d9999a72771b725ad8eaa7cecdaa975bf"
+  },
+  {
+    "Name": "BestCombinationSuggest",
+    "Version": "0.4.0",
+    "Author": "brooke_zb",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/BestCombinationSuggest.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "eef74b3a620e1d70a7fd4f6d3f179b80b046aa1cf0aca0a0d35e967f3318c1d7"
+  },
+  {
+    "Name": "CharacterRandomizer",
+    "Version": "1.1.3",
+    "Author": "lxy",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/CharacterRandomizer.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "e0be074358ab1c64746af27aa97dd320d561d1f9e5b034f648441ea2b59dfccd"
+  },
+  {
+    "Name": "CharacterScoreboard",
+    "Version": "1.2.3",
+    "Author": "Creepler13",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/CharacterScoreboard.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "1dc5f0a7985a0cefd0728ccc65c8fc14b9ddf351811fce817dd17c52b6542db2"
+  },
+  {
+    "Name": "ChineseMode",
+    "Version": "1.0.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/ChineseMode.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "9e3a5f758ad594912f1aab1060cc13452c96fb96cd5789f5ce88a79e1d4f7656"
+  },
+  {
+    "Name": "Cinema",
+    "Version": "1.1.3",
+    "Author": "AshtonMemer",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/Cinema.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": "CustomAlbums",
+    "SHA256": "ac48f627d97d5de86981af4af8d423b3d4464db265cc3259e2189eee90029df6"
+  },
+  {
+    "Name": "CustomAlbums",
+    "Version": "3.4.1",
+    "Author": "Mo10 & RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/CustomAlbums.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "4ff592fa735d4d7bd010d0addf311bfe6b41345cdef6206d9d4144216dbb2717"
+  },
+  {
+    "Name": "CustomLoadingScreens",
+    "Version": "1.1.0",
+    "Author": "Creepler13",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/CustomLoadingScreens.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "bf2f1b26a78d94cb1c79168d6e37d149888f53e2f3a92e00268795b4f5754297"
+  },
+  {
+    "Name": "FavGirl",
+    "Version": "2.3.3",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/FavGirl.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "c1eb4f4b8c41cb836e80a7a3f9b5a7357360bc34636eee881298a8226373562e"
+  },
+  {
+    "Name": "FC AP indicator",
+    "Version": "1.5.0",
+    "Author": "lxy",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/FC AP.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "364eb066ccb9866c4f3db908211628f2c2a6ba2a9210fa8558e5b1021a2553d2"
+  },
+  {
+    "Name": "FeverEffectDisable",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/FeverEffectDisable.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "830690957aa491149892a9ca93fbbc0558192b211d68b108086630ba0cd8e89a"
+  },
+  {
+    "Name": "Headquarters",
+    "Version": "3.1.2",
+    "Author": "AshtonMemer",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/Headquarters.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": "CustomAlbums",
+    "SHA256": "2016b7af8ba2abc48e5339eb3ae99a6926c6bc5d1975cbeda6a338c37f9750cc"
+  },
+  {
+    "Name": "HiddenQoL",
+    "Version": "1.0.1",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/HiddenQoL.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "fb93a13704aafc4f156ec83b748fec74561e0ced54de3e06101dc1dad4097719"
+  },
+  {
+    "Name": "IntroSkip",
+    "Version": "2.0.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/IntroSkip.dll",
+    "GameVersion": "2.11.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "cc08cc3649a26cd75e2948a9cfc3c4f27431ad75dccc558b91ae8d77c4d91483"
+  },
+  {
+    "Name": "MDRPC",
+    "Version": "0.0.8",
+    "Author": "Brasileiro",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/MDRPC.dll",
+    "GameVersion": "2.10.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
+  },
+  {
+    "Name": "NoAutoPause",
+    "Version": "2.0.0",
+    "Author": "AshtonMemer",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/NoAutoPause.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "545a089ea8aaf28c04fb98fc1243d913385552648f597e09bceb8d6eec6918f9"
+  },
+  {
+    "Name": "QuickRestart",
+    "Version": "2.1.0",
+    "Author": "AshtonMemer",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/QuickRestart.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "af2a737a4b476262aeeabb58b44766268f24bedda605929514de5260c703b7f0"
+  },
+  {
+    "Name": "QuickSwitchCombination",
+    "Version": "2.1.0",
+    "Author": "lxy",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/QuickSwitchCombination.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "ea15e758b92662aeae610610f3a73b0477cc473b8f9f1f552dfa2d52c9fb90b8"
+  },
+  {
+    "Name": "SceneEggs",
+    "Version": "1.1.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/SceneEggs.dll",
+    "GameVersion": "2.11.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "afe1f40fd11081ac0f36f14c7372bd31b06d6fd8b0a2dcd78f7cef43e1f79e76"
+  },
+  {
+    "Name": "ScrollSpeed",
+    "Version": "1.0.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/ScrollSpeed.dll",
+    "GameVersion": "2.11.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
+  },
+  {
+    "Name": "Song Desc",
+    "Version": "1.0.7",
+    "Author": "lxy",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/SongDesc.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "12d129f0f21555fec12df39dad179fb2c805ba755258f8a8c43e42801fe54841"
+  },
+  {
+    "Name": "UI Disable",
+    "Version": "1.0.1",
+    "Author": "lxy",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/UIDisable.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "4b668c9822d082e86ff11a90167fe099a6fbc5af761e183a4adfcf4258bde593"
+  },
+  {
+    "Name": "UltraInstinctSleepwalking",
+    "Version": "2.0.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/UltraInstinctSleepwalking.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "729454978caceed4abd9f1858da89328ca2ca3da3f369a1bfa84f1226b0b7c61"
+  },
+  {
+    "Name": "UnlockAll2",
+    "Version": "1.0.0",
+    "Author": "RobotLucca",
+    "DownloadLink": "https://github.com/MDModsDev/ModLinks/blob/main/Mods/UnlockAll2.dll",
+    "GameVersion": "3.0.0",
+    "Description": null,
+    "DependentMods": null,
+    "SHA256": "76b27394102ca739f79db9ba71087593632f20c166833b1484bbe1edbd0481d9"
+  }
+]
