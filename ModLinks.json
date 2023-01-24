@@ -4,7 +4,7 @@
     "Author": "Dom Gintoki",
     "DownloadLink": "Mods/AltTabMute.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Mutes the game when it's not focused.",
     "DependentMods": [],
     "SHA256": "8b96855a511b466a22a08e0d6ec319bc784153ebb2596e0f00dd25259ac3925b"
   },
@@ -13,7 +13,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/AlwaysDjmax.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Forces the score screen to always be the DJMax version.",
     "DependentMods": [],
     "SHA256": "bdd95f4e13de61cf394c74a574db813d9999a72771b725ad8eaa7cecdaa975bf"
   },
@@ -22,7 +22,7 @@
     "Author": "brooke_zb",
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "GameVersion": [ "3.0.0", "2.11.0" ],
-    "Description": "",
+    "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
     "SHA256": "eef74b3a620e1d70a7fd4f6d3f179b80b046aa1cf0aca0a0d35e967f3318c1d7"
   },
@@ -31,7 +31,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "GameVersion": [ "3.0.0", "2.11.0" ],
-    "Description": "",
+    "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
     "SHA256": "e0be074358ab1c64746af27aa97dd320d561d1f9e5b034f648441ea2b59dfccd"
   },
@@ -40,7 +40,7 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "GameVersion": [ "3.0.0", "2.11.0" ],
-    "Description": "",
+    "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
     "SHA256": "1dc5f0a7985a0cefd0728ccc65c8fc14b9ddf351811fce817dd17c52b6542db2"
   },
@@ -49,7 +49,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ChineseMode.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Censores certain aspects of the game. (Characters, illustrations, etc)",
     "DependentMods": [],
     "SHA256": "9e3a5f758ad594912f1aab1060cc13452c96fb96cd5789f5ce88a79e1d4f7656"
   },
@@ -58,7 +58,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
     "GameVersion": [ "3.0.0" ],
-    "Description": "",
+    "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
       "CustomAlbums"
     ],
@@ -69,7 +69,7 @@
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "GameVersion": [ "3.0.0" ],
-    "Description": "",
+    "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
     "SHA256": "4ff592fa735d4d7bd010d0addf311bfe6b41345cdef6206d9d4144216dbb2717"
   },
@@ -78,7 +78,7 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/CustomLoadingScreens.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Allows you to add custom loading screens (CustomLoadingScreens folder)\nAlso allows you to add custom loading screen messages (UserData/CustomLoadingScreens.cfg)\nMessages can be paired with an image, or be left as random.",
     "DependentMods": [],
     "SHA256": "bf2f1b26a78d94cb1c79168d6e37d149888f53e2f3a92e00268795b4f5754297"
   },
@@ -87,7 +87,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
     "GameVersion": [ "3.0.0" ],
-    "Description": "",
+    "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
     "SHA256": "c1eb4f4b8c41cb836e80a7a3f9b5a7357360bc34636eee881298a8226373562e"
   },
@@ -96,7 +96,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
     "DependentMods": [],
     "SHA256": "364eb066ccb9866c4f3db908211628f2c2a6ba2a9210fa8558e5b1021a2553d2"
   },
@@ -105,7 +105,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/FeverEffectDisable.dll",
     "GameVersion": [ "3.0.0", "2.11.0" ],
-    "Description": "",
+    "Description": "Disables the fever background effect (duh.)",
     "DependentMods": [],
     "SHA256": "830690957aa491149892a9ca93fbbc0558192b211d68b108086630ba0cd8e89a"
   },
@@ -114,7 +114,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
     "GameVersion": [ "3.0.0" ],
-    "Description": "",
+    "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
       "CustomAlbums"
     ],
@@ -125,7 +125,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/HiddenQoL.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
     "DependentMods": [],
     "SHA256": "fb93a13704aafc4f156ec83b748fec74561e0ced54de3e06101dc1dad4097719"
   },
@@ -134,7 +134,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/IntroSkip.dll",
     "GameVersion": [ "2.10.0" ],
-    "Description": "",
+    "Description": "Skips the \"PeroPero HasuHasu\" and the opening scene.",
     "DependentMods": [],
     "SHA256": "cc08cc3649a26cd75e2948a9cfc3c4f27431ad75dccc558b91ae8d77c4d91483"
   },
@@ -143,7 +143,7 @@
     "Author": "Brasileiro",
     "DownloadLink": "Mods/MDRPC.dll",
     "GameVersion": [ "2.10.0" ],
-    "Description": "",
+    "Description": "Muse Dash Rich Presence, which is exactly what it says it is.",
     "DependentMods": [],
     "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
   },
@@ -152,7 +152,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Automatically detects and logs available mod updates.",
     "DependentMods": [],
     "SHA256": "08eb60555cf711a8afc5568b725a9e0dc05afdc34cd5e77515f7cf3fe53a5eba"
   },
@@ -161,7 +161,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/NoAutoPause.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Prevents the game from automatically pausing when the game loses focus.",
     "DependentMods": [],
     "SHA256": "545a089ea8aaf28c04fb98fc1243d913385552648f597e09bceb8d6eec6918f9"
   },
@@ -170,7 +170,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
     "GameVersion": [ "3.0.0", "2.11.0" ],
-    "Description": "",
+    "Description": "Allows you to use Delete to instantly leave a chart\n&\nAllows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
     "SHA256": "af2a737a4b476262aeeabb58b44766268f24bedda605929514de5260c703b7f0"
   },
@@ -179,7 +179,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds:\n- You can't remove keybinds in-game. Close the game, remove your keybind, then restart it.\n- Do not use \"Reload\". (Using it to remove keybinds will cause you to remove newly set keybinds. lxy, if you're reading this, plz fix.)",
     "DependentMods": [],
     "SHA256": "d1d4c392fb94600d215bcf3f533c57f068857f9941ee324d4f3959c1eee538f1"
   },
@@ -188,7 +188,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/SceneEggs.dll",
     "GameVersion": [ "2.11.0" ],
-    "Description": "",
+    "Description": "Makes it possible for customs to use certain background decorations that the default charts use.",
     "DependentMods": [],
     "SHA256": "afe1f40fd11081ac0f36f14c7372bd31b06d6fd8b0a2dcd78f7cef43e1f79e76"
   },
@@ -197,7 +197,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ScrollSpeed.dll",
     "GameVersion": [ "2.10.0" ],
-    "Description": "",
+    "Description": "Allows charters (not players) to set custom scroll speeds.\nIt's completely up to you whether you wanna use this, most charters don't use it though.",
     "DependentMods": [],
     "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
   },
@@ -206,7 +206,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
     "GameVersion": [ "3.0.0", "2.11.0" ],
-    "Description": "",
+    "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
     "DependentMods": [],
     "SHA256": "b622d36ed0b3da0e93d49a3086f474089b39568bd456f0efb39937c654f60628"
   },
@@ -215,7 +215,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
     "DependentMods": [],
     "SHA256": "4b668c9822d082e86ff11a90167fe099a6fbc5af761e183a4adfcf4258bde593"
   },
@@ -224,7 +224,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UltraInstinctSleepwalking.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "Makes Sleepwalker Rin do mashers at max speed instead of the normal slow speed.",
     "DependentMods": [],
     "SHA256": "729454978caceed4abd9f1858da89328ca2ca3da3f369a1bfa84f1226b0b7c61"
   },
@@ -233,7 +233,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UnlockAll2.dll",
     "GameVersion": [ "*" ],
-    "Description": "",
+    "Description": "An alternative to UnlockAll.\nMaster's stay unlocked only for as long as the mod is installed.",
     "DependentMods": [],
     "SHA256": "76b27394102ca739f79db9ba71087593632f20c166833b1484bbe1edbd0481d9"
   }
