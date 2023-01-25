@@ -211,9 +211,9 @@
     "IncompatibleMods": [],
     "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
   },
-  "MuseDashModTools": {
-    "Version": "1.0.0",
-    "Author": "lxy",
+    "MuseDashModTools": {
+    "Version": "1.1.0",
+    "Author": "lxy & \"Bálint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "GameVersion": [
       "*"
@@ -222,7 +222,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "08eb60555cf711a8afc5568b725a9e0dc05afdc34cd5e77515f7cf3fe53a5eba"
+    "SHA256": "2a5217d4c35a96a6437bfef5751ed42753acf0139b6f26f0d47b15171205b9b5"
   },
   "NoAutoPause": {
     "Version": "2.0.0",
