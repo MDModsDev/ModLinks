@@ -243,7 +243,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "09dcc2e6b42ea66c099cc9e7064edbd588cb0be85b21b4dcdbbab1e649aa76b6"
+    "SHA256": "019eed002cb2a1b2c271cec05de75d49cc05aa171c730048bd2289fc6b08ad0c"
   },
   "NoAutoPause": {
     "Version": "2.0.0",
