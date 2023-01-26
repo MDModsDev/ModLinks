@@ -3,6 +3,7 @@
     "Version": "2.0.0",
     "Author": "Dom Gintoki",
     "DownloadLink": "Mods/AltTabMute.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
@@ -16,6 +17,7 @@
     "Version": "1.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/AlwaysDjmax.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
@@ -29,6 +31,7 @@
     "Version": "0.4.0",
     "Author": "brooke_zb",
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
+    "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
       "3.0.0",
       "2.11.0"
@@ -43,6 +46,7 @@
     "Version": "1.1.3",
     "Author": "lxy",
     "DownloadLink": "Mods/CharacterRandomizer.dll",
+    "HomePage": "",
     "GameVersion": [
       "3.0.0",
       "2.11.0"
@@ -57,6 +61,7 @@
     "Version": "1.2.3",
     "Author": "Creepler13",
     "DownloadLink": "Mods/CharacterScoreboard.dll",
+    "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
       "3.0.0",
       "2.11.0"
@@ -71,6 +76,7 @@
     "Version": "1.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ChineseMode.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
@@ -84,6 +90,7 @@
     "Version": "1.1.3",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
+    "HomePage": "",
     "GameVersion": [
       "3.0.0"
     ],
@@ -97,6 +104,7 @@
     "Version": "3.4.1",
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
+    "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
       "3.0.0"
     ],
@@ -110,6 +118,7 @@
     "Version": "1.1.0",
     "Author": "Creepler13",
     "DownloadLink": "Mods/CustomLoadingScreens.dll",
+    "HomePage": "https://github.com/Creepler13/CustomLoadingScreens",
     "GameVersion": [
       "*"
     ],
@@ -123,6 +132,7 @@
     "Version": "2.3.3",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
+    "HomePage": "",
     "GameVersion": [
       "3.0.0"
     ],
@@ -136,6 +146,7 @@
     "Version": "1.5.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
+    "HomePage": "https://github.com/MDModsDev/FC-AP-Indicator",
     "GameVersion": [
       "*"
     ],
@@ -149,6 +160,7 @@
     "Version": "1.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FeverEffectDisable.dll",
+    "HomePage": "",
     "GameVersion": [
       "3.0.0",
       "2.11.0"
@@ -163,6 +175,7 @@
     "Version": "3.1.2",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
+    "HomePage": "",
     "GameVersion": [
       "3.0.0"
     ],
@@ -176,6 +189,7 @@
     "Version": "1.0.1",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/HiddenQoL.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
@@ -189,6 +203,7 @@
     "Version": "2.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/IntroSkip.dll",
+    "HomePage": "",
     "GameVersion": [
       "2.10.0"
     ],
@@ -202,6 +217,7 @@
     "Version": "0.0.8",
     "Author": "Brasileiro",
     "DownloadLink": "Mods/MDRPC.dll",
+    "HomePage": "https://github.com/Braasileiro/MDRPC",
     "GameVersion": [
       "2.10.0"
     ],
@@ -211,10 +227,11 @@
     "IncompatibleMods": [],
     "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
   },
-    "MuseDashModTools": {
-    "Version": "1.1.0",
-    "Author": "lxy & \"Bálint\" as balls",
+  "MuseDashModTools": {
+    "Version": "1.1.1",
+    "Author": "lxy & \"B\u8c29lint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
+    "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
     "GameVersion": [
       "*"
     ],
@@ -222,12 +239,13 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "2a5217d4c35a96a6437bfef5751ed42753acf0139b6f26f0d47b15171205b9b5"
+    "SHA256": "09dcc2e6b42ea66c099cc9e7064edbd588cb0be85b21b4dcdbbab1e649aa76b6"
   },
   "NoAutoPause": {
     "Version": "2.0.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/NoAutoPause.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
@@ -241,6 +259,7 @@
     "Version": "2.1.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
+    "HomePage": "",
     "GameVersion": [
       "3.0.0",
       "2.11.0"
@@ -255,6 +274,7 @@
     "Version": "2.1.1",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
+    "HomePage": "https://github.com/MDModsDev/QuickSwitchCombination",
     "GameVersion": [
       "*"
     ],
@@ -268,6 +288,7 @@
     "Version": "1.1.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/SceneEggs.dll",
+    "HomePage": "",
     "GameVersion": [
       "2.11.0"
     ],
@@ -281,6 +302,7 @@
     "Version": "1.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ScrollSpeed.dll",
+    "HomePage": "",
     "GameVersion": [
       "2.10.0"
     ],
@@ -294,6 +316,7 @@
     "Version": "1.0.8",
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
+    "HomePage": "https://github.com/MDModsDev/SongDesc",
     "GameVersion": [
       "3.0.0",
       "2.11.0"
@@ -308,6 +331,7 @@
     "Version": "1.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
+    "HomePage": "https://github.com/MDModsDev/UIDisable",
     "GameVersion": [
       "*"
     ],
@@ -321,6 +345,7 @@
     "Version": "2.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UltraInstinctSleepwalking.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
@@ -334,6 +359,7 @@
     "Version": "1.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UnlockAll2.dll",
+    "HomePage": "",
     "GameVersion": [
       "*"
     ],
