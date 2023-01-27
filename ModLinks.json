@@ -232,7 +232,7 @@
     "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
   },
   "MuseDashModTools": {
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Author": "lxy & \"B\u8c29lint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
@@ -243,7 +243,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "019eed002cb2a1b2c271cec05de75d49cc05aa171c730048bd2289fc6b08ad0c"
+    "SHA256": "fbef881337254dc20ea9d6a74a637fa4faeb31678f11b1885b5585c86bf11c31"
   },
   "NoAutoPause": {
     "Version": "2.0.0",
