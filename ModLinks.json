@@ -233,7 +233,7 @@
   },
   "MuseDashModTools": {
     "Version": "1.1.2",
-    "Author": "lxy & \"B\u8c29lint\" as balls",
+    "Author": "lxy & \"Bálint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
     "GameVersion": [
@@ -275,18 +275,18 @@
     "SHA256": "af2a737a4b476262aeeabb58b44766268f24bedda605929514de5260c703b7f0"
   },
   "QuickSwitchCombination": {
-    "Version": "2.1.1",
+    "Version": "2.1.2",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDModsDev/QuickSwitchCombination",
     "GameVersion": [
       "*"
     ],
-    "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds:\n- You can't remove keybinds in-game. Close the game, remove your keybind, then restart it.\n- Do not use \"Reload\". (Using it to remove keybinds will cause you to remove newly set keybinds. lxy, if you're reading this, plz fix.)",
+    "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "d1d4c392fb94600d215bcf3f533c57f068857f9941ee324d4f3959c1eee538f1"
+    "SHA256": "991d6fad7e42a9184aff5b487605731fae0124cddd0f54fe027392f393860915"
   },
   "SceneEggs": {
     "Version": "1.1.0",
