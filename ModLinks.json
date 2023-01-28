@@ -13,20 +13,6 @@
     "IncompatibleMods": [],
     "SHA256": "8b96855a511b466a22a08e0d6ec319bc784153ebb2596e0f00dd25259ac3925b"
   },
-  "AlwaysDjmax": {
-    "Version": "1.0.0",
-    "Author": "RobotLucca",
-    "DownloadLink": "Mods/AlwaysDjmax.dll",
-    "HomePage": "",
-    "GameVersion": [
-      "*"
-    ],
-    "Description": "Forces the score screen to always be the DJMax version.",
-    "DependentMods": [],
-    "DependentLibs": [],
-    "IncompatibleMods": [],
-    "SHA256": "bdd95f4e13de61cf394c74a574db813d9999a72771b725ad8eaa7cecdaa975bf"
-  },
   "BestCombinationSuggest": {
     "Version": "0.4.0",
     "Author": "brooke_zb",
@@ -372,5 +358,19 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "76b27394102ca739f79db9ba71087593632f20c166833b1484bbe1edbd0481d9"
+  },
+  "VictoryScreenSwitcher": {
+    "Version": "1.1.1",
+    "Author": "Ultra_Rabbit",
+    "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
+    "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
+    "GameVersion": [
+      "3.0.0"
+    ],
+    "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "e03db1c74048480d81290bc46c329a868b5bbfe31371852bae7f870caebdf093"
   }
 }
