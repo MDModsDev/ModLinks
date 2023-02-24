@@ -9,6 +9,10 @@
       "3.1.0",
       "3.0.0"
     ],
+    "Description": "Adds a more exact accuracy indicator on the bottom of the screen.\nAlso displays average accuracy in milliseconds at the end of the level.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
     "SHA256": "eef12a4ba088d15e4bdfc38c301d6121fa3bcc215e5c85dd8ddb75b702a82093"
   },
   {
