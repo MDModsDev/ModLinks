@@ -1,5 +1,17 @@
 [
   {
+    "Name": "Accuracy Indicator",
+    "Version": "1.3.1",
+    "Author": "Azn9",
+    "DownloadLink": "Mods/AccuracyIndicator.dll",
+    "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
+    "GameVersion": [
+      "3.1.0",
+      "3.0.0"
+    ],
+    "SHA256": "eef12a4ba088d15e4bdfc38c301d6121fa3bcc215e5c85dd8ddb75b702a82093"
+  },
+  {
     "Name": "Alt Tab Mute",
     "Version": "2.0.0",
     "Author": "Dom Gintoki",
@@ -21,6 +33,7 @@
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
+      "3.1.0",
       "3.0.0",
       "2.11.0"
     ],
@@ -37,6 +50,7 @@
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.1.0",
       "3.0.0",
       "2.11.0"
     ],
@@ -53,6 +67,7 @@
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
+      "3.1.0",
       "3.0.0",
       "2.11.0"
     ],
@@ -84,6 +99,7 @@
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.1.0",
       "3.0.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
@@ -101,6 +117,7 @@
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
+      "3.1.0",
       "3.0.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
@@ -131,6 +148,7 @@
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.1.0",
       "3.0.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
@@ -161,6 +179,7 @@
     "DownloadLink": "Mods/FeverEffectDisable.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.1.0",
       "3.0.0",
       "2.11.0"
     ],
@@ -177,6 +196,7 @@
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.1.0",
       "3.0.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
@@ -234,7 +254,7 @@
   },
   {
     "Name": "MuseDashModTools",
-    "Version": "1.1.2",
+    "Version": "1.1.3",
     "Author": "lxy & \"B\u00e1lint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
@@ -245,7 +265,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "fbef881337254dc20ea9d6a74a637fa4faeb31678f11b1885b5585c86bf11c31"
+    "SHA256": "810b7243cb3385fedc50c685a16bf7a1b62d7194cd1bf6f007b5486951525a19"
   },
   {
     "Name": "NoAutoPause",
@@ -269,6 +289,7 @@
     "DownloadLink": "Mods/QuickRestart.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.1.0",
       "3.0.0",
       "2.11.0"
     ],
@@ -330,6 +351,7 @@
     "DownloadLink": "Mods/SongDesc.dll",
     "HomePage": "https://github.com/MDModsDev/SongDesc",
     "GameVersion": [
+      "3.1.0",
       "3.0.0",
       "2.11.0"
     ],
@@ -391,6 +413,7 @@
     "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
     "GameVersion": [
+      "3.1.0",
       "3.0.0"
     ],
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
