@@ -38,8 +38,7 @@
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
       "3.1.0",
-      "3.0.0",
-      "2.11.0"
+      "3.0.0"
     ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
@@ -56,7 +55,6 @@
     "GameVersion": [
       "3.1.0",
       "3.0.0",
-      "2.11.0"
     ],
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
@@ -72,8 +70,7 @@
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
       "3.1.0",
-      "3.0.0",
-      "2.11.0"
+      "3.0.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -185,7 +182,6 @@
     "GameVersion": [
       "3.1.0",
       "3.0.0",
-      "2.11.0"
     ],
     "Description": "Disables the fever background effect (duh.)",
     "DependentMods": [],
@@ -295,7 +291,6 @@
     "GameVersion": [
       "3.1.0",
       "3.0.0",
-      "2.11.0"
     ],
     "Description": "Allows you to use Delete to instantly leave a chart\n&\nAllows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
@@ -357,7 +352,6 @@
     "GameVersion": [
       "3.1.0",
       "3.0.0",
-      "2.11.0"
     ],
     "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
     "DependentMods": [],
