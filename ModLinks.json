@@ -3,7 +3,7 @@
     "Name": "Accuracy Indicator",
     "Version": "1.3.1",
     "Author": "Azn9",
-    "DownloadLink": "AccuracyIndicator.dll",
+    "DownloadLink": "Mods/AccuracyIndicator.dll",
     "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
     "GameVersion": [
       "3.1.0",
@@ -15,7 +15,7 @@
     "Name": "Alt Tab Mute",
     "Version": "2.0.0",
     "Author": "Dom Gintoki",
-    "DownloadLink": "AltTabMute.dll",
+    "DownloadLink": "Mods/AltTabMute.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
@@ -30,7 +30,7 @@
     "Name": "BestCombinationSuggest",
     "Version": "0.4.0",
     "Author": "brooke_zb",
-    "DownloadLink": "BestCombinationSuggest.dll",
+    "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
       "3.1.0",
@@ -47,7 +47,7 @@
     "Name": "CharacterRandomizer",
     "Version": "1.1.3",
     "Author": "lxy",
-    "DownloadLink": "CharacterRandomizer.dll",
+    "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
     "GameVersion": [
       "3.1.0",
@@ -64,7 +64,7 @@
     "Name": "CharacterScoreboard",
     "Version": "1.2.3",
     "Author": "Creepler13",
-    "DownloadLink": "CharacterScoreboard.dll",
+    "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
       "3.1.0",
@@ -81,7 +81,7 @@
     "Name": "ChineseMode",
     "Version": "1.0.0",
     "Author": "RobotLucca",
-    "DownloadLink": "ChineseMode.dll",
+    "DownloadLink": "Mods/ChineseMode.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
@@ -96,7 +96,7 @@
     "Name": "Cinema",
     "Version": "1.1.3",
     "Author": "AshtonMemer",
-    "DownloadLink": "Cinema.dll",
+    "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "",
     "GameVersion": [
       "3.1.0",
@@ -104,7 +104,7 @@
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
-      "CustomAlbums.dll"
+      "Mods/CustomAlbums.dll"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -114,7 +114,7 @@
     "Name": "CustomAlbums",
     "Version": "3.4.1",
     "Author": "Mo10 & RobotLucca",
-    "DownloadLink": "CustomAlbums.dll",
+    "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
       "3.1.0",
@@ -130,7 +130,7 @@
     "Name": "CustomLoadingScreens",
     "Version": "1.1.0",
     "Author": "Creepler13",
-    "DownloadLink": "CustomLoadingScreens.dll",
+    "DownloadLink": "Mods/CustomLoadingScreens.dll",
     "HomePage": "https://github.com/Creepler13/CustomLoadingScreens",
     "GameVersion": [
       "*"
@@ -145,7 +145,7 @@
     "Name": "FavGirl",
     "Version": "2.3.3",
     "Author": "RobotLucca",
-    "DownloadLink": "FavGirl.dll",
+    "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "GameVersion": [
       "3.1.0",
@@ -161,7 +161,7 @@
     "Name": "FC AP indicator",
     "Version": "1.5.0",
     "Author": "lxy",
-    "DownloadLink": "FC AP.dll",
+    "DownloadLink": "Mods/FC AP.dll",
     "HomePage": "https://github.com/MDModsDev/FC-AP-Indicator",
     "GameVersion": [
       "*"
@@ -176,7 +176,7 @@
     "Name": "FeverEffectDisable",
     "Version": "1.0.0",
     "Author": "lxy",
-    "DownloadLink": "FeverEffectDisable.dll",
+    "DownloadLink": "Mods/FeverEffectDisable.dll",
     "HomePage": "",
     "GameVersion": [
       "3.1.0",
@@ -193,7 +193,7 @@
     "Name": "Headquarters",
     "Version": "3.1.2",
     "Author": "AshtonMemer",
-    "DownloadLink": "Headquarters.dll",
+    "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
     "GameVersion": [
       "3.1.0",
@@ -201,7 +201,7 @@
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
-      "CustomAlbums.dll"
+      "Mods/CustomAlbums.dll"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -211,7 +211,7 @@
     "Name": "HiddenQoL",
     "Version": "1.0.1",
     "Author": "RobotLucca",
-    "DownloadLink": "HiddenQoL.dll",
+    "DownloadLink": "Mods/HiddenQoL.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
@@ -226,7 +226,7 @@
     "Name": "IntroSkip",
     "Version": "2.0.0",
     "Author": "RobotLucca",
-    "DownloadLink": "IntroSkip.dll",
+    "DownloadLink": "Mods/IntroSkip.dll",
     "HomePage": "",
     "GameVersion": [
       "2.10.0"
@@ -241,7 +241,7 @@
     "Name": "MDRPC",
     "Version": "0.0.8",
     "Author": "Brasileiro",
-    "DownloadLink": "MDRPC.dll",
+    "DownloadLink": "Mods/MDRPC.dll",
     "HomePage": "https://github.com/Braasileiro/MDRPC",
     "GameVersion": [
       "2.10.0"
@@ -256,7 +256,7 @@
     "Name": "MuseDashModTools",
     "Version": "1.1.3",
     "Author": "lxy & \"Bálint\" as balls",
-    "DownloadLink": "MuseDashModTools.dll",
+    "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
     "GameVersion": [
       "*"
@@ -271,7 +271,7 @@
     "Name": "NoAutoPause",
     "Version": "2.0.0",
     "Author": "AshtonMemer",
-    "DownloadLink": "NoAutoPause.dll",
+    "DownloadLink": "Mods/NoAutoPause.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
@@ -286,7 +286,7 @@
     "Name": "QuickRestart",
     "Version": "2.1.0",
     "Author": "AshtonMemer",
-    "DownloadLink": "QuickRestart.dll",
+    "DownloadLink": "Mods/QuickRestart.dll",
     "HomePage": "",
     "GameVersion": [
       "3.1.0",
@@ -303,7 +303,7 @@
     "Name": "QuickSwitchCombination",
     "Version": "2.1.2",
     "Author": "lxy",
-    "DownloadLink": "QuickSwitchCombination.dll",
+    "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDModsDev/QuickSwitchCombination",
     "GameVersion": [
       "*"
@@ -318,7 +318,7 @@
     "Name": "SceneEggs",
     "Version": "1.1.0",
     "Author": "RobotLucca",
-    "DownloadLink": "SceneEggs.dll",
+    "DownloadLink": "Mods/SceneEggs.dll",
     "HomePage": "",
     "GameVersion": [
       "2.11.0"
@@ -333,7 +333,7 @@
     "Name": "ScrollSpeed",
     "Version": "1.0.0",
     "Author": "RobotLucca",
-    "DownloadLink": "ScrollSpeed.dll",
+    "DownloadLink": "Mods/ScrollSpeed.dll",
     "HomePage": "",
     "GameVersion": [
       "2.10.0"
@@ -348,7 +348,7 @@
     "Name": "Song Desc",
     "Version": "1.0.8",
     "Author": "lxy",
-    "DownloadLink": "SongDesc.dll",
+    "DownloadLink": "Mods/SongDesc.dll",
     "HomePage": "https://github.com/MDModsDev/SongDesc",
     "GameVersion": [
       "3.1.0",
@@ -365,7 +365,7 @@
     "Name": "UI Disable",
     "Version": "1.0.1",
     "Author": "lxy",
-    "DownloadLink": "UIDisable.dll",
+    "DownloadLink": "Mods/UIDisable.dll",
     "HomePage": "https://github.com/MDModsDev/UIDisable",
     "GameVersion": [
       "*"
@@ -380,7 +380,7 @@
     "Name": "UltraInstinctSleepwalking",
     "Version": "2.0.0",
     "Author": "RobotLucca",
-    "DownloadLink": "UltraInstinctSleepwalking.dll",
+    "DownloadLink": "Mods/UltraInstinctSleepwalking.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
@@ -395,7 +395,7 @@
     "Name": "UnlockAll2",
     "Version": "1.0.0",
     "Author": "RobotLucca",
-    "DownloadLink": "UnlockAll2.dll",
+    "DownloadLink": "Mods/UnlockAll2.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
@@ -410,7 +410,7 @@
     "Name": "VictoryScreenSwitcher",
     "Version": "1.1.1",
     "Author": "Ultra_Rabbit",
-    "DownloadLink": "VictoryScreenSwitcher.dll",
+    "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
     "GameVersion": [
       "3.1.0",
