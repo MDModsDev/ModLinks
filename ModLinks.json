@@ -104,7 +104,7 @@
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
-      "Mods/CustomAlbums.dll"
+      "CustomAlbums"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -201,7 +201,7 @@
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
-      "Mods/CustomAlbums.dll"
+      "CustomAlbums"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
