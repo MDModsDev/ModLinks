@@ -121,7 +121,7 @@
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
-      "Mods/CustomAlbums.dll"
+      "CustomAlbums"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -185,7 +185,7 @@
     ],
     "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
     "DependentMods": [
-      "Mods/MuseDashMirror.dll"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -219,7 +219,7 @@
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
-      "Mods/CustomAlbums.dll"
+      "CustomAlbums"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -403,7 +403,7 @@
     ],
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
     "DependentMods": [
-      "Mods/MuseDashMirror.dll"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -451,7 +451,7 @@
     ],
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
     "DependentMods": [
-      "Mods/MuseDashMirror.dll"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
