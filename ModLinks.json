@@ -266,7 +266,7 @@
     "DownloadLink": "Mods/QuickRestart.dll",
     "HomePage": "",
     "GameVersion": ["3.1.0", "3.0.0"],
-    "Description": "Allows you to use Delete to instantly leave a chart \n Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
+    "Description": "Allows you to use Delete to instantly leave a chart & Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
