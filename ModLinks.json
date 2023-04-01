@@ -5,7 +5,10 @@
     "Author": "Azn9",
     "DownloadLink": "Mods/AccuracyIndicator.dll",
     "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Adds a more exact accuracy indicator on the bottom of the screen.\nAlso displays average accuracy in milliseconds at the end of the level.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -18,7 +21,9 @@
     "Author": "Dom Gintoki",
     "DownloadLink": "Mods/AltTabMute.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Mutes the game when it's not focused.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -31,7 +36,10 @@
     "Author": "brooke_zb",
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -44,7 +52,10 @@
     "Author": "lxy",
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -57,7 +68,10 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
     "DependentLibs": [],
@@ -70,7 +84,10 @@
     "Author": "lxy",
     "DownloadLink": "Mods/ChartReview.dll",
     "HomePage": "https://github.com/MDModsDev/ChartReview",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -83,7 +100,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ChineseMode.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Censores certain aspects of the game. (Characters, illustrations, etc)",
     "DependentMods": [],
     "DependentLibs": [],
@@ -96,9 +115,14 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
-    "DependentMods": ["CustomAlbums"],
+    "DependentMods": [
+      "CustomAlbums"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "ac48f627d97d5de86981af4af8d423b3d4464db265cc3259e2189eee90029df6"
@@ -109,7 +133,10 @@
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -122,7 +149,9 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/CustomLoadingScreens.dll",
     "HomePage": "https://github.com/Creepler13/CustomLoadingScreens",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Allows you to add custom loading screens (CustomLoadingScreens folder)\nAlso allows you to add custom loading screen messages (UserData/CustomLoadingScreens.cfg)\nMessages can be paired with an image, or be left as random.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -135,7 +164,10 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -148,9 +180,13 @@
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
     "HomePage": "https://github.com/MDModsDev/FC-AP-Indicator",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
-    "DependentMods": ["Muse Dash Mirror"],
+    "DependentMods": [
+      "Muse Dash Mirror"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "d9db1447a681ac12798f0b6f7bd365c0af11b430296e6435c5e56e0352d89d80"
@@ -161,7 +197,9 @@
     "Author": "lxy",
     "DownloadLink": "Mods/FeverEffectDisable.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Disables the fever background effect (duh.)",
     "DependentMods": [],
     "DependentLibs": [],
@@ -174,9 +212,14 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
-    "DependentMods": ["CustomAlbums"],
+    "DependentMods": [
+      "CustomAlbums"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "2016b7af8ba2abc48e5339eb3ae99a6926c6bc5d1975cbeda6a338c37f9750cc"
@@ -187,7 +230,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/HiddenQoL.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
     "DependentMods": [],
     "DependentLibs": [],
@@ -200,7 +245,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/IntroSkip.dll",
     "HomePage": "",
-    "GameVersion": ["2.10.0"],
+    "GameVersion": [
+      "2.10.0"
+    ],
     "Description": "Skips the \"PeroPero HasuHasu\" and the opening scene.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -213,7 +260,9 @@
     "Author": "Brasileiro",
     "DownloadLink": "Mods/MDRPC.dll",
     "HomePage": "https://github.com/Braasileiro/MDRPC",
-    "GameVersion": ["2.10.0"],
+    "GameVersion": [
+      "2.10.0"
+    ],
     "Description": "Muse Dash Rich Presence, which is exactly what it says it is.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -226,7 +275,9 @@
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashMirror",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "A library that makes it easier to access PlayerData, BattleComponents info and create UI elements.\nThis mod does nothing by itself.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -235,16 +286,18 @@
   },
   {
     "Name": "MuseDashModTools",
-    "Version": "1.1.3",
+    "Version": "1.1.4",
     "Author": "lxy & \"Bálint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Automatically detects and logs available mod updates.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "810b7243cb3385fedc50c685a16bf7a1b62d7194cd1bf6f007b5486951525a19"
+    "SHA256": "a24b80155f453ef044d8e2529ca8d48fd3fcf06cf53b5680f2228fc0daf0f9a5"
   },
   {
     "Name": "NoAutoPause",
@@ -252,7 +305,9 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/NoAutoPause.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Prevents the game from automatically pausing when the game loses focus.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -265,7 +320,9 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Allows you to use Delete to instantly leave a chart & Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -278,7 +335,9 @@
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDModsDev/QuickSwitchCombination",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds",
     "DependentMods": [],
     "DependentLibs": [],
@@ -291,7 +350,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/SceneEggs.dll",
     "HomePage": "",
-    "GameVersion": ["2.11.0"],
+    "GameVersion": [
+      "2.11.0"
+    ],
     "Description": "Makes it possible for customs to use certain background decorations that the default charts use.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -304,7 +365,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ScrollSpeed.dll",
     "HomePage": "",
-    "GameVersion": ["2.10.0"],
+    "GameVersion": [
+      "2.10.0"
+    ],
     "Description": "Allows charters (not players) to set custom scroll speeds.\nIt's completely up to you whether you wanna use this, most charters don't use it though.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -317,7 +380,9 @@
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
     "HomePage": "https://github.com/MDModsDev/SongDesc",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -330,9 +395,13 @@
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
     "HomePage": "https://github.com/MDModsDev/UIDisable",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
-    "DependentMods": ["Muse Dash Mirror"],
+    "DependentMods": [
+      "Muse Dash Mirror"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "f69828b51ba02ac61653d8f6956b195d278fe260a83965cb740dd39e656a4f88"
@@ -343,7 +412,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UltraInstinctSleepwalking.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "Makes Sleepwalker Rin do mashers at max speed instead of the normal slow speed.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -356,7 +427,9 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UnlockAll2.dll",
     "HomePage": "",
-    "GameVersion": ["*"],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "An alternative to UnlockAll.\nMaster's stay unlocked only for as long as the mod is installed.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -369,9 +442,14 @@
     "Author": "Ultra_Rabbit",
     "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
-    "GameVersion": ["3.2.0", "3.1.0"],
+    "GameVersion": [
+      "3.2.0",
+      "3.1.0"
+    ],
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
-    "DependentMods": ["Muse Dash Mirror"],
+    "DependentMods": [
+      "Muse Dash Mirror"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "e06cfa3b6d017fcc71f3266d506d7bb7343a64a3ad60243748b78305db3912c4"
