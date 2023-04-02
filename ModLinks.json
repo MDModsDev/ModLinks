@@ -271,7 +271,7 @@
   },
   {
     "Name": "ModManager",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "Creepler13",
     "DownloadLink": "Mods/ModManager.dll",
     "HomePage": "https://github.com/Creepler13/ModManagerMod",
@@ -283,7 +283,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "9ebc1febabe978463bc02890927b759973304a88dc64377e068f31e2dc5abaf1"
+    "SHA256": "c5ff14b90e0a1642ed4f9ce75518850ee816d906f6fc2ba9b5bb521efaa2bfa0"
   },
   {
     "Name": "Muse Dash Mirror",
