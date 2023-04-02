@@ -160,7 +160,7 @@
   },
   {
     "Name": "FavGirl",
-    "Version": "2.3.3",
+    "Version": "2.3.4",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
@@ -172,7 +172,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "c1eb4f4b8c41cb836e80a7a3f9b5a7357360bc34636eee881298a8226373562e"
+    "SHA256": "153988b0d651034aa2555c6d334eee7eb789eee9341d04bbedc5df4991eeda27"
   },
   {
     "Name": "FC AP indicator",
@@ -268,6 +268,22 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
+  },
+  {
+    "Name": "ModManager",
+    "Version": "1.0.0",
+    "Author": "Creepler13",
+    "DownloadLink": "Mods/ModManager.dll",
+    "HomePage": "https://github.com/Creepler13/ModManagerMod",
+    "GameVersion": [
+      "3.1.0",
+      "3.2.0"
+    ],
+    "Description": "Allows you to disable & delete mods while in-game.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "9ebc1febabe978463bc02890927b759973304a88dc64377e068f31e2dc5abaf1"
   },
   {
     "Name": "Muse Dash Mirror",
