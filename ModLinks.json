@@ -144,6 +144,21 @@
     "SHA256": "4ff592fa735d4d7bd010d0addf311bfe6b41345cdef6206d9d4144216dbb2717"
   },
   {
+    "Name": "CustomBGBrightness",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "Mods/CustomBGBrightness.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to adjust background brightness lower than 40%",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "327aa8719797b673d268c0eef5d9f868ecc66f69b91603c60fb4bd5be76a765f"
+  },
+  {
     "Name": "CustomLoadingScreens",
     "Version": "1.1.0",
     "Author": "Creepler13",
