@@ -31,6 +31,21 @@
     "SHA256": "8b96855a511b466a22a08e0d6ec319bc784153ebb2596e0f00dd25259ac3925b"
   },
   {
+    "Name": "AlwaysAprilFool",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "Mods/AlwaysAprilFool.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Boss always shoot pigeon and tutorial is always april fool's",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "77d54ce950f182ee011a902f13b573d3760371e2be490142b6c7f450534b5e3d"
+  },
+  {
     "Name": "BestCombinationSuggest",
     "Version": "0.4.0",
     "Author": "brooke_zb",
