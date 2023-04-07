@@ -63,7 +63,7 @@
   },
   {
     "Name": "BPMDisplay",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Author": "lxy",
     "DownloadLink": "Mods/BPMDisplay.dll",
     "HomePage": "",
@@ -71,12 +71,10 @@
       "*"
     ],
     "Description": "A mod which displays the BPM info above level designer on preparation screen",
-    "DependentMods": [
-      "Muse Dash Mirror"
-    ],
+    "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "714af053d0734ad6e517c2481caa47838d84f1600de7ac050c7247e245a80619"
+    "SHA256": "7f6af65122a7edc2cc0c139a181011e6fc8177f73462cc92f9f507409f0d8075"
   },
   {
     "Name": "CharacterRandomizer",
