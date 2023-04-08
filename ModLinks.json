@@ -39,11 +39,26 @@
     "GameVersion": [
       "*"
     ],
-    "Description": "Boss always shoot pigeon and tutorial is always april fool's",
+    "Description": "Boss always shoot pigeon and tutorial is always april fool's, activate good tek hidden",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "77d54ce950f182ee011a902f13b573d3760371e2be490142b6c7f450534b5e3d"
+  },
+  {
+    "Name": "AlwaysPigeons",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "Mods/AlwaysPigeons.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "3.2.0"
+    ],
+    "Description": "Boss always shoot pigeon, do not use AlwaysAprilFool at the same time",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "1b11bc4ea68f62812cf4fec1659e3ce1d4325bfa9873afa5e1e13c7be0e95c82"
   },
   {
     "Name": "BestCombinationSuggest",
@@ -449,6 +464,21 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "b622d36ed0b3da0e93d49a3086f474089b39568bd456f0efb39937c654f60628"
+  },
+  {
+    "Name": "StricterJudge",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "Mods/StricterJudge.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "3.2.0"
+    ],
+    "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "41b01b20216b6bdc47a61b6803b3cda7058565bd9448d6ef18400eaa4f80f0f6"
   },
   {
     "Name": "UI Disable",
