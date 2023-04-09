@@ -467,7 +467,7 @@
   },
   {
     "Name": "StricterJudge",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Author": "lxy",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
@@ -478,7 +478,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "ee855234cc544e945b878107708b054c597bb99ce1032f13745a6a26921b3de8"
+    "SHA256": "bdc7328eee2f6cee64a156ba1af78ad0443d0a4773e00f31e8b5d566798824c7"
   },
   {
     "Name": "UI Disable",
