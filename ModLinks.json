@@ -78,7 +78,7 @@
   },
   {
     "Name": "BPMDisplay",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Author": "lxy",
     "DownloadLink": "Mods/BPMDisplay.dll",
     "HomePage": "",
@@ -89,7 +89,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "7f6af65122a7edc2cc0c139a181011e6fc8177f73462cc92f9f507409f0d8075"
+    "SHA256": "b771aac3da91ed39567ccd96e458d51b68b0f76ab22cb5644860d868e7f79f22"
   },
   {
     "Name": "CharacterRandomizer",
