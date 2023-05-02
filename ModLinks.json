@@ -528,7 +528,7 @@
   },
   {
     "Name": "VictoryScreenSwitcher",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Author": "Ultra_Rabbit",
     "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
@@ -541,6 +541,6 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "f8c794cfe52ca0f7e4c8a4af5099449c197613627a63896d9c8048654ff98360"
+    "SHA256": "89909c2d54c838253679f56986eff2b00f2c122ad5dff9eea856bfc2f552c6f1"
   }
 ]
