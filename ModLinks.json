@@ -203,6 +203,21 @@
     "SHA256": "327aa8719797b673d268c0eef5d9f868ecc66f69b91603c60fb4bd5be76a765f"
   },
   {
+    "Name": "CustomHitSound",
+    "Version": "1.0.2",
+    "Author": "lxy",
+    "DownloadLink": "Mods/CustomHitSound.dll",
+    "HomePage": "https://github.com/MDModsDev/CustomHitSound",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to make custom hit sound. Detailed instructions on github readme",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "48d1ce16e18c4cb8d5b2d7c4bf2502c4924f7e92e21ee0d286fc54a6bdd693f1"
+  },
+  {
     "Name": "CustomLoadingScreens",
     "Version": "1.1.0",
     "Author": "Creepler13",
