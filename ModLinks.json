@@ -45,6 +45,21 @@
     "SHA256": "77d54ce950f182ee011a902f13b573d3760371e2be490142b6c7f450534b5e3d"
   },
   {
+    "Name": "AlwaysBadApple",
+    "Version": "1.0.1",
+    "Author": "lxy",
+    "DownloadLink": "Mods/AlwaysBadApple.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A mod which changes the background and character etc into black and white in tohou scene",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "127e6f31185a418bc70bdcea0e8e99ad5e73445e7869538288bd226d803d9570"
+  },
+  {
     "Name": "AlwaysPigeons",
     "Version": "1.0.0",
     "Author": "lxy",
