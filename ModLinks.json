@@ -436,7 +436,7 @@
   },
   {
     "Name": "QuickSwitchCombination",
-    "Version": "2.1.2",
+    "Version": "2.1.4",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDModsDev/QuickSwitchCombination",
@@ -447,7 +447,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "991d6fad7e42a9184aff5b487605731fae0124cddd0f54fe027392f393860915"
+    "SHA256": "82856fc151894c3c1d420b602126e1c1fcf9dd71bfdb4ebe193d1b28939b5bae"
   },
   {
     "Name": "SceneEggs",
