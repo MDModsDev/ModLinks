@@ -265,7 +265,7 @@
   },
   {
     "Name": "FC AP indicator",
-    "Version": "1.6.0",
+    "Version": "1.7.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
     "HomePage": "https://github.com/MDModsDev/FC-AP-Indicator",
@@ -278,7 +278,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "d9db1447a681ac12798f0b6f7bd365c0af11b430296e6435c5e56e0352d89d80"
+    "SHA256": "37715f594b10d853428a6bb2454b2846be6332752146d698804c5072cafa1508"
   },
   {
     "Name": "FeverEffectDisable",
@@ -376,7 +376,7 @@
   },
   {
     "Name": "Muse Dash Mirror",
-    "Version": "1.1.5",
+    "Version": "1.1.6",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashMirror",
@@ -387,7 +387,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "be967de95de16b9567cd281bd9049b403b8c176ae446d115029a6a9eb09c3967"
+    "SHA256": "da4767ca5b56ab298d0bc34cab404fb4f3de4bbdbe00d761f968cad1936745d3"
   },
   {
     "Name": "MuseDashModTools",
