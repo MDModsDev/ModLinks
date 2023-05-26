@@ -66,6 +66,7 @@
     "DownloadLink": "Mods/AlwaysPigeons.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.4.0",
       "3.3.0"
     ],
     "Description": "Boss always shoot pigeon, do not use AlwaysAprilFool at the same time",
@@ -81,8 +82,8 @@
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
@@ -112,8 +113,8 @@
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
@@ -128,8 +129,8 @@
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.4.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -144,8 +145,8 @@
     "DownloadLink": "Mods/ChartReview.dll",
     "HomePage": "https://github.com/MDModsDev/ChartReview",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
     "DependentMods": [],
@@ -175,8 +176,8 @@
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -193,8 +194,8 @@
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
@@ -254,8 +255,8 @@
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
@@ -302,8 +303,8 @@
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
@@ -365,8 +366,8 @@
     "DownloadLink": "Mods/ModManager.dll",
     "HomePage": "https://github.com/Creepler13/ModManagerMod",
     "GameVersion": [
-      "3.3.0",
-      "3.2.0"
+      "3.4.0",
+      "3.3.0"
     ],
     "Description": "Allows you to disable & delete mods while in-game.",
     "DependentMods": [],
@@ -501,6 +502,7 @@
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.4.0",
       "3.3.0"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
