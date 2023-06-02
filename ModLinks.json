@@ -143,7 +143,7 @@
     "Version": "1.1.1",
     "Author": "lxy",
     "DownloadLink": "Mods/ChartReview.dll",
-    "HomePage": "https://github.com/MDModsDev/ChartReview",
+    "HomePage": "https://github.com/MDMods/ChartReview",
     "GameVersion": [
       "3.4.0",
       "3.3.0"
@@ -223,7 +223,7 @@
     "Version": "1.0.4",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
-    "HomePage": "https://github.com/MDModsDev/CustomHitSound",
+    "HomePage": "https://github.com/MDMods/CustomHitSound",
     "GameVersion": [
       "*"
     ],
@@ -269,7 +269,7 @@
     "Version": "1.7.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
-    "HomePage": "https://github.com/MDModsDev/FC-AP-Indicator",
+    "HomePage": "https://github.com/MDMods/FC-AP-Indicator",
     "GameVersion": [
       "*"
     ],
@@ -380,7 +380,7 @@
     "Version": "1.1.6",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
-    "HomePage": "https://github.com/MDModsDev/MuseDashMirror",
+    "HomePage": "https://github.com/MDMods/MuseDashMirror",
     "GameVersion": [
       "*"
     ],
@@ -440,7 +440,7 @@
     "Version": "2.1.4",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
-    "HomePage": "https://github.com/MDModsDev/QuickSwitchCombination",
+    "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
     "GameVersion": [
       "*"
     ],
@@ -485,7 +485,7 @@
     "Version": "1.0.8",
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
-    "HomePage": "https://github.com/MDModsDev/SongDesc",
+    "HomePage": "https://github.com/MDMods/SongDesc",
     "GameVersion": [
       "*"
     ],
@@ -516,7 +516,7 @@
     "Version": "1.1.0",
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
-    "HomePage": "https://github.com/MDModsDev/UIDisable",
+    "HomePage": "https://github.com/MDMods/UIDisable",
     "GameVersion": [
       "*"
     ],
