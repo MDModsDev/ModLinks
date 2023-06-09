@@ -140,7 +140,7 @@
   },
   {
     "Name": "ChartReview",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Author": "lxy",
     "DownloadLink": "Mods/ChartReview.dll",
     "HomePage": "https://github.com/MDMods/ChartReview",
@@ -152,7 +152,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "0527a9445f97751e9467724f27f59b633f368ce09a0de6b27c4ddd2adf4ce291"
+    "SHA256": "ac1684623e464ac27f2bf7a4d14e2b0ff88d4a25a70f5f28c52e6c58aeb7b190"
   },
   {
     "Name": "ChineseMode",
@@ -377,7 +377,7 @@
   },
   {
     "Name": "Muse Dash Mirror",
-    "Version": "1.1.6",
+    "Version": "1.1.7",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
@@ -388,7 +388,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "da4767ca5b56ab298d0bc34cab404fb4f3de4bbdbe00d761f968cad1936745d3"
+    "SHA256": "134d21eaa48d41f3faf6b5f1b32a7bb63cb25c7727871705be6cb54e443aaf65"
   },
   {
     "Name": "MuseDashModTools",
