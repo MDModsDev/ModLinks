@@ -15,6 +15,21 @@
     "SHA256": "eef12a4ba088d15e4bdfc38c301d6121fa3bcc215e5c85dd8ddb75b702a82093"
   },
   {
+    "Name": "AccuracyDisplay",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/AccuracyDisplay.dll",
+    "HomePage": "https://github.com/Balint817/AccuracyDisplay",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A live accuracy display for your viewing pleasure.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "d61eb058d2dd9989d425fd9847f04f0fab44bb6c8cd5f20aacf54e7774ec6eb3"
+  },
+  {
     "Name": "Alt Tab Mute",
     "Version": "2.0.0",
     "Author": "Dom Gintoki",
@@ -137,6 +152,23 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "1dc5f0a7985a0cefd0728ccc65c8fc14b9ddf351811fce817dd17c52b6542db2"
+  },
+  {
+    "Name": "ChartDeleter",
+    "Version": "1.2.1",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/ChartDeleter.dll",
+    "HomePage": "https://github.com/Balint817/ChartDeleter",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to queue charts to be deleted or moved when you exit the game.",
+    "DependentMods": [
+      "PopupLib"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "ca4c43e3ee2b0b9ef7f581c40e5365792bcd4256c469e822ccbd34b4f0794ebe"
   },
   {
     "Name": "ChartReview",
@@ -420,6 +452,36 @@
     "SHA256": "545a089ea8aaf28c04fb98fc1243d913385552648f597e09bceb8d6eec6918f9"
   },
   {
+    "Name": "PopupLib",
+    "Version": "1.4.3",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/PopupLib.dll",
+    "HomePage": "https://github.com/Balint817/PopupLib",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A window manager library for other mods.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "adafc7fabcdd2d4817d30f01eabf6062be4ef74940156dcda128ea9645a14f4f"
+  },
+  {
+    "Name": "PreventLowAcc",
+    "Version": "1.0.1",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/PreventLowAcc.dll",
+    "HomePage": "https://github.com/Balint817/PreventLowAcc",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A mod that that allows let's you prevent a score from uploading,\nand still be able to take a screenshot.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "a19749ff7eb44b3032f4046b9d516f4b15ee9b4353ba1c46b25cadef08e61f37"
+  },
+  {
     "Name": "QuickRestart",
     "Version": "2.1.0",
     "Author": "AshtonMemer",
@@ -480,6 +542,23 @@
     "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
   },
   {
+    "Name": "SearchPlusPlus",
+    "Version": "4.3.2",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/SearchPlusPlus.dll",
+    "HomePage": "https://github.com/Balint817/SearchPlusPlus",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
+    "DependentMods": [
+      "PopupLib"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "935dc244c13d808cebb55826c2b7fbd1f10e59fb453f32916e51c3d017c7ca26"
+  },
+  {
     "Name": "Song Desc",
     "Version": "1.0.8",
     "Author": "lxy",
@@ -493,6 +572,24 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "b622d36ed0b3da0e93d49a3086f474089b39568bd456f0efb39937c654f60628"
+  },
+  {
+    "Name": "SPPFolderTag",
+    "Version": "1.2.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/SPPFolderTag.dll",
+    "HomePage": "https://github.com/Balint817/SPPFolderTag",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
+    "DependentMods": [
+      "PopupLib",
+      "SearchPlusPlus"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "70660f8a956541a9f7f527cc679c5efb2fb8a3fa1823345105b9bcdd40225a6b"
   },
   {
     "Name": "StricterJudge",
