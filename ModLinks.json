@@ -527,6 +527,21 @@
     "SHA256": "afe1f40fd11081ac0f36f14c7372bd31b06d6fd8b0a2dcd78f7cef43e1f79e76"
   },
   {
+    "Name": "Scoreboard characters and elfins",
+    "Version": "1.2.0",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/ScoreboardCharacters.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "GameVersion": [
+      "3.5.0"
+    ],
+    "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "5fa17d04592fa2b03aa3109f265c67f6d400e53cc896a2121f8d3f6a738165f4"
+  },
+  {
     "Name": "ScrollSpeed",
     "Version": "1.0.0",
     "Author": "RobotLucca",
@@ -606,6 +621,21 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "bdc7328eee2f6cee64a156ba1af78ad0443d0a4773e00f31e8b5d566798824c7"
+  },
+  {
+    "Name": "True rank for 999+",
+    "Version": "1.0.1",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/TrueAbove1kRank.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Displays actual ranking instead of \"999+\" for ranks 1000 to 2000",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "023dc624b55dde3fd7f883f17db510f182aea30bf57a7f2d1cb58d207619d279"
   },
   {
     "Name": "UI Disable",
