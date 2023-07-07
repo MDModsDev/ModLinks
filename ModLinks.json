@@ -605,6 +605,7 @@
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [
       "PopupLib",
+      "LocalizeLib",
       "KeybindManager",
       "CustomAlbums"
     ],
@@ -641,7 +642,8 @@
       "PopupLib",
       "SearchPlusPlus",
       "LocalizeLib",
-      "KeybindManager"
+      "KeybindManager",
+      "CustomAlbums"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
