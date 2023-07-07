@@ -155,20 +155,23 @@
   },
   {
     "Name": "ChartDeleter",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Author": "PBalint817",
     "DownloadLink": "Mods/ChartDeleter.dll",
     "HomePage": "https://github.com/Balint817/ChartDeleter",
     "GameVersion": [
       "*"
     ],
-    "Description": "Allows you to queue charts to be deleted or moved when you exit the game.",
+    "Description": "Allows you to queue custom charts to be deleted or moved when you exit the game.",
     "DependentMods": [
-      "PopupLib"
+      "PopupLib",
+      "KeybindManager",
+      "LocalizeLib",
+      "CustomAlbums"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "ca4c43e3ee2b0b9ef7f581c40e5365792bcd4256c469e822ccbd34b4f0794ebe"
+    "SHA256": "736b7ed815a73f0bd19f278b9452787eefefda6335f387e3e9d9baf1bcb8ec19"
   },
   {
     "Name": "ChartReview",
@@ -376,6 +379,36 @@
     "SHA256": "cc08cc3649a26cd75e2948a9cfc3c4f27431ad75dccc558b91ae8d77c4d91483"
   },
   {
+    "Name": "KeybindManager",
+    "Version": "1.2.1",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/KeybindManager.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to parse and listen to keybinds",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "e4e6d44a9a5c19f9eec9a85fc9b1fe1bfa6018ee06ee9ffe4e92cbe943c96c54"
+  },
+  {
+    "Name": "LocalizeLib",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/LocalizeLib.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to localize text",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "a25214a4b9af7a6ff5b74b04ee89b205e0c8986feee018c218ff45aa7a865941"
+  },
+  {
     "Name": "MDRPC",
     "Version": "0.0.8",
     "Author": "Brasileiro",
@@ -453,22 +486,24 @@
   },
   {
     "Name": "PopupLib",
-    "Version": "1.4.3",
+    "Version": "1.4.4",
     "Author": "PBalint817",
     "DownloadLink": "Mods/PopupLib.dll",
     "HomePage": "https://github.com/Balint817/PopupLib",
     "GameVersion": [
       "*"
     ],
-    "Description": "A window manager library for other mods.",
-    "DependentMods": [],
+    "Description": "A library for other mods to manage popups and windows",
+    "DependentMods": [
+      "LocalizeLib"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "adafc7fabcdd2d4817d30f01eabf6062be4ef74940156dcda128ea9645a14f4f"
+    "SHA256": "34c400fdd2fe33291e9d6c8bfa9aa6cb6593238cef738d4907ef0a93b5738af7"
   },
   {
     "Name": "PreventLowAcc",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Author": "PBalint817",
     "DownloadLink": "Mods/PreventLowAcc.dll",
     "HomePage": "https://github.com/Balint817/PreventLowAcc",
@@ -476,10 +511,12 @@
       "*"
     ],
     "Description": "A mod that that allows let's you prevent a score from uploading,\nand still be able to take a screenshot.",
-    "DependentMods": [],
+    "DependentMods": [
+      "KeybindManager"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "a19749ff7eb44b3032f4046b9d516f4b15ee9b4353ba1c46b25cadef08e61f37"
+    "SHA256": "9b44e6aafce1b6cdae19ef68239860558af7ea0b3ef844c9d9a221e5c573ae16"
   },
   {
     "Name": "QuickRestart",
@@ -558,7 +595,7 @@
   },
   {
     "Name": "SearchPlusPlus",
-    "Version": "4.3.2",
+    "Version": "4.3.4",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "https://github.com/Balint817/SearchPlusPlus",
@@ -567,11 +604,12 @@
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [
-      "PopupLib"
+      "PopupLib",
+      "KeybindManager"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "935dc244c13d808cebb55826c2b7fbd1f10e59fb453f32916e51c3d017c7ca26"
+    "SHA256": "5aea73a0532c7a08dcbf88c768128472e01c343fa1cf94997699e8e8ef9affb2"
   },
   {
     "Name": "Song Desc",
@@ -590,7 +628,7 @@
   },
   {
     "Name": "Search++ Folder Tag",
-    "Version": "1.2.0",
+    "Version": "1.2.2",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SPPFolderTag.dll",
     "HomePage": "https://github.com/Balint817/SPPFolderTag",
@@ -600,11 +638,13 @@
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
       "PopupLib",
-      "SearchPlusPlus"
+      "SearchPlusPlus",
+      "LocalizeLib",
+      "KeybindManager"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "70660f8a956541a9f7f527cc679c5efb2fb8a3fa1823345105b9bcdd40225a6b"
+    "SHA256": "7a9a8338eadc0ee4c20281ed8c0d67d24e8ecdab05869d46760a99c9186b71da"
   },
   {
     "Name": "StricterJudge",
