@@ -641,9 +641,7 @@
     "DependentMods": [
       "PopupLib",
       "SearchPlusPlus",
-      "LocalizeLib",
-      "KeybindManager",
-      "CustomAlbums"
+      "KeybindManager"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
