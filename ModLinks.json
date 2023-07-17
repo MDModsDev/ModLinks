@@ -182,7 +182,9 @@
       "*"
     ],
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
-    "DependentMods": [],
+    "DependentMods": [
+      "Muse Dash Mirror"
+    ],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "ac1684623e464ac27f2bf7a4d14e2b0ff88d4a25a70f5f28c52e6c58aeb7b190"
