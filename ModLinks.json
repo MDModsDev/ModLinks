@@ -335,8 +335,8 @@
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0",
+      "3.5.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
@@ -428,8 +428,8 @@
     "DownloadLink": "Mods/ModManager.dll",
     "HomePage": "https://github.com/Creepler13/ModManagerMod",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0",
+      "3.5.0"
     ],
     "Description": "Allows you to disable & delete mods while in-game.",
     "DependentMods": [],
@@ -598,7 +598,7 @@
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "https://github.com/Balint817/SearchPlusPlus",
     "GameVersion": [
-      "*"
+      "3.5.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [
@@ -632,7 +632,7 @@
     "DownloadLink": "Mods/SPPFolderTag.dll",
     "HomePage": "https://github.com/Balint817/SPPFolderTag",
     "GameVersion": [
-      "*"
+      "3.5.0"
     ],
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
