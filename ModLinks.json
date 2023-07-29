@@ -81,8 +81,7 @@
     "DownloadLink": "Mods/AlwaysPigeons.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "*"
     ],
     "Description": "Boss always shoot pigeon, do not use AlwaysAprilFool at the same time",
     "DependentMods": [],
@@ -97,8 +96,8 @@
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0",
+      "3.5.0"
     ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
@@ -128,8 +127,7 @@
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "*"
     ],
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
@@ -211,8 +209,8 @@
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0",
+      "3.5.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -229,8 +227,7 @@
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
@@ -290,8 +287,8 @@
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0",
+      "3.5.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
@@ -654,8 +651,8 @@
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.5.0",
-      "3.4.0"
+      "3.6.0",
+      "3.5.0"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
     "DependentMods": [],
