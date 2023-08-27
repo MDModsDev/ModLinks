@@ -168,7 +168,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "736b7ed815a73f0bd19f278b9452787eefefda6335f387e3e9d9baf1bcb8ec19"
+    "SHA256": "26de553b426fbbf4e1d2bc32a2a47c55f89734ad015f9f7aeb33f8eba15db96d"
   },
   {
     "Name": "ChartReview",
@@ -234,6 +234,23 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "7a1513b8ad379d66f717af24ca555e43beb5442fb4bfd3234dd1931ba3bd2782"
+  },
+  {
+    "Name": "CustomAnchorSupport",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/CustomAnchorSupport.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "3.7.0"
+    ],
+    "Description": "Allows you to use add the streamer tag in your info.json to mark a song as copyright-free\n(for use with streamer mode)",
+    "DependentMods": [
+      "CustomAlbums"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "bf77829d7129b5ebc6a44b1b5448007435d26ddb015913c62cfda1b956d67fdb"
   },
   {
     "Name": "CustomBGBrightness",
@@ -378,7 +395,7 @@
   },
   {
     "Name": "KeybindManager",
-    "Version": "1.2.1",
+    "Version": "2.1.1",
     "Author": "PBalint817",
     "DownloadLink": "Mods/KeybindManager.dll",
     "HomePage": "",
@@ -389,7 +406,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "e4e6d44a9a5c19f9eec9a85fc9b1fe1bfa6018ee06ee9ffe4e92cbe943c96c54"
+    "SHA256": "1ec37bc28a283d0f42b8bd8c39f5d1fbb1b4c2b00b38e46677fa1097d0810134"
   },
   {
     "Name": "LocalizeLib",
@@ -404,7 +421,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "a25214a4b9af7a6ff5b74b04ee89b205e0c8986feee018c218ff45aa7a865941"
+    "SHA256": "fbe89637826d0996997c1b87bd72337207c4031c6b1b19f73336352b4c8be774"
   },
   {
     "Name": "MDRPC",
@@ -484,7 +501,7 @@
   },
   {
     "Name": "PopupLib",
-    "Version": "1.4.4",
+    "Version": "1.4.5",
     "Author": "PBalint817",
     "DownloadLink": "Mods/PopupLib.dll",
     "HomePage": "https://github.com/Balint817/PopupLib",
@@ -497,7 +514,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "34c400fdd2fe33291e9d6c8bfa9aa6cb6593238cef738d4907ef0a93b5738af7"
+    "SHA256": "929140fe8ff225c5b7b22bd9f9cfdef7f82742ac11c59c298fd2cef12dea9c1c"
   },
   {
     "Name": "PreventLowAcc",
@@ -514,7 +531,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "9b44e6aafce1b6cdae19ef68239860558af7ea0b3ef844c9d9a221e5c573ae16"
+    "SHA256": "6cd92a52ed7426b5e9e9f5e60c50e37844d15cbb5d128fdfa92181f29e21e449"
   },
   {
     "Name": "QuickRestart",
@@ -593,12 +610,13 @@
   },
   {
     "Name": "SearchPlusPlus",
-    "Version": "4.3.4",
+    "Version": "4.8.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "https://github.com/Balint817/SearchPlusPlus",
     "GameVersion": [
-      "3.5.0"
+      "3.7.0",
+      "3.6.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [
@@ -608,7 +626,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "5aea73a0532c7a08dcbf88c768128472e01c343fa1cf94997699e8e8ef9affb2"
+    "SHA256": "17b580ff338a279f8c759e8e4b5f0056ebbf75bd459eb7542cd780dae3caaf56"
   },
   {
     "Name": "Song Desc",
@@ -632,7 +650,8 @@
     "DownloadLink": "Mods/SPPFolderTag.dll",
     "HomePage": "https://github.com/Balint817/SPPFolderTag",
     "GameVersion": [
-      "3.5.0"
+      "3.7.0",
+      "3.6.0"
     ],
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
@@ -642,7 +661,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "7a9a8338eadc0ee4c20281ed8c0d67d24e8ecdab05869d46760a99c9186b71da"
+    "SHA256": "6e4b79850e0fae3e13ea137f040793948ecf40f9316a81f9c7a88fdb1dffe1e0"
   },
   {
     "Name": "StricterJudge",
