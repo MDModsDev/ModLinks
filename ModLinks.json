@@ -96,8 +96,7 @@
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "GameVersion": [
-      "3.6.0",
-      "3.5.0"
+      "*"
     ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
