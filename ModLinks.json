@@ -608,7 +608,7 @@
   },
   {
     "Name": "SearchPlusPlus",
-    "Version": "4.8.0",
+    "Version": "4.9.1",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "https://github.com/Balint817/SearchPlusPlus",
@@ -624,7 +624,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "17b580ff338a279f8c759e8e4b5f0056ebbf75bd459eb7542cd780dae3caaf56"
+    "SHA256": "111003dc9e0f33e5d1654343c08a588540ad1cafe6532fac9912313f54dc04f0"
   },
   {
     "Name": "Song Desc",
