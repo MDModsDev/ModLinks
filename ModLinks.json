@@ -1,7 +1,7 @@
 [
   {
     "Name": "AccuracyDisplay",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/AccuracyDisplay.dll",
     "HomePage": "https://github.com/Balint817/AccuracyDisplay",
@@ -12,7 +12,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "d61eb058d2dd9989d425fd9847f04f0fab44bb6c8cd5f20aacf54e7774ec6eb3"
+    "SHA256": "804953c7ab80b9b62ea6ffcecc52cd76b9c2dcdcb39e8702d1ed1cef7618b00b"
   },
   {
     "Name": "Accuracy Indicator",
@@ -294,6 +294,21 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "bf2f1b26a78d94cb1c79168d6e37d149888f53e2f3a92e00268795b4f5754297"
+  },
+  {
+    "Name": "CustomResolution",
+    "Version": "1.0.0",
+    "Author": "lxy & PBalint817",
+    "DownloadLink": "Mods/CustomResolution.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Adds a custom resolution option in the graphics settings, which you can change in CustomResolutions.cfg",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "c49032a360645521f377f6ebe05f1edacdec7cadf9502b85cef34f9c5aa5297f"
   },
   {
     "Name": "FavGirl",
