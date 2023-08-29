@@ -296,6 +296,21 @@
     "SHA256": "bf2f1b26a78d94cb1c79168d6e37d149888f53e2f3a92e00268795b4f5754297"
   },
   {
+    "Name": "CustomResolution",
+    "Version": "1.0.0",
+    "Author": "lxy & PBalint817",
+    "DownloadLink": "Mods/CustomResolution.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Adds a Custom option in resolution settings, which can be changed in the config.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "bb537fad876bf620881d8d3e7fb55ec47f1e06c793ee185fda08fd7a98843f9e"
+  },
+  {
     "Name": "FavGirl",
     "Version": "2.3.6",
     "Author": "RobotLucca",
