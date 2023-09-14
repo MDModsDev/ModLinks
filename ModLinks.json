@@ -360,7 +360,7 @@
   },
   {
     "Name": "Headquarters",
-    "Version": "3.2.0",
+    "Version": "3.2.1",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
@@ -374,7 +374,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "751b0ebf110aba199699d833af05847397229bbb95302832d8410fd242047866"
+    "SHA256": "ded1cfcef0eecf7ba2c5c980e349cb2351405be7ca4efa09e9f05f8fcc9ebdd2"
   },
   {
     "Name": "HiddenQoL",
