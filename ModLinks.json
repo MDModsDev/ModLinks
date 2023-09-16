@@ -632,11 +632,7 @@
       "3.6.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
-    "DependentMods": [
-      "PopupLib",
-      "KeybindManager",
-      "CustomAlbums"
-    ],
+    "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "70fc4aa8c2ee2d8b2488dd3309ffb65401ec18fb673fb6faff27990911bc3937"
