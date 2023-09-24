@@ -205,7 +205,7 @@
     "Version": "1.1.3",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
-    "HomePage": "",
+    "HomePage": "https://github.com/MDMods/Cinema",
     "GameVersion": [
       "3.7.0",
       "3.6.0"
@@ -551,7 +551,7 @@
     "Version": "2.1.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
-    "HomePage": "",
+    "HomePage": "https://github.com/MDMods/QuickRestart",
     "GameVersion": [
       "*"
     ],
