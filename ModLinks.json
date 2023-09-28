@@ -1,7 +1,7 @@
 [
   {
     "Name": "AccuracyDisplay",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/AccuracyDisplay.dll",
     "HomePage": "https://github.com/Balint817/AccuracyDisplay",
@@ -12,7 +12,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "804953c7ab80b9b62ea6ffcecc52cd76b9c2dcdcb39e8702d1ed1cef7618b00b"
+    "SHA256": "7097018332c0c8f527883867fbe769614a04d68189acba4698a940cbc5f473b5"
   },
   {
     "Name": "Accuracy Indicator",
@@ -141,7 +141,7 @@
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
-      "3.7.0"
+      "3.9.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -205,10 +205,9 @@
     "Version": "1.1.3",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
-    "HomePage": "",
+    "HomePage": "https://github.com/MDMods/Cinema",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -220,18 +219,18 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "3.4.2",
+    "Version": "3.4.5",
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
-      "3.7.0"
+      "3.9.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "7a1513b8ad379d66f717af24ca555e43beb5442fb4bfd3234dd1931ba3bd2782"
+    "SHA256": "b810a2fce947c7b21daf49024690afbd3ae344c1363deb9f3fd8c80d94036db1"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -317,8 +316,7 @@
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
@@ -365,8 +363,7 @@
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
@@ -458,8 +455,7 @@
     "DownloadLink": "Mods/ModManager.dll",
     "HomePage": "https://github.com/Creepler13/ModManagerMod",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.7.0"
     ],
     "Description": "Allows you to disable & delete mods while in-game.",
     "DependentMods": [],
@@ -513,6 +509,21 @@
     "SHA256": "545a089ea8aaf28c04fb98fc1243d913385552648f597e09bceb8d6eec6918f9"
   },
   {
+    "Name": "NoLevelUpAnimations",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/NoLevelUpAnimations.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Level up animations take ages;\nLet's skip them.\nKeep in mind that if IsForceSkip is enabled,\nthe animation is instant,\nbut you won't be able to unlock illustrations.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "1ca80052593dd8dff715be0ad05e3bc52951fa8789f7b02e252e7a8512e61682"
+  },
+  {
     "Name": "PopupLib",
     "Version": "1.4.5",
     "Author": "PBalint817",
@@ -551,7 +562,7 @@
     "Version": "2.1.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
-    "HomePage": "",
+    "HomePage": "https://github.com/MDMods/QuickRestart",
     "GameVersion": [
       "*"
     ],
@@ -632,11 +643,7 @@
       "3.6.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
-    "DependentMods": [
-      "PopupLib",
-      "KeybindManager",
-      "CustomAlbums"
-    ],
+    "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "70fc4aa8c2ee2d8b2488dd3309ffb65401ec18fb673fb6faff27990911bc3937"
@@ -683,8 +690,7 @@
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
     "DependentMods": [],
