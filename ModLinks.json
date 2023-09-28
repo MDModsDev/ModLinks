@@ -141,7 +141,7 @@
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "GameVersion": [
-      "3.7.0"
+      "3.9.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -207,8 +207,7 @@
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "https://github.com/MDMods/Cinema",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -225,7 +224,7 @@
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "GameVersion": [
-      "3.7.0"
+      "3.9.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
@@ -317,8 +316,7 @@
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
@@ -365,8 +363,7 @@
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
@@ -458,8 +455,7 @@
     "DownloadLink": "Mods/ModManager.dll",
     "HomePage": "https://github.com/Creepler13/ModManagerMod",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.7.0"
     ],
     "Description": "Allows you to disable & delete mods while in-game.",
     "DependentMods": [],
@@ -694,8 +690,7 @@
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
     "DependentMods": [],
