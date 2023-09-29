@@ -311,7 +311,7 @@
   },
   {
     "Name": "FavGirl",
-    "Version": "2.3.6",
+    "Version": "2.3.7",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
@@ -322,7 +322,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "5d0d612dc8a7b038f774a79c2c080cddfedf1147249c12d65bae3ea60bfaaaf0"
+    "SHA256": "92f1619976a876387aa1928579137f58adb0cb3df7a1450cb2e9f73b10071ee0"
   },
   {
     "Name": "FC AP indicator",
