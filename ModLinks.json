@@ -511,18 +511,18 @@
   },
   {
     "Name": "NoLevelUpAnimations",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "PBalint817",
     "DownloadLink": "Mods/NoLevelUpAnimations.dll",
     "HomePage": "",
     "GameVersion": [
       "*"
     ],
-    "Description": "Level up animations take ages;\nLet's skip them.\nKeep in mind that if IsForceSkip is enabled,\nthe animation is instant,\nbut you won't be able to unlock illustrations.",
+    "Description": "Level up animations take ages;\nLet's skip them.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "1ca80052593dd8dff715be0ad05e3bc52951fa8789f7b02e252e7a8512e61682"
+    "SHA256": "19606efc6ca034611e13be14a08969e910dc890f10c7d2ffbad6fd21b9a749b7"
   },
   {
     "Name": "PopupLib",
