@@ -239,6 +239,7 @@
     "DownloadLink": "Mods/CustomAnchorSupport.dll",
     "HomePage": "",
     "GameVersion": [
+      "3.9.0",
       "3.7.0"
     ],
     "Description": "Allows you to use add the streamer tag in your info.json to mark a song as copyright-free\n(for use with streamer mode)",
