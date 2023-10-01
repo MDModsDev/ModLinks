@@ -640,8 +640,8 @@
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "https://github.com/Balint817/SearchPlusPlus",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0",
+      "3.7.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [],
@@ -671,8 +671,8 @@
     "DownloadLink": "Mods/SPPFolderTag.dll",
     "HomePage": "https://github.com/Balint817/SPPFolderTag",
     "GameVersion": [
-      "3.7.0",
-      "3.6.0"
+      "3.9.0",
+      "3.7.0"
     ],
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
