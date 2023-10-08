@@ -525,6 +525,21 @@
     "SHA256": "19606efc6ca034611e13be14a08969e910dc890f10c7d2ffbad6fd21b9a749b7"
   },
   {
+    "Name": "PerfectDisable",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/PerfectDisable.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to disable the judgements in-game.\nInspired by ADOFAI Tweaks",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "ea7760fa69905df154a804047a342f7a026dde1b93b8cd2bac8b8147cfa05773"
+  },
+  {
     "Name": "PopupLib",
     "Version": "1.4.5",
     "Author": "PBalint817",
