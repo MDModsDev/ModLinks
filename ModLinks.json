@@ -533,7 +533,7 @@
     "GameVersion": [
       "*"
     ],
-    "Description": "Allows you to disable the judgements in-game.\nInspired by ADOFAI Tweaks",
+    "Description": "Allows you to disable the judgements in-game.\n(example: show early/late perfects but not pure perfects)\nInspired by ADOFAI Tweaks",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
