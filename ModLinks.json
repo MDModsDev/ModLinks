@@ -311,6 +311,21 @@
     "SHA256": "6f36d5e08e8b11b87c2effb2fe3afbe8f966cdf29cce200b5794addac2cd85cc"
   },
   {
+    "Name": "EffectDisable",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/EffectDisable.dll",
+    "HomePage": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Disables some in-game effects.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "39a518d00e70edb923f05f430083107c45c581b25da1e72ee013679b97f51ec3"
+  },
+  {
     "Name": "FavGirl",
     "Version": "2.3.7",
     "Author": "RobotLucca",
