@@ -5,6 +5,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/AccuracyDisplay.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -20,6 +21,7 @@
     "Author": "Azn9",
     "DownloadLink": "Mods/AccuracyIndicator.dll",
     "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -35,6 +37,7 @@
     "Author": "Dom Gintoki",
     "DownloadLink": "Mods/AltTabMute.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -50,6 +53,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysAprilFool.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -65,6 +69,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysBadApple.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -80,6 +85,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysPigeons.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -95,6 +101,7 @@
     "Author": "brooke_zb",
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -110,6 +117,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/BPMDisplay.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -125,6 +133,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -140,6 +149,7 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
+    "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": [
       "3.9.0"
     ],
@@ -155,6 +165,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/ChartDeleter.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -174,6 +185,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/ChartReview.dll",
     "HomePage": "https://github.com/MDMods/ChartReview",
+    "ConfigFile": "ChartReview.cfg",
     "GameVersion": [
       "*"
     ],
@@ -191,6 +203,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ChineseMode.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -206,6 +219,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "https://github.com/MDMods/Cinema",
+    "ConfigFile": "",
     "GameVersion": [
       "3.9.0"
     ],
@@ -223,6 +237,7 @@
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
+    "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
       "3.9.0"
     ],
@@ -238,6 +253,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/CustomAnchorSupport.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "3.9.0",
       "3.7.0"
@@ -256,6 +272,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/CustomBGBrightness.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -271,6 +288,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
     "HomePage": "https://github.com/MDMods/CustomHitSound",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -286,6 +304,7 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/CustomLoadingScreens.dll",
     "HomePage": "https://github.com/Creepler13/CustomLoadingScreens",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -301,6 +320,7 @@
     "Author": "lxy & PBalint817",
     "DownloadLink": "Mods/CustomResolution.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -316,6 +336,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/EffectDisable.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -331,6 +352,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
+    "ConfigFile": "FavGirl.cfg",
     "GameVersion": [
       "3.9.0"
     ],
@@ -346,6 +368,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
     "HomePage": "https://github.com/MDMods/FC-AP-Indicator",
+    "ConfigFile": "FC AP.cfg",
     "GameVersion": [
       "*"
     ],
@@ -363,6 +386,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/FeverEffectDisable.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -378,6 +402,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "3.9.0"
     ],
@@ -395,6 +420,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/HiddenQoL.dll",
     "HomePage": "",
+    "ConfigFile": "HiddenQoL.cfg",
     "GameVersion": [
       "*"
     ],
@@ -410,6 +436,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/IntroSkip.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "2.10.0"
     ],
@@ -425,6 +452,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/KeybindManager.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -440,6 +468,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/LocalizeLib.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -455,6 +484,7 @@
     "Author": "Brasileiro",
     "DownloadLink": "Mods/MDRPC.dll",
     "HomePage": "https://github.com/Braasileiro/MDRPC",
+    "ConfigFile": "",
     "GameVersion": [
       "2.10.0"
     ],
@@ -470,6 +500,7 @@
     "Author": "Creepler13",
     "DownloadLink": "Mods/ModManager.dll",
     "HomePage": "https://github.com/Creepler13/ModManagerMod",
+    "ConfigFile": "",
     "GameVersion": [
       "3.7.0"
     ],
@@ -485,6 +516,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -500,6 +532,7 @@
     "Author": "lxy & \"Bálint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -515,6 +548,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/NoAutoPause.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -530,6 +564,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/NoLevelUpAnimations.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -545,6 +580,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/PerfectDisable.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -560,6 +596,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/PopupLib.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -577,6 +614,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/PreventLowAcc.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -594,6 +632,7 @@
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
     "HomePage": "https://github.com/MDMods/QuickRestart",
+    "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
       "*"
     ],
@@ -609,6 +648,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
+    "ConfigFile": "QuickSwitchCombination.cfg",
     "GameVersion": [
       "*"
     ],
@@ -624,6 +664,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/SceneEggs.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "2.11.0"
     ],
@@ -639,6 +680,7 @@
     "Author": "bnfour",
     "DownloadLink": "Mods/ScoreboardCharacters.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "",
     "GameVersion": [
       "3.9.0"
     ],
@@ -654,6 +696,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ScrollSpeed.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "2.10.0"
     ],
@@ -669,6 +712,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "3.9.0",
       "3.7.0"
@@ -685,6 +729,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
     "HomePage": "https://github.com/MDMods/SongDesc",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -700,6 +745,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/SPPFolderTag.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "3.9.0",
       "3.7.0"
@@ -720,6 +766,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
+    "ConfigFile": "StricterJudge.cfg",
     "GameVersion": [
       "3.9.0"
     ],
@@ -735,6 +782,7 @@
     "Author": "bnfour",
     "DownloadLink": "Mods/TrueAbove1kRank.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -750,6 +798,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
     "HomePage": "https://github.com/MDMods/UIDisable",
+    "ConfigFile": "UI Disable.cfg",
     "GameVersion": [
       "*"
     ],
@@ -767,6 +816,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UltraInstinctSleepwalking.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -782,6 +832,7 @@
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UnlockAll2.dll",
     "HomePage": "",
+    "ConfigFile": "",
     "GameVersion": [
       "*"
     ],
@@ -797,6 +848,7 @@
     "Author": "Ultra_Rabbit",
     "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
+    "ConfigFile": "VictoryScreenSwitcher.cfg",
     "GameVersion": [
       "*"
     ],
