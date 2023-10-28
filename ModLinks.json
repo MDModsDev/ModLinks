@@ -151,7 +151,8 @@
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": [
-      "3.9.0"
+      "3.9.0",
+      "3.10.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -221,7 +222,7 @@
     "HomePage": "https://github.com/MDMods/Cinema",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0"
+      "3.10.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -239,7 +240,8 @@
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
-      "3.9.0"
+      "3.9.0",
+      "3.10.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
@@ -256,7 +258,7 @@
     "ConfigFile": "",
     "GameVersion": [
       "3.9.0",
-      "3.7.0"
+      "3.10.0"
     ],
     "Description": "Allows you to use add the streamer tag in your info.json to mark a song as copyright-free\n(for use with streamer mode)",
     "DependentMods": [
@@ -354,7 +356,8 @@
     "HomePage": "",
     "ConfigFile": "FavGirl.cfg",
     "GameVersion": [
-      "3.9.0"
+      "3.9.0",
+      "3.10.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
@@ -404,7 +407,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0"
+      "3.9.0",
+      "3.10.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
@@ -592,7 +596,7 @@
   },
   {
     "Name": "PopupLib",
-    "Version": "1.4.5",
+    "Version": "1.4.6",
     "Author": "PBalint817",
     "DownloadLink": "Mods/PopupLib.dll",
     "HomePage": "",
@@ -606,7 +610,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "929140fe8ff225c5b7b22bd9f9cfdef7f82742ac11c59c298fd2cef12dea9c1c"
+    "SHA256": "08941572aff24282d1a3403a3a7291462b7cfa767915927d7218b3276a6d8324"
   },
   {
     "Name": "PreventLowAcc",
@@ -682,7 +686,8 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0"
+      "3.9.0",
+      "3.10.0"
     ],
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
     "DependentMods": [],
@@ -708,20 +713,19 @@
   },
   {
     "Name": "SearchPlusPlus",
-    "Version": "4.9.2",
+    "Version": "4.9.3",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SearchPlusPlus.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0",
-      "3.7.0"
+      "3.10.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "70fc4aa8c2ee2d8b2488dd3309ffb65401ec18fb673fb6faff27990911bc3937"
+    "SHA256": "25758047ab53142a6e2ee46db70b0067fcb40b3748b533fe4318dff4eba1a4c6"
   },
   {
     "Name": "Song Desc",
@@ -741,14 +745,13 @@
   },
   {
     "Name": "Search++ Folder Tag",
-    "Version": "1.2.2",
+    "Version": "1.2.3",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SPPFolderTag.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0",
-      "3.7.0"
+      "3.10.0"
     ],
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
@@ -758,7 +761,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "6e4b79850e0fae3e13ea137f040793948ecf40f9316a81f9c7a88fdb1dffe1e0"
+    "SHA256": "4bb031a687f6494f03185ad9c915971eefc12eae8542408131b784f3f643f6ba"
   },
   {
     "Name": "StricterJudge",
@@ -768,7 +771,8 @@
     "HomePage": "",
     "ConfigFile": "StricterJudge.cfg",
     "GameVersion": [
-      "3.9.0"
+      "3.9.0",
+      "3.10.0"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
     "DependentMods": [],
