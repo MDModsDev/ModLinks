@@ -318,7 +318,7 @@
   },
   {
     "Name": "CustomResolution",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "lxy & PBalint817",
     "DownloadLink": "Mods/CustomResolution.dll",
     "HomePage": "",
@@ -330,7 +330,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "6f36d5e08e8b11b87c2effb2fe3afbe8f966cdf29cce200b5794addac2cd85cc"
+    "SHA256": "be2aa203e230748a6060f4bf7c68fcb666fe64875a030cb78cd6dd6e56ec1166"
   },
   {
     "Name": "EffectDisable",
