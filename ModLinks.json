@@ -234,7 +234,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "3.4.5",
+    "Version": "3.4.6",
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -247,7 +247,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "b810a2fce947c7b21daf49024690afbd3ae344c1363deb9f3fd8c80d94036db1"
+    "SHA256": "652a99e42b26bc127d7598670b94068bec5fcab0f57f941864bd7a5e7c92a929"
   },
   {
     "Name": "CustomAnchorSupport",
