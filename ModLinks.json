@@ -436,19 +436,19 @@
   },
   {
     "Name": "IntroSkip",
-    "Version": "2.0.0",
-    "Author": "RobotLucca",
+    "Version": "3.0.0",
+    "Author": "PBalint817",
     "DownloadLink": "Mods/IntroSkip.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "2.10.0"
+      "*"
     ],
-    "Description": "Skips the \"PeroPero HasuHasu\" and the opening scene.",
+    "Description": "Skips past opening scene by speeding the game up.\nYou can configure the speed and whether to skip past the animated illustration.\nSpiritual successor of RobotLucca's one-liner",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "cc08cc3649a26cd75e2948a9cfc3c4f27431ad75dccc558b91ae8d77c4d91483"
+    "SHA256": "e81f20c7e65104aab3bb881a7b94ef6e32ce4c543f04def94fbd1d146cf437ba"
   },
   {
     "Name": "KeybindManager",
