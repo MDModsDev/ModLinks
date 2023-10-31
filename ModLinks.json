@@ -440,7 +440,7 @@
     "Author": "PBalint817",
     "DownloadLink": "Mods/IntroSkip.dll",
     "HomePage": "",
-    "ConfigFile": "",
+    "ConfigFile": "IntroSkip.cfg",
     "GameVersion": [
       "*"
     ],
