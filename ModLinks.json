@@ -366,6 +366,22 @@
     "SHA256": "92f1619976a876387aa1928579137f58adb0cb3df7a1450cb2e9f73b10071ee0"
   },
   {
+    "Name": "FavGirl Cat Fix",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/FavGirlCatFix.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Makes cats work properly with FavGirl",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "553a7ec6717661af41174d29b44ca4c450ec2785a0a9f1cabfa5eb514d4babf6"
+  },
+  {
     "Name": "FC AP indicator",
     "Version": "1.7.0",
     "Author": "lxy",
