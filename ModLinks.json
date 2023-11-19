@@ -32,6 +32,22 @@
     "SHA256": "eef12a4ba088d15e4bdfc38c301d6121fa3bcc215e5c85dd8ddb75b702a82093"
   },
   {
+    "Name": "Album scroll",
+    "Version": "1.0.0",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/AlbumScroll.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Holding shift and use the arrow keys to switch song categories in song selection",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "023b33b05353f6a08e945add42e4cf45b974e22a6eb8f7908d669dd48d9574e8"
+  },
+  {
     "Name": "Alt Tab Mute",
     "Version": "2.0.0",
     "Author": "Dom Gintoki",
@@ -894,21 +910,5 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "89909c2d54c838253679f56986eff2b00f2c122ad5dff9eea856bfc2f552c6f1"
-  },
-  {
-    "Name": "Album scroll",
-    "Version": "1.0.0",
-    "Author": "bnfour",
-    "DownloadLink": "Mods/AlbumScroll.dll",
-    "HomePage": "https://github.com/bnfour/md-mods",
-    "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
-    "Description": "Allows to scroll to the closest song from a different album by holding shift in sons selection.",
-    "DependentMods": [],
-    "DependentLibs": [],
-    "IncompatibleMods": [],
-    "SHA256": "023b33b05353f6a08e945add42e4cf45b974e22a6eb8f7908d669dd48d9574e8"
   }
 ]
