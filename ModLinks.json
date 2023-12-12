@@ -167,8 +167,7 @@
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "3.11.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -238,7 +237,7 @@
     "HomePage": "https://github.com/MDMods/Cinema",
     "ConfigFile": "",
     "GameVersion": [
-      "3.10.0"
+      "*"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -256,8 +255,7 @@
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "3.11.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
@@ -273,8 +271,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "3.10.0",
+      "3.11.0"
     ],
     "Description": "Allows you to use add the streamer tag in your info.json to mark a song as copyright-free\n(for use with streamer mode)",
     "DependentMods": [
@@ -372,8 +370,7 @@
     "HomePage": "",
     "ConfigFile": "FavGirl.cfg",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "3.11.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
@@ -439,8 +436,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "3.11.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
@@ -734,7 +730,7 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "3.10.0"
+      "*"
     ],
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
     "DependentMods": [],
@@ -766,7 +762,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.10.0"
+      "3.10.0",
+      "3.11.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [],
@@ -798,7 +795,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.10.0"
+      "3.10.0",
+      "3.11.0"
     ],
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
@@ -818,8 +816,7 @@
     "HomePage": "",
     "ConfigFile": "StricterJudge.cfg",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "*"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
     "DependentMods": [],
