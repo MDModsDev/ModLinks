@@ -271,8 +271,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.9.0",
-      "3.10.0"
+      "3.10.0",
+      "3.11.0"
     ],
     "Description": "Allows you to use add the streamer tag in your info.json to mark a song as copyright-free\n(for use with streamer mode)",
     "DependentMods": [
@@ -762,7 +762,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.10.0"
+      "3.10.0",
+      "3.11.0"
     ],
     "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
     "DependentMods": [],
@@ -794,7 +795,8 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.10.0"
+      "3.10.0",
+      "3.11.0"
     ],
     "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
     "DependentMods": [
