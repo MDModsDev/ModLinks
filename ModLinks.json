@@ -724,7 +724,7 @@
   },
   {
     "Name": "Scoreboard characters and elfins",
-    "Version": "1.4.1",
+    "Version": "1.5.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/ScoreboardCharacters.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -736,7 +736,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "248d01147a2fcab63c0a8f97ce2c25e659f5f14235586ab1b40e25488940b95b"
+    "SHA256": "a726a135d9127ea7389760b0c54f040171a7aa7650ca04c8abef928c71da11f7"
   },
   {
     "Name": "ScrollSpeed",
