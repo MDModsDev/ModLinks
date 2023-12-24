@@ -249,7 +249,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "3.4.6",
+    "Version": "3.5.0",
     "Author": "Mo10 & RobotLucca",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -261,7 +261,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "652a99e42b26bc127d7598670b94068bec5fcab0f57f941864bd7a5e7c92a929"
+    "SHA256": "8ed61fe5da181b3e0d9d37a9e27877c8aeb7edc130d0d7f037f9e5b5c0fa8975"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -512,7 +512,7 @@
   },
   {
     "Name": "LockCursor",
-    "Version": "1.0.0",
+    "Version": "1.0",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/LockCursor.dll",
     "HomePage": "",
