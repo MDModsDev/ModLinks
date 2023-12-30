@@ -129,7 +129,7 @@
   },
   {
     "Name": "BPMDisplay",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Author": "lxy",
     "DownloadLink": "Mods/BPMDisplay.dll",
     "HomePage": "",
@@ -141,7 +141,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "b771aac3da91ed39567ccd96e458d51b68b0f76ab22cb5644860d868e7f79f22"
+    "SHA256": "da699441b9733e7c98fe6080c5ec1484a4e9f99ffc817e1da018d8331989ef84"
   },
   {
     "Name": "CharacterRandomizer",
@@ -167,7 +167,7 @@
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": [
-      "3.11.0"
+      "*"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -255,7 +255,7 @@
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
-      "3.11.0"
+      "3.12.0"
     ],
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
@@ -364,19 +364,19 @@
   },
   {
     "Name": "FavGirl",
-    "Version": "2.3.7",
+    "Version": "2.3.8",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "",
     "ConfigFile": "FavGirl.cfg",
     "GameVersion": [
-      "3.11.0"
+      "3.12.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "92f1619976a876387aa1928579137f58adb0cb3df7a1450cb2e9f73b10071ee0"
+    "SHA256": "7001cb9370e246b8758329de651822223a08d4090145604ec887d2a7285c3ea7"
   },
   {
     "Name": "FavGirl Cat Fix",
@@ -436,7 +436,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.11.0"
+      "3.12.0"
     ],
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
