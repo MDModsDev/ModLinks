@@ -7,7 +7,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A live accuracy display for your viewing pleasure.",
     "DependentMods": [],
@@ -23,7 +23,7 @@
     "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Adds a more exact accuracy indicator on the bottom of the screen.\nAlso displays average accuracy in milliseconds at the end of the level.",
     "DependentMods": [],
@@ -39,7 +39,7 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Holding shift and use the arrow keys to switch song categories in song selection",
     "DependentMods": [],
@@ -55,7 +55,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Mutes the game when it's not focused.",
     "DependentMods": [],
@@ -71,7 +71,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Boss always shoot pigeon and tutorial is always april fool's, activate good tek hidden",
     "DependentMods": [],
@@ -87,7 +87,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A mod which changes the background and character etc into black and white in tohou scene",
     "DependentMods": [],
@@ -103,7 +103,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Boss always shoot pigeon, do not use AlwaysAprilFool at the same time",
     "DependentMods": [],
@@ -119,7 +119,7 @@
     "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
@@ -135,7 +135,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A mod which displays the BPM info above level designer on preparation screen",
     "DependentMods": [],
@@ -151,7 +151,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
@@ -167,7 +167,7 @@
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
     "DependentMods": [],
@@ -183,7 +183,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to queue custom charts to be deleted or moved when you exit the game.",
     "DependentMods": [
@@ -203,7 +203,7 @@
     "HomePage": "https://github.com/MDMods/ChartReview",
     "ConfigFile": "ChartReview.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
     "DependentMods": [
@@ -221,7 +221,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Censores certain aspects of the game. (Characters, illustrations, etc)",
     "DependentMods": [],
@@ -237,7 +237,7 @@
     "HomePage": "https://github.com/MDMods/Cinema",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -290,7 +290,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to adjust background brightness lower than 40%",
     "DependentMods": [],
@@ -306,7 +306,7 @@
     "HomePage": "https://github.com/MDMods/CustomHitSound",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to make custom hit sound. Detailed instructions on github readme",
     "DependentMods": [],
@@ -322,7 +322,7 @@
     "HomePage": "https://github.com/Creepler13/CustomLoadingScreens",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to add custom loading screens (CustomLoadingScreens folder)\nAlso allows you to add custom loading screen messages (UserData/CustomLoadingScreens.cfg)\nMessages can be paired with an image, or be left as random.",
     "DependentMods": [],
@@ -338,7 +338,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Adds a Custom option in resolution settings, which can be changed in the config.",
     "DependentMods": [],
@@ -354,7 +354,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Disables some in-game effects.",
     "DependentMods": [],
@@ -386,7 +386,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Makes cats work properly with FavGirl",
     "DependentMods": [],
@@ -402,7 +402,7 @@
     "HomePage": "https://github.com/MDMods/FC-AP-Indicator",
     "ConfigFile": "FC AP.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
     "DependentMods": [
@@ -420,7 +420,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Disables the fever background effect (duh.)",
     "DependentMods": [],
@@ -454,7 +454,7 @@
     "HomePage": "",
     "ConfigFile": "HiddenQoL.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
     "DependentMods": [],
@@ -470,7 +470,7 @@
     "HomePage": "",
     "ConfigFile": "IntroSkip.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Skips past opening scene by speeding the game up.\nYou can configure the speed and whether to skip past the animated illustration.\nSpiritual successor of RobotLucca's one-liner",
     "DependentMods": [],
@@ -486,7 +486,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A library for other mods to parse and listen to keybinds",
     "DependentMods": [],
@@ -502,7 +502,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A library for other mods to localize text",
     "DependentMods": [],
@@ -518,7 +518,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Locks your cursor in the middle of the screen while in-game",
     "DependentMods": [],
@@ -566,7 +566,7 @@
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A library that makes it easier to access PlayerData, BattleComponents info and create UI elements.\nThis mod does nothing by itself.",
     "DependentMods": [],
@@ -582,7 +582,7 @@
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Automatically detects and logs available mod updates.",
     "DependentMods": [],
@@ -598,7 +598,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Prevents the game from automatically pausing when the game loses focus.",
     "DependentMods": [],
@@ -614,7 +614,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Level up animations take ages;\nLet's skip them.",
     "DependentMods": [],
@@ -630,7 +630,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to disable the judgements in-game.\n(example: show early/late perfects but not pure perfects)\nInspired by ADOFAI Tweaks",
     "DependentMods": [],
@@ -646,7 +646,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A library for other mods to manage popups and windows",
     "DependentMods": [
@@ -664,7 +664,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A mod that that allows let's you prevent a score from uploading,\nand still be able to take a screenshot.",
     "DependentMods": [
@@ -682,7 +682,7 @@
     "HomePage": "https://github.com/MDMods/QuickRestart",
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to use Delete to instantly leave a chart & Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
@@ -698,7 +698,7 @@
     "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
     "ConfigFile": "QuickSwitchCombination.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds",
     "DependentMods": [],
@@ -730,7 +730,7 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
     "DependentMods": [],
@@ -779,7 +779,7 @@
     "HomePage": "https://github.com/MDMods/SongDesc",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
     "DependentMods": [],
@@ -816,7 +816,7 @@
     "HomePage": "",
     "ConfigFile": "StricterJudge.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
     "DependentMods": [],
@@ -832,7 +832,7 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Displays actual ranking instead of \"999+\" for ranks 1000 to 2000",
     "DependentMods": [],
@@ -848,7 +848,7 @@
     "HomePage": "https://github.com/MDMods/UIDisable",
     "ConfigFile": "UI Disable.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
     "DependentMods": [
@@ -866,7 +866,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Makes Sleepwalker Rin do mashers at max speed instead of the normal slow speed.",
     "DependentMods": [],
@@ -882,7 +882,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "An alternative to UnlockAll.\nMaster's stay unlocked only for as long as the mod is installed.",
     "DependentMods": [],
@@ -898,7 +898,7 @@
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
     "ConfigFile": "VictoryScreenSwitcher.cfg",
     "GameVersion": [
-      "*"
+      "3.12.0"
     ],
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
     "DependentMods": [
