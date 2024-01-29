@@ -18,7 +18,7 @@
   {
     "Name": "AccuracyIndicator",
     "Version": "2.0.0",
-    "Author": "Azn9",
+    "Author": "Azn9 & lxy",
     "DownloadLink": "Mods/AccuracyIndicator.dll",
     "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
     "ConfigFile": "",
@@ -29,7 +29,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "528a2d0dd30e13540d460b7689ca2f9cd3bb90ded329822781f13cd355059518"
+    "SHA256": "1ef35c1ac3ab32357ca8cb97bdbf0096ac80cab94ff090653f1b2c9a8c4525fb"
   },
   {
     "Name": "Album scroll",
