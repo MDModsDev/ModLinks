@@ -306,7 +306,7 @@
     "HomePage": "https://github.com/MDMods/CustomHitSound",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Allows you to make custom hit sound. Detailed instructions on github readme",
     "DependentMods": [],
@@ -698,7 +698,7 @@
     "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
     "ConfigFile": "QuickSwitchCombination.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds",
     "DependentMods": [],
