@@ -16,20 +16,20 @@
     "SHA256": "7097018332c0c8f527883867fbe769614a04d68189acba4698a940cbc5f473b5"
   },
   {
-    "Name": "Accuracy Indicator",
-    "Version": "1.3.1",
+    "Name": "AccuracyIndicator",
+    "Version": "2.0.0",
     "Author": "Azn9",
     "DownloadLink": "Mods/AccuracyIndicator.dll",
     "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Adds a more exact accuracy indicator on the bottom of the screen.\nAlso displays average accuracy in milliseconds at the end of the level.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "eef12a4ba088d15e4bdfc38c301d6121fa3bcc215e5c85dd8ddb75b702a82093"
+    "SHA256": "528a2d0dd30e13540d460b7689ca2f9cd3bb90ded329822781f13cd355059518"
   },
   {
     "Name": "Album scroll",
