@@ -300,7 +300,7 @@
   },
   {
     "Name": "CustomHitSound",
-    "Version": "1.0.4",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
     "HomePage": "https://github.com/MDMods/CustomHitSound",
@@ -312,7 +312,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "6ad6be29c98f8341e5902d0eb5c4eaef55d21cc7bd2332a2220a0f17b75c0480"
+    "SHA256": "5edc9f2f69fc9eba2f8fd2b0e343b37777c92b62a21ed641a8d3cf674248ec90"
   },
   {
     "Name": "CustomLoadingScreens",
@@ -692,7 +692,7 @@
   },
   {
     "Name": "QuickSwitchCombination",
-    "Version": "2.1.4",
+    "Version": "3.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
@@ -704,7 +704,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "82856fc151894c3c1d420b602126e1c1fcf9dd71bfdb4ebe193d1b28939b5bae"
+    "SHA256": "2406e439b807c2a6ea865c3d50ca8e45fd0faf475be49a6adc70e8797d4710bd"
   },
   {
     "Name": "SceneEggs",
