@@ -65,35 +65,35 @@
   },
   {
     "Name": "AlwaysAprilFool",
-    "Version": "1.0.0",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysAprilFool.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Boss always shoot pigeon and tutorial is always april fool's, activate good tek hidden",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "77d54ce950f182ee011a902f13b573d3760371e2be490142b6c7f450534b5e3d"
+    "SHA256": "9b0f7127da444038116bf7041f68636d169522850640dd1720785dc3c7f2edf2"
   },
   {
     "Name": "AlwaysBadApple",
-    "Version": "1.0.1",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysBadApple.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "A mod which changes the background and character etc into black and white in tohou scene",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "127e6f31185a418bc70bdcea0e8e99ad5e73445e7869538288bd226d803d9570"
+    "SHA256": "c6413ba03722babb05b50636a2cb6de1a08e2909736b947a7193ffbbb3167523"
   },
   {
     "Name": "AlwaysPigeons",
@@ -129,19 +129,19 @@
   },
   {
     "Name": "BPMDisplay",
-    "Version": "1.1.2",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/BPMDisplay.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "A mod which displays the BPM info above level designer on preparation screen",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "da699441b9733e7c98fe6080c5ec1484a4e9f99ffc817e1da018d8331989ef84"
+    "SHA256": "3bb437766d6ed5c329c6efe5b703aeab86361b31b7bb843a59ab3149dac961f7"
   },
   {
     "Name": "CharacterRandomizer",
@@ -284,19 +284,19 @@
   },
   {
     "Name": "CustomBGBrightness",
-    "Version": "1.0.0",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomBGBrightness.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Allows you to adjust background brightness lower than 40%",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "327aa8719797b673d268c0eef5d9f868ecc66f69b91603c60fb4bd5be76a765f"
+    "SHA256": "798beb798de3b93c2195328d0b1db75c5ff81c0d386552aaaca1a56eb79bf0a7"
   },
   {
     "Name": "CustomHitSound",
