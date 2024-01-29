@@ -48,20 +48,18 @@
     "SHA256": "023b33b05353f6a08e945add42e4cf45b974e22a6eb8f7908d669dd48d9574e8"
   },
   {
-    "Name": "Alt Tab Mute",
-    "Version": "2.0.0",
+    "Name": "AltTabMute",
+    "Version": "3.0.0",
     "Author": "Dom Gintoki",
     "DownloadLink": "Mods/AltTabMute.dll",
     "HomePage": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "3.12.0"
-    ],
-    "Description": "Mutes the game when it's not focused.",
+    "GameVersion": [],
+    "Description": "",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "8b96855a511b466a22a08e0d6ec319bc784153ebb2596e0f00dd25259ac3925b"
+    "SHA256": "70e29d0dbfbc6712c3f13420527268878f8aa394c0cacae8a0410599b3159de3"
   },
   {
     "Name": "AlwaysAprilFool",
@@ -231,13 +229,13 @@
   },
   {
     "Name": "Cinema",
-    "Version": "1.1.3",
+    "Version": "1.2.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "https://github.com/MDMods/Cinema",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
@@ -245,7 +243,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "ac48f627d97d5de86981af4af8d423b3d4464db265cc3259e2189eee90029df6"
+    "SHA256": "94d4566ecbe1076221edce5253f628de012ee41924e99efba19b837aaf539804"
   },
   {
     "Name": "CustomAlbums",
@@ -414,7 +412,7 @@
   },
   {
     "Name": "FeverEffectDisable",
-    "Version": "1.0.0",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FeverEffectDisable.dll",
     "HomePage": "",
@@ -426,7 +424,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "830690957aa491149892a9ca93fbbc0558192b211d68b108086630ba0cd8e89a"
+    "SHA256": "7876096110007741491ef80dc8de7a3438fbadd8417e4b599fefeba80f97b87c"
   },
   {
     "Name": "Headquarters",
@@ -676,19 +674,19 @@
   },
   {
     "Name": "QuickRestart",
-    "Version": "2.1.0",
+    "Version": "2.2.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
     "HomePage": "https://github.com/MDMods/QuickRestart",
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Allows you to use Delete to instantly leave a chart & Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "af2a737a4b476262aeeabb58b44766268f24bedda605929514de5260c703b7f0"
+    "SHA256": "621fa97e5f77350bbc00e1a25308bdece521482d8658bad4f3dfc26d56f00588"
   },
   {
     "Name": "QuickSwitchCombination",
