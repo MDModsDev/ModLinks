@@ -317,7 +317,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Disables the fever background effect (duh.)",
     "DependentMods": [],
