@@ -179,19 +179,19 @@
   },
   {
     "Name": "ChineseMode",
-    "Version": "1.0.0",
+    "Version": "2.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ChineseMode.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Censores certain aspects of the game. (Characters, illustrations, etc)",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "9e3a5f758ad594912f1aab1060cc13452c96fb96cd5789f5ce88a79e1d4f7656"
+    "SHA256": "bdb9e51281f53e55d3189f98abf1220ba72962b27ccd87699fc8f136f78f6181"
   },
   {
     "Name": "Cinema",
