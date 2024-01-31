@@ -249,7 +249,7 @@
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
     "HomePage": "https://github.com/MDMods/CustomHitSound",
-    "ConfigFile": "",
+    "ConfigFile": "CustomHitSound.cfg",
     "GameVersion": [
       "*"
     ],
