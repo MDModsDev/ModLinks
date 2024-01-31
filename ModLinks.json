@@ -344,20 +344,20 @@
     "SHA256": "e5f28dde6beb214cd748478fc5d958dd55f2795c86ee5213811c9a897b2f2f3d"
   },
   {
-    "Name": "HiddenQoL",
-    "Version": "1.0.1",
-    "Author": "RobotLucca",
-    "DownloadLink": "Mods/HiddenQoL.dll",
+    "Name": "HiddenQol",
+    "Version": "2.0.0",
+    "Author": "RobotLucca & lxy",
+    "DownloadLink": "Mods/HiddenQol.dll",
     "HomePage": "",
-    "ConfigFile": "HiddenQoL.cfg",
+    "ConfigFile": "HiddenQol.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "fb93a13704aafc4f156ec83b748fec74561e0ced54de3e06101dc1dad4097719"
+    "SHA256": "9ce9a436cb499ee1ca4732cd3d58ab52dccf8399b4c605896687f20344cadc25"
   },
   {
     "Name": "LockCursor",
