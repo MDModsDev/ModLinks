@@ -245,7 +245,7 @@
   },
   {
     "Name": "CustomHitSound",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
     "HomePage": "https://github.com/MDMods/CustomHitSound",
@@ -257,7 +257,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "5edc9f2f69fc9eba2f8fd2b0e343b37777c92b62a21ed641a8d3cf674248ec90"
+    "SHA256": "f582bbd35d48a8deee07e7b5a18ce91b6e0087e8d9b9f7881667e4c10214e911"
   },
   {
     "Name": "CustomLoadingScreens",
