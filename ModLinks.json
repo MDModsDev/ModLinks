@@ -145,19 +145,19 @@
   },
   {
     "Name": "CharacterScoreboard",
-    "Version": "1.2.3",
-    "Author": "Creepler13",
+    "Version": "2.0.1",
+    "Author": "Creepler13 & lxy",
     "DownloadLink": "Mods/CharacterScoreboard.dll",
     "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
     "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
-    "Description": "Displays which character a specific score was achieved with on the leaderboard. (OCS)\nIt can also display your own local scores. (LCS)",
+    "Description": "Displays which character a specific score was achieved with on the leaderboard",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "1dc5f0a7985a0cefd0728ccc65c8fc14b9ddf351811fce817dd17c52b6542db2"
+    "SHA256": "3030dc1781812c502706cb4dacfa35c7bcc7fc4e1e9df5041cd92e50a6f9223f"
   },
   {
     "Name": "ChartReview",
@@ -345,7 +345,7 @@
   },
   {
     "Name": "HiddenQol",
-    "Version": "2.0.1",
+    "Version": "2.0.2",
     "Author": "RobotLucca & lxy",
     "DownloadLink": "Mods/HiddenQol.dll",
     "HomePage": "",
@@ -357,7 +357,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "f4df076438a5efe8d82377ad1e56e25a71bea09d18e292293b4393282c3340e0"
+    "SHA256": "413d6256af855b9cdfc0fe680f2b93fcbfdae85be30468b9e41c25be37ea2545"
   },
   {
     "Name": "LockCursor",
