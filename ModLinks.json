@@ -409,17 +409,19 @@
   },
   {
     "Name": "MuseDashMirror",
-    "Version": "0.6.1",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
     "ConfigFile": "",
-    "GameVersion": [],
+    "GameVersion": [
+      "*"
+    ],
     "Description": "A library that makes it easier to access PlayerData, BattleComponents info and create UI elements.\nThis mod does nothing by itself.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "3acce14c8fa2a123f7debcbbf3b9626d6cea20cad846faa89bc0ffcf19c16117"
+    "SHA256": "a9db0869484449287095865c18c2c6c0f15a092452ff0e304f4d8110f904355c"
   },
   {
     "Name": "MuseDashModTools",
