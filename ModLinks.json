@@ -408,20 +408,18 @@
     "SHA256": "c5ff14b90e0a1642ed4f9ce75518850ee816d906f6fc2ba9b5bb521efaa2bfa0"
   },
   {
-    "Name": "Muse Dash Mirror",
-    "Version": "1.1.7",
+    "Name": "MuseDashMirror",
+    "Version": "0.6.1",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
     "ConfigFile": "",
-    "GameVersion": [
-      "3.12.0"
-    ],
+    "GameVersion": [],
     "Description": "A library that makes it easier to access PlayerData, BattleComponents info and create UI elements.\nThis mod does nothing by itself.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "134d21eaa48d41f3faf6b5f1b32a7bb63cb25c7727871705be6cb54e443aaf65"
+    "SHA256": "3acce14c8fa2a123f7debcbbf3b9626d6cea20cad846faa89bc0ffcf19c16117"
   },
   {
     "Name": "MuseDashModTools",
@@ -536,20 +534,20 @@
     "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
   },
   {
-    "Name": "Song Desc",
-    "Version": "1.0.8",
+    "Name": "SongDesc",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
     "HomePage": "https://github.com/MDMods/SongDesc",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "b622d36ed0b3da0e93d49a3086f474089b39568bd456f0efb39937c654f60628"
+    "SHA256": "b9ec9b34ae737d3700f2bcecd5bf1df1716806913294fde50407ed38959df2df"
   },
   {
     "Name": "StricterJudge",
@@ -584,14 +582,14 @@
     "SHA256": "023dc624b55dde3fd7f883f17db510f182aea30bf57a7f2d1cb58d207619d279"
   },
   {
-    "Name": "UI Disable",
-    "Version": "1.1.0",
+    "Name": "UIDisable",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
     "HomePage": "https://github.com/MDMods/UIDisable",
     "ConfigFile": "UI Disable.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
     "DependentMods": [
@@ -599,7 +597,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "f69828b51ba02ac61653d8f6956b195d278fe260a83965cb740dd39e656a4f88"
+    "SHA256": "29617f015907d431be99d25f74dd42004a1d2fe7c198b19112748e13089ebc8c"
   },
   {
     "Name": "UltraInstinctSleepwalking",
