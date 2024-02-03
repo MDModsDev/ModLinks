@@ -161,13 +161,13 @@
   },
   {
     "Name": "ChartReview",
-    "Version": "1.1.2",
+    "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/ChartReview.dll",
     "HomePage": "https://github.com/MDMods/ChartReview",
     "ConfigFile": "ChartReview.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
     "DependentMods": [
@@ -175,7 +175,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "ac1684623e464ac27f2bf7a4d14e2b0ff88d4a25a70f5f28c52e6c58aeb7b190"
+    "SHA256": "6a43dd0edcdf6b557d56eabd977ec8cb3dd802bb2ad2d39b4bab01bbacd14d76"
   },
   {
     "Name": "ChineseMode",
