@@ -171,7 +171,7 @@
     ],
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
     "DependentMods": [
-      "Muse Dash Mirror"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -303,7 +303,7 @@
     ],
     "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
     "DependentMods": [
-      "Muse Dash Mirror"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -595,7 +595,7 @@
     ],
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
     "DependentMods": [
-      "Muse Dash Mirror"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
@@ -635,20 +635,20 @@
   },
   {
     "Name": "VictoryScreenSwitcher",
-    "Version": "1.2.2",
+    "Version": "2.0.0",
     "Author": "Ultra_Rabbit",
     "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
     "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
     "ConfigFile": "VictoryScreenSwitcher.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
     "DependentMods": [
-      "Muse Dash Mirror"
+      "MuseDashMirror"
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "89909c2d54c838253679f56986eff2b00f2c122ad5dff9eea856bfc2f552c6f1"
+    "SHA256": "0f1587f605dac70caee21573c1c409934b028265f177c262a1c6dde0a9234dfc"
   }
 ]
