@@ -17,19 +17,19 @@
   },
   {
     "Name": "Album scroll",
-    "Version": "1.0.0",
+    "Version": "2.0.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/AlbumScroll.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "3.12.1"
     ],
     "Description": "Holding shift and use the arrow keys to switch song categories in song selection",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "023b33b05353f6a08e945add42e4cf45b974e22a6eb8f7908d669dd48d9574e8"
+    "SHA256": "e78f822fab1baca5dd6d96b0fc85d98491f89e351cdac6ff26a891458a196e36"
   },
   {
     "Name": "AltTabMute",
@@ -569,19 +569,19 @@
   },
   {
     "Name": "True rank for 999+",
-    "Version": "1.0.1",
+    "Version": "2.0.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/TrueAbove1kRank.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "3.12.1"
     ],
     "Description": "Displays actual ranking instead of \"999+\" for ranks 1000 to 2000",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "023dc624b55dde3fd7f883f17db510f182aea30bf57a7f2d1cb58d207619d279"
+    "SHA256": "2e2d67946da5add0f795b570937cae6fcd4b14ad1265e1db87257dc7fbdb8061"
   },
   {
     "Name": "UIDisable",
