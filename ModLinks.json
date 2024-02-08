@@ -213,7 +213,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.0.0",
+    "Version": "4.0.1",
     "Author": "Team Baller",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -225,7 +225,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "96f9ff74e2ba3a486af021c5f5c28978fb0309ce8cca81d45ce0aca08cd8d57d"
+    "SHA256": "9f55dfb997a35fd63074ed2a2cd4e373bcfdf2e3f1512e62cb5735c8dd8edb88"
   },
   {
     "Name": "CustomBGBrightness",
@@ -327,7 +327,7 @@
   },
   {
     "Name": "Headquarters",
-    "Version": "3.3.0",
+    "Version": "3.3.1",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
     "HomePage": "",
@@ -341,7 +341,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "e5f28dde6beb214cd748478fc5d958dd55f2795c86ee5213811c9a897b2f2f3d"
+    "SHA256": "d202f8f2db29af11c7fc51ad15fcb3491147c6407f107ad9bae87f047776adc0"
   },
   {
     "Name": "HiddenQol",
