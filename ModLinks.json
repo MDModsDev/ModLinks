@@ -536,6 +536,20 @@
     "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
   },
   {
+    "Name": "ShopLift",
+    "Version": "1.0.0",
+    "Author": "Mr. Talk",
+    "DownloadLink": "Mods/ShopLift.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [],
+    "Description": "",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "8f5afa98dab73774ad583124b35a0791c5772bc9a502979e30369996af9ae5c9"
+  },
+  {
     "Name": "SongDesc",
     "Version": "2.0.0",
     "Author": "lxy",
