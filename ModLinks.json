@@ -540,10 +540,12 @@
     "Version": "1.0.0",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/ShopLift.dll",
-    "HomePage": "",
+    "HomePage": "https://github.com/MDMods/ShopLift",
     "ConfigFile": "",
-    "GameVersion": [],
-    "Description": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Removes the store button and (attempts to) recreate the old UI",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
