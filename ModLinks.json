@@ -666,5 +666,475 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "0f1587f605dac70caee21573c1c409934b028265f177c262a1c6dde0a9234dfc"
+  },
+  {
+    "Name": "AccuracyDisplay",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/AccuracyDisplay.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A live accuracy display for your viewing pleasure.",
+    "DependentMods": [
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "7097018332c0c8f527883867fbe769614a04d68189acba4698a940cbc5f473b5"
+  },
+  {
+    "Name": "ChartDeleter",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/ChartDeleter.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to queue custom charts to be deleted or moved when you exit the game.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "26de553b426fbbf4e1d2bc32a2a47c55f89734ad015f9f7aeb33f8eba15db96d"
+  },
+  {
+    "Name": "CustomAnchorSupport",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/CustomAnchorSupport.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to use add the streamer tag in your info.json to mark a song as copyright-free\n(for use with streamer mode)",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "bf77829d7129b5ebc6a44b1b5448007435d26ddb015913c62cfda1b956d67fdb"
+  },
+
+  {
+    "Name": "CustomResolution",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/CustomResolution.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Adds a Custom option in resolution settings, which can be changed in the config.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "be2aa203e230748a6060f4bf7c68fcb666fe64875a030cb78cd6dd6e56ec1166"
+  },
+  {
+    "Name": "EffectDisable",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/EffectDisable.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Disables some in-game effects.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "39a518d00e70edb923f05f430083107c45c581b25da1e72ee013679b97f51ec3"
+  },
+  {
+    "Name": "FavGirl Cat Fix",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/FavGirlCatFix.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Makes cats work properly with FavGirl",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "553a7ec6717661af41174d29b44ca4c450ec2785a0a9f1cabfa5eb514d4babf6"
+  },
+
+  {
+    "Name": "IntroSkip",
+    "Version": "4.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/IntroSkip.dll",
+    "HomePage": "",
+    "ConfigFile": "IntroSkip.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Skips past opening scene by speeding the game up.\nYou can configure the speed and whether to skip past the animated illustration.\nSpiritual successor of RobotLucca's one-liner",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "e81f20c7e65104aab3bb881a7b94ef6e32ce4c543f04def94fbd1d146cf437ba"
+  },
+  {
+    "Name": "KeybindManager",
+    "Version": "3.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/KeybindManager.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to parse and listen to keybinds",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "1ec37bc28a283d0f42b8bd8c39f5d1fbb1b4c2b00b38e46677fa1097d0810134"
+  },
+  {
+    "Name": "LocalizeLib",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/LocalizeLib.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to localize text",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "fbe89637826d0996997c1b87bd72337207c4031c6b1b19f73336352b4c8be774"
+  },
+
+  {
+    "Name": "NoLevelUpAnimations",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/NoLevelUpAnimations.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Level up animations take ages;\nLet's skip them.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "19606efc6ca034611e13be14a08969e910dc890f10c7d2ffbad6fd21b9a749b7"
+  },
+  {
+    "Name": "PerfectDisable",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/PerfectDisable.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to disable the judgements in-game.\n(example: show early/late perfects but not pure perfects)\nInspired by ADOFAI Tweaks",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "ea7760fa69905df154a804047a342f7a026dde1b93b8cd2bac8b8147cfa05773"
+  },
+  {
+    "Name": "PopupLib",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/PopupLib.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to manage popups and windows",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PreventLowAcc",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "08941572aff24282d1a3403a3a7291462b7cfa767915927d7218b3276a6d8324"
+  },
+  {
+    "Name": "PreventLowAcc",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/PreventLowAcc.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A mod that that allows let's you prevent a score from uploading,\nand still be able to take a screenshot.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "SearchPlusPlus",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "6cd92a52ed7426b5e9e9f5e60c50e37844d15cbb5d128fdfa92181f29e21e449"
+  },
+
+  {
+    "Name": "SearchPlusPlus",
+    "Version": "5.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/SearchPlusPlus.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Any search feature you will ever need (probably).\nCheck the homepage or in-game forum for more info.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "Search++ Folder Tag"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "25758047ab53142a6e2ee46db70b0067fcb40b3748b533fe4318dff4eba1a4c6"
+  },
+
+  {
+    "Name": "Search++ Folder Tag",
+    "Version": "2.0.0",
+    "Author": "",
+    "DownloadLink": "Mods/SPPFolderTag.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "An extension to SearchPlusPlus, allowing you to create folders\nand search for songs in said folders.",
+    "DependentMods": [
+      "AccuracyDisplay",
+      "ChartDeleter",
+      "CustomAnchorSupport",
+      "CustomResolution",
+      "EffectDisable",
+      "FavGirl Cat Fix",
+      "IntroSkip",
+      "KeybindManager",
+      "LocalizeLib",
+      "NoLevelUpAnimations",
+      "PerfectDisable",
+      "PopupLib",
+      "PreventLowAcc",
+      "SearchPlusPlus"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "4bb031a687f6494f03185ad9c915971eefc12eae8542408131b784f3f643f6ba"
   }
 ]
