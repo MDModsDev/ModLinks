@@ -97,19 +97,19 @@
   },
   {
     "Name": "BestCombinationSuggest",
-    "Version": "0.4.0",
+    "Version": "1.0.0",
     "Author": "brooke_zb",
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
-    "HomePage": "https://github.com/brooke-zb/BestCombinationSuggest",
+    "HomePage": "https://github.com/brooke-zb/MuseDashBestCombinationSuggest",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "eef74b3a620e1d70a7fd4f6d3f179b80b046aa1cf0aca0a0d35e967f3318c1d7"
+    "SHA256": "3acd91e466ccbed2585ee262c2e63e6c2430cb29dd7d9410ae83bdae06a35915"
   },
   {
     "Name": "BPMDisplay",
