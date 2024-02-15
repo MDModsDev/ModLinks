@@ -409,7 +409,7 @@
   },
   {
     "Name": "MuseDashMirror",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
@@ -421,7 +421,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "a9db0869484449287095865c18c2c6c0f15a092452ff0e304f4d8110f904355c"
+    "SHA256": "3b84ba9044eb3ab622bcc2939b0010477b1d62a9726e24c29509be6309a670ae"
   },
   {
     "Name": "MuseDashModTools",
