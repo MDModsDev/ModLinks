@@ -345,7 +345,7 @@
   },
   {
     "Name": "HiddenQol",
-    "Version": "2.0.2",
+    "Version": "2.0.3",
     "Author": "RobotLucca & lxy",
     "DownloadLink": "Mods/HiddenQol.dll",
     "HomePage": "",
@@ -357,7 +357,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "f35c39b69ff2ac501720aa66d38abd94fd4ab74760d80c0bc2e6c04e68466a00"
+    "SHA256": "1362b76568485f6dbb5bd8b68ea628747ebe1fecd6b1c1c4b585b0f889342c2c"
   },
   {
     "Name": "LockCursor",
