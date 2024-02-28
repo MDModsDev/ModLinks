@@ -213,7 +213,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.0.1",
+    "Version": "4.0.2",
     "Author": "Team Baller",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -225,7 +225,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "9f55dfb997a35fd63074ed2a2cd4e373bcfdf2e3f1512e62cb5735c8dd8edb88"
+    "SHA256": "175d74262a12af04280a5bd9ac667971bdee3436b61fcca2d2a35dcc68bd28bf"
   },
   {
     "Name": "CustomBGBrightness",
