@@ -212,6 +212,22 @@
     "SHA256": "94d4566ecbe1076221edce5253f628de012ee41924e99efba19b837aaf539804"
   },
   {
+    "Name": "CurrentCombination",
+    "Version": "1.2.1",
+    "Author": "Asgragrt",
+    "DownloadLink": "Mods/CurrentCombination.dll",
+    "HomePage": "https://github.com/MDMods/CurrentCombination",
+    "ConfigFile": "MelonPreferences.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Shows the current selected character and elfin in the song selection menu and the song view.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "4b194fc540b2f2069b234ecc73290f98d983994d8d959a8814e14d9238842125"
+  },
+  {
     "Name": "CustomAlbums",
     "Version": "4.0.2",
     "Author": "Team Baller",
@@ -534,6 +550,22 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
+  },
+  {
+    "Name": "SelectiveEffects",
+    "Version": "1.2.0",
+    "Author": "Asgragrt",
+    "DownloadLink": "Mods/SelectiveEffects.dll",
+    "HomePage": "https://github.com/MDMods/SelectiveEffects",
+    "ConfigFile": "SelectiveEffects.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Mod that allows disabling battle effects.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "81da2580e694bd4f5c873c8731b01aa4e7e1cea4dad3b8c513ae1e07c5f43abd"
   },
   {
     "Name": "ShopLift",
