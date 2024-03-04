@@ -409,7 +409,7 @@
   },
   {
     "Name": "MuseDashMirror",
-    "Version": "2.0.1",
+    "Version": "3.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
     "HomePage": "https://github.com/MDMods/MuseDashMirror",
@@ -421,7 +421,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "3b84ba9044eb3ab622bcc2939b0010477b1d62a9726e24c29509be6309a670ae"
+    "SHA256": "952d9f7cd00549d46ffb535891a1ef6363875bd1384c40d11e9346c9ed9c78b6"
   },
   {
     "Name": "MuseDashModTools",
@@ -553,7 +553,7 @@
   },
   {
     "Name": "SongDesc",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
     "HomePage": "https://github.com/MDMods/SongDesc",
@@ -565,7 +565,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "b9ec9b34ae737d3700f2bcecd5bf1df1716806913294fde50407ed38959df2df"
+    "SHA256": "00b9885415ab17a0a06f9db7df236798d6551ea6a37a3241ccc5804ee301af16"
   },
   {
     "Name": "StricterJudge",
