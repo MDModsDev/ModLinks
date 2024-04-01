@@ -380,13 +380,13 @@
   },
   {
     "Name": "FavGirl",
-    "Version": "2.3.8",
+    "Version": "2.4.1",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/FavGirl.dll",
-    "HomePage": "",
+    "HomePage": "https://github.com/AshtonMemer/FavGirl",
     "ConfigFile": "FavGirl.cfg",
     "GameVersion": [
-      "3.12.0"
+      "4.1.0"
     ],
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
