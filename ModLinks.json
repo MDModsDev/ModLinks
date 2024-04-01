@@ -560,19 +560,19 @@
   },
   {
     "Name": "MDRPC",
-    "Version": "0.0.8",
+    "Version": "0.1.0",
     "Author": "Brasileiro",
     "DownloadLink": "Mods/MDRPC.dll",
     "HomePage": "https://github.com/Braasileiro/MDRPC",
     "ConfigFile": "",
     "GameVersion": [
-      "2.10.0"
+      "*"
     ],
     "Description": "Muse Dash Rich Presence, which is exactly what it says it is.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "7135b20ac06af1610d4866889f0dfbf6cee395fbe0e42bbc081bed5ad544b434"
+    "SHA256": "f95dbca9bd659302f38619edebf2dd16ac9721a2da8e7adbbcdcb7d40f340026"
   },
   {
     "Name": "ModManager",
