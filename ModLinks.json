@@ -852,19 +852,19 @@
   },
   {
     "Name": "StricterJudge",
-    "Version": "1.1.1",
-    "Author": "lxy",
+    "Version": "2.0.0",
+    "Author": "Asgragrt",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "ConfigFile": "StricterJudge.cfg",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
-    "Description": "A mod which changes the judgement window and make the game harder\nYou can manually change the judgement range in Stricter Judge.cfg",
+    "Description": "A mod which changes the judgement window and make the game harder.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "bdc7328eee2f6cee64a156ba1af78ad0443d0a4773e00f31e8b5d566798824c7"
+    "SHA256": "80499df41b3f2b652309cd4c3cb688858ad20e93ade062184bd1cf44ca7444bb"
   },
   {
     "Name": "True rank for 999+",
