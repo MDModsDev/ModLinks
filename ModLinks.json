@@ -640,19 +640,19 @@
   },
   {
     "Name": "MuseDashModTools",
-    "Version": "1.1.5",
+    "Version": "1.1.6",
     "Author": "lxy & \"Bálint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
     "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Automatically detects and logs available mod updates.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "6aeafec20fe8533b0f72169c8934401884f73932ebc87b3868266f5adb6e80f2"
+    "SHA256": "8806a560a112e084fe665988a4a512692f077148c9fe2ff6c1a632f0571dd632"
   },
   {
     "Name": "NoAutoPause",
