@@ -395,6 +395,22 @@
     "SHA256": "1a6bb9551be28df0a15a4017c8e0bab34ab5ad92052819ca784f4758cc8ba548"
   },
   {
+    "Name": "FadeIn",
+    "Version": "1.0.1",
+    "Author": "Asgragrt",
+    "DownloadLink": "Mods/FadeIn.dll",
+    "HomePage": "https://github.com/MDMods/FadeIn",
+    "ConfigFile": "MelonPreferences.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to make all notes fade out.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "4d463379fe8d16e2ef5ff94c86c9446d4c4aa6d9b07b5e062b22f322ce71644b"
+  },
+  {
     "Name": "FavGirl",
     "Version": "2.4.1",
     "Author": "RobotLucca",
@@ -856,7 +872,7 @@
     "Author": "Asgragrt",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
-    "ConfigFile": "StricterJudge.cfg",
+    "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": [
       "*"
     ],
