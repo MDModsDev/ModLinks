@@ -161,19 +161,19 @@
   },
   {
     "Name": "CharacterRandomizer",
-    "Version": "1.1.3",
+    "Version": "1.1.4",
     "Author": "lxy",
     "DownloadLink": "Mods/CharacterRandomizer.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "e0be074358ab1c64746af27aa97dd320d561d1f9e5b034f648441ea2b59dfccd"
+    "SHA256": "8a6ff6b3edee3acec78769b4faf649219064159511d9c909116d3bdd12369940"
   },
   {
     "Name": "CharacterScoreboard",
