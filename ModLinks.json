@@ -97,19 +97,19 @@
   },
   {
     "Name": "AlwaysPigeons",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysPigeons.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Boss always shoots pigeon, do not use AlwaysAprilFool at the same time",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "1b11bc4ea68f62812cf4fec1659e3ce1d4325bfa9873afa5e1e13c7be0e95c82"
+    "SHA256": "0c304a3ef08dfa5a48077eaf98a3073f954147756e64e745230c442bb8faafaa"
   },
   {
     "Name": "BALLCOCK",
