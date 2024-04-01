@@ -624,19 +624,19 @@
   },
   {
     "Name": "NoAutoPause",
-    "Version": "2.0.0",
+    "Version": "2.1.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/NoAutoPause.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Prevents the game from automatically pausing when the game loses focus.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "545a089ea8aaf28c04fb98fc1243d913385552648f597e09bceb8d6eec6918f9"
+    "SHA256": "53e1b8ff7fc18e8adf98afa999ef53ca7293fef308692d12e67b65d914ba00eb"
   },
   {
     "Name": "NoLevelUpAnimations",
