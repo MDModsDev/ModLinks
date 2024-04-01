@@ -755,6 +755,22 @@
     "SHA256": "2406e439b807c2a6ea865c3d50ca8e45fd0faf475be49a6adc70e8797d4710bd"
   },
   {
+    "Name": "RomajiSongName",
+    "Version": "1.0.2",
+    "Author": "Asgragrt",
+    "DownloadLink": "Mods/RomajiSongName.dll",
+    "HomePage": "https://github.com/Asgragrt/RomajiSongName",
+    "ConfigFile": "RomajiSongName.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Romanizes song names, doesn't include song names.\nBreaks the search function in a way that you can't use spaces.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "2406e439b807c2a6ea865c3d50ca8e45fd0faf475be49a6adc70e8797d4710bd"
+  },
+  {
     "Name": "SaveMySpace",
     "Version": "1.0.0",
     "Author": "PBalint817",
