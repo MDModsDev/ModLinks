@@ -114,7 +114,7 @@
   {
     "Name": "BALLCOCK",
     "Version": "1.0.0",
-    "Author": "lxy",
+    "Author": "AshtonMemer",
     "DownloadLink": "Mods/Ballcock.dll",
     "HomePage": "",
     "ConfigFile": "",
@@ -125,7 +125,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "1b11bc4ea68f62812cf4fec1659e3ce1d4325bfa9873afa5e1e13c7be0e95c82"
+    "SHA256": "9217c2b58ce5a863c1ab4ab347345a20953db3a35b9d774d3f4784eb9669b1fe"
   },
   {
     "Name": "BestCombinationSuggest",
