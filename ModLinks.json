@@ -1,5 +1,21 @@
 [
   {
+    "Name": "AccuracyDisplay",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/AccuracyDisplay.dll",
+    "HomePage": "",
+    "ConfigFile": "AccuracyDisplay.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A live accuracy display.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "70df3cd6fe9cc073d1221aeffad3f5bce97016044b961414a7a3bb5ab10fde68"
+  },
+  {
     "Name": "AccuracyIndicator",
     "Version": "2.0.2",
     "Author": "Azn9 & lxy",
@@ -160,6 +176,27 @@
     "SHA256": "3030dc1781812c502706cb4dacfa35c7bcc7fc4e1e9df5041cd92e50a6f9223f"
   },
   {
+    "Name": "ChartDeleter",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/ChartDeleter.dll",
+    "HomePage": "",
+    "ConfigFile": "ChartDeleter.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to queue charts to be deleted when you exit the game using a configurable keybind.",
+    "DependentMods": [
+      "KeybindManager",
+      "LocalizeLib",
+      "PopupLib",
+      "CustomAlbums"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "4e9e91b59e4997b71c824b02e71c2fb67c92a3c6dadb2ce1c341c2388833658a"
+  },
+  {
     "Name": "ChartReview",
     "Version": "2.0.0",
     "Author": "lxy",
@@ -212,6 +249,24 @@
     "SHA256": "94d4566ecbe1076221edce5253f628de012ee41924e99efba19b837aaf539804"
   },
   {
+    "Name": "CinemaToggler",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/CinemaToggler.dll",
+    "HomePage": "",
+    "ConfigFile": "CinemaToggler.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to toggle the Cinema mod on/off in-game",
+    "DependentMods": [
+      "KeybindManager"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "39c4c56d2741a368bade65479bbbce2a91a9aba6ecf3e9a6afe84ea9f1346da4"
+  },
+  {
     "Name": "CurrentCombination",
     "Version": "1.2.1",
     "Author": "Asgragrt",
@@ -242,6 +297,22 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "175d74262a12af04280a5bd9ac667971bdee3436b61fcca2d2a35dcc68bd28bf"
+  },
+  {
+    "Name": "CustomAnchorSupport",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/CustomAnchorSupport.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Adds streamer mode support to custom songs via the 'streamer' tag in 'info.json'.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "4d919e950d7508b24b95629a52ab2004a43839bafbf7a2691e7d0815d3d5162f"
   },
   {
     "Name": "CustomBGBrightness",
@@ -292,6 +363,22 @@
     "SHA256": "bf2f1b26a78d94cb1c79168d6e37d149888f53e2f3a92e00268795b4f5754297"
   },
   {
+    "Name": "CustomResolution",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/CustomResolution.dll",
+    "HomePage": "",
+    "ConfigFile": "CustomResolution.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Allows you to set a custom resolution.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "1a6bb9551be28df0a15a4017c8e0bab34ab5ad92052819ca784f4758cc8ba548"
+  },
+  {
     "Name": "FavGirl",
     "Version": "2.3.8",
     "Author": "RobotLucca",
@@ -306,6 +393,22 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "7001cb9370e246b8758329de651822223a08d4090145604ec887d2a7285c3ea7"
+  },
+  {
+    "Name": "FavGirlCatFix",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/FavGirlCatFix.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Fixes a bug with favorited cat characters.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "21d8d9861fe56762a32239c62c4f44ab6bff57c5c48cf58c9f56a079efc8b00c"
   },
   {
     "Name": "FC AP indicator",
@@ -374,6 +477,70 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "1362b76568485f6dbb5bd8b68ea628747ebe1fecd6b1c1c4b585b0f889342c2c"
+  },
+  {
+    "Name": "IntroSkip",
+    "Version": "4.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/IntroSkip.dll",
+    "HomePage": "",
+    "ConfigFile": "IntroSkip.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Skips past the intro sequence.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "2456c6cb992bb6c1a3fa51b5b5ba33ba2ee92cc093e4f77a5139c2a6c812f2e1"
+  },
+  {
+    "Name": "KeybindManager",
+    "Version": "3.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/KeybindManager.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to implement configurable keybinds, and listen to key combinations",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "bc9c354dc8a9e3f3c268faefad36bcc96cc76a6d197d45d5840ccd7e81e2b309"
+  },
+  {
+    "Name": "LeagueIsBad",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/LeagueIsBad.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "...and you should feel bad.\nCloses the game if League of Legends is found on your PC.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "27e9121704d4992119f7f2d9359c73466fff60c701bda13caa45419f7a68fa6e"
+  },
+  {
+    "Name": "LocalizeLib",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/LocalizeLib.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Makes localizing mods for the game's language settings easier.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "187ce4b60c076419d88010254952c6d461583519c46663f4cf5f17c404632ef0"
   },
   {
     "Name": "LockCursor",
@@ -472,6 +639,58 @@
     "SHA256": "545a089ea8aaf28c04fb98fc1243d913385552648f597e09bceb8d6eec6918f9"
   },
   {
+    "Name": "NoLevelUpAnimations",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/NoLevelUpAnimations.dll",
+    "HomePage": "",
+    "ConfigFile": "NoLevelUp.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Makes levelling up a bit more bearable.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "a1857a77c9aaca978cff67a90d93f868a0fc70a3e5064238dfb74bcbc8e0ddb9"
+  },
+  {
+    "Name": "PopupLib",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/PopupLib.dll",
+    "HomePage": "",
+    "ConfigFile": "PopupLib.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library for other mods to display prompts, take input, etc.,\nusing the game's built-in windows.",
+    "DependentMods": [
+      "LocalizeLib"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "2af6407f25d7b35ebf0ea9fa57df1cca1f6a9edfc84ad7d9f997ade4a5f45a45"
+  },
+  {
+    "Name": "PreventLowAcc",
+    "Version": "2.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/PreventLowAcc.dll",
+    "HomePage": "",
+    "ConfigFile": "PreventLowAcc.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Lets you disable score submissions, in case you want to take a screenshot\nof a low acc high score, but not actually submit it.\nFuture uses may have something to do with challenge runs ;)",
+    "DependentMods": [
+      "KeybindManager"
+    ],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "ea735cf87422c6fd2482d61e4996b8dffca0d33eb42d13483e2b49dd728b3123"
+  },
+  {
     "Name": "QuickRestart",
     "Version": "2.2.0",
     "Author": "AshtonMemer",
@@ -502,6 +721,22 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "2406e439b807c2a6ea865c3d50ca8e45fd0faf475be49a6adc70e8797d4710bd"
+  },
+  {
+    "Name": "SaveMySpace",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/SaveMySpace.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Deletes old log files and similar junk automatically.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "65df94141f42d65363b5a04d28777fdd50cf1fe6c4eecadfa6f1b10250026866"
   },
   {
     "Name": "SceneEggs",
