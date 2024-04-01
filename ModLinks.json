@@ -284,7 +284,7 @@
   },
   {
     "Name": "CurrentCombination",
-    "Version": "1.2.1",
+    "Version": "1.2.3",
     "Author": "Asgragrt",
     "DownloadLink": "Mods/CurrentCombination.dll",
     "HomePage": "https://github.com/MDMods/CurrentCombination",
@@ -296,7 +296,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "4b194fc540b2f2069b234ecc73290f98d983994d8d959a8814e14d9238842125"
+    "SHA256": "0472b8b6834c6ba2ad0cbab1f4e2c60298bb69c03bafc8c11d7e0dfb1ec7ffef"
   },
   {
     "Name": "CustomAlbums",
