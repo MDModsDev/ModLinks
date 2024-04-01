@@ -39,9 +39,9 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.1"
+      "*"
     ],
-    "Description": "Holding shift and use the arrow keys to switch song categories in song selection",
+    "Description": "While holding shift, use the arrow keys to switch song categories in song selection",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
