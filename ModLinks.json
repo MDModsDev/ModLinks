@@ -576,19 +576,19 @@
   },
   {
     "Name": "LockCursor",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/LockCursor.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
     "Description": "Locks your cursor in the middle of the screen while in-game",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "9881b28ecbd91f614f4ad5abca9b2cbe2503c6b02331e51bad185082018badcc"
+    "SHA256": "8a36df47ea2955f1d534e22b8e93becb1322ea47a3953a0404efa9b4d1021119"
   },
   {
     "Name": "MDRPC",
