@@ -804,7 +804,7 @@
   },
   {
     "Name": "SelectiveEffects",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Author": "Asgragrt",
     "DownloadLink": "Mods/SelectiveEffects.dll",
     "HomePage": "https://github.com/MDMods/SelectiveEffects",
@@ -816,7 +816,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "81da2580e694bd4f5c873c8731b01aa4e7e1cea4dad3b8c513ae1e07c5f43abd"
+    "SHA256": "cd4e297b0ce4a6e95db4da82cc62d6d98a1bbc2eff932e765f89e6c7fd36b412"
   },
   {
     "Name": "ShopLift",
