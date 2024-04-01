@@ -144,6 +144,22 @@
     "SHA256": "3acd91e466ccbed2585ee262c2e63e6c2430cb29dd7d9410ae83bdae06a35915"
   },
   {
+    "Name": "BetterNativeHook",
+    "Version": "1.0.0",
+    "Author": "PBalint817",
+    "DownloadLink": "Mods/BetterNativeHook.dll",
+    "HomePage": "https://github.com/Balint817/BetterNativeHook",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "A library mod to do what NativeHook was never for...\nand another hint as to what's coming next.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "6a8e949c75f73071a165e4a26ca3ddb4dd0c5a4c99feab027379b735947ab53b"
+  },
+  {
     "Name": "BPMDisplay",
     "Version": "2.0.0",
     "Author": "lxy",
