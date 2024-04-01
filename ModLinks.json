@@ -105,7 +105,23 @@
     "GameVersion": [
       "3.12.0"
     ],
-    "Description": "Boss always shoot pigeon, do not use AlwaysAprilFool at the same time",
+    "Description": "Boss always shoots pigeon, do not use AlwaysAprilFool at the same time",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "1b11bc4ea68f62812cf4fec1659e3ce1d4325bfa9873afa5e1e13c7be0e95c82"
+  },
+  {
+    "Name": "BALLCOCK",
+    "Version": "1.0.0",
+    "Author": "lxy",
+    "DownloadLink": "Mods/Ballcock.dll",
+    "HomePage": "",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Implements a simplified, less eye-straining and distracting fever effect.\nAlso includes a distasteful console message.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
