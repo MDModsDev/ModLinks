@@ -874,7 +874,7 @@
     "HomePage": "https://github.com/bnfour/md-mods",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.1"
+      "*"
     ],
     "Description": "Displays actual ranking instead of \"999+\" for ranks 1000 to 2000",
     "DependentMods": [],
