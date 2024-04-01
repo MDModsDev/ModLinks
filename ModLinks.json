@@ -901,20 +901,20 @@
     "SHA256": "15401a7326577ff257e13b1c0837e3a613dfbdf437141a2949377d9062287b12"
   },
   {
-    "Name": "UnlockAll2",
-    "Version": "1.0.0",
-    "Author": "RobotLucca",
-    "DownloadLink": "Mods/UnlockAll2.dll",
+    "Name": "UnlockAll",
+    "Version": "2.1.0",
+    "Author": "thegamemaster1234",
+    "DownloadLink": "Mods/UnlockAll.dll",
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "3.12.0"
+      "*"
     ],
-    "Description": "An alternative to UnlockAll.\nMaster's stay unlocked only for as long as the mod is installed.",
+    "Description": "Unlocks all master difficulties for as long as the mod is installed.",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "76b27394102ca739f79db9ba71087593632f20c166833b1484bbe1edbd0481d9"
+    "SHA256": "3685edd6c143779eaea0eb93196c24a22f7d1c48bcd04c271fbb1a72737171dc"
   },
   {
     "Name": "VictoryScreenSwitcher",
