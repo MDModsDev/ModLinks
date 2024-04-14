@@ -33,7 +33,7 @@
   },
   {
     "Name": "Album scroll",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/AlbumScroll.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -45,7 +45,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "e78f822fab1baca5dd6d96b0fc85d98491f89e351cdac6ff26a891458a196e36"
+    "SHA256": "cbc4402c08ec4d8eab368555354411a665e71e70706e0a973eaad139170f216e"
   },
   {
     "Name": "AltTabMute",
@@ -897,6 +897,22 @@
     "DependentLibs": [],
     "IncompatibleMods": [],
     "SHA256": "d62c6f080df6319df44ec4c115b90ec7035e1b150bfc6bba6a98e669b4064060"
+  },
+  {
+    "Name": "Song info",
+    "Version": "1.0.0",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/SongInfo.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Displays the BPM and duration for selected song",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "a3cdebca9575fad19132db9c2c1baf62d5aa1a842d8b4da08465f5c5311c1d05"
   },
   {
     "Name": "StricterJudge",
