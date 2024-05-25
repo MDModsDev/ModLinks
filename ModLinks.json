@@ -264,7 +264,7 @@
   },
   {
     "Name": "Cinema",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
     "HomePage": "https://github.com/MDMods/Cinema",
@@ -278,7 +278,7 @@
     ],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "94d4566ecbe1076221edce5253f628de012ee41924e99efba19b837aaf539804"
+    "SHA256": "e9db79a2ea3a3ea0f2e06d0a976668875d3217e2b6a1efc167358fa161ab204f"
   },
   {
     "Name": "CinemaToggler",
@@ -316,7 +316,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.0.2",
+    "Version": "4.0.3",
     "Author": "Team Baller",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -328,7 +328,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "175d74262a12af04280a5bd9ac667971bdee3436b61fcca2d2a35dcc68bd28bf"
+    "SHA256": "0ba328d6938c4ade8c52fabcbd4bd2db2c7831e43f4f7a96d0174a077b9b5326"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -364,7 +364,7 @@
   },
   {
     "Name": "CustomHitSound",
-    "Version": "2.0.1",
+    "Version": "2.1.0",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
     "HomePage": "https://github.com/MDMods/CustomHitSound",
@@ -376,11 +376,11 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "f582bbd35d48a8deee07e7b5a18ce91b6e0087e8d9b9f7881667e4c10214e911"
+    "SHA256": "caccb49d5920fb70f820e1b374a192ab7d60124ec5de9be4842f29da87103ceb"
   },
   {
     "Name": "CustomLoadingScreens",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/CustomLoadingScreens.dll",
     "HomePage": "https://github.com/MDMods/CustomLoadingScreens",
@@ -392,12 +392,12 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "b611df2d1586a312b0be19a68f8e26e0ea3a764ddcfd5936f8d1ae59c5dd071b"
+    "SHA256": "841bcddb5453cdbbfed27e10ba4ea19113cfc2c2573e1fff870c95cdbc1ad7ac"
   },
   {
     "Name": "CustomResolution",
     "Version": "2.0.0",
-    "Author": "PBalint817",
+    "Author": "lxy & PBalint817",
     "DownloadLink": "Mods/CustomResolution.dll",
     "HomePage": "",
     "ConfigFile": "CustomResolution.cfg",
@@ -572,7 +572,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "27e9121704d4992119f7f2d9359c73466fff60c701bda13caa45419f7a68fa6e"
+    "SHA256": "8e24ae4cc98c5da156e0bb236e1d25fd9e9498e69c24cdc0e329b99dd7843b9a"
   },
   {
     "Name": "LocalizeLib",
@@ -784,7 +784,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "2406e439b807c2a6ea865c3d50ca8e45fd0faf475be49a6adc70e8797d4710bd"
+    "SHA256": "4224de7d73d5257e2b7ca1812a60a1a5c939218bbe0248d157b300f37166ca4f"
   },
   {
     "Name": "SaveMySpace",
@@ -917,7 +917,7 @@
   {
     "Name": "StricterJudge",
     "Version": "2.0.0",
-    "Author": "Asgragrt",
+    "Author": "lxy & Asgragrt",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "ConfigFile": "MelonPreferences.cfg",
