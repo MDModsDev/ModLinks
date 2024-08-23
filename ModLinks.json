@@ -900,7 +900,7 @@
   },
   {
     "Name": "Song info",
-    "Version": "1.1.1",
+    "Version": "1.2.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/SongInfo.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -912,7 +912,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "a0e09f2c21cb827732a6fe8c12ad76301da86a2318d7a429be0c8183745f4291"
+    "SHA256": "6aa848de115213ce1bc525a204127c1826288e83f762d700811d11db90941766"
   },
   {
     "Name": "StricterJudge",
