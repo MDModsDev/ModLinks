@@ -316,7 +316,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.0.3",
+    "Version": "4.1.2",
     "Author": "Team Baller",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -328,7 +328,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "0ba328d6938c4ade8c52fabcbd4bd2db2c7831e43f4f7a96d0174a077b9b5326"
+    "SHA256": "7b019e58a375e14f16b31dfec1a1e1f88b10cf6981645f9c986e05f4e7f55048"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -443,7 +443,7 @@
     "SHA256": "5a9cf866c85d8ea4e6cc9d4c398a694d930d9e8986159d6bba44693cfa2f1d35"
   },
   {
-    "Name": "FavGirlCatFix",
+    "Name": "FavGirl Cat Fix",
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/FavGirlCatFix.dll",
@@ -916,7 +916,7 @@
   },
   {
     "Name": "StricterJudge",
-    "Version": "2.0.0",
+    "Version": "2.1.2",
     "Author": "lxy & Asgragrt",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
@@ -928,7 +928,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "80499df41b3f2b652309cd4c3cb688858ad20e93ade062184bd1cf44ca7444bb"
+    "SHA256": "1aa9d418e0983a08bbae2ec7c00300ce059ddd732bfc1bcca08c82e3a5467dc9"
   },
   {
     "Name": "True rank for 999+",
