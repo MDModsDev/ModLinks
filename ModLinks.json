@@ -316,7 +316,7 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.1.2",
+    "Version": "4.1.3",
     "Author": "Team Baller",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
@@ -328,7 +328,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "7b019e58a375e14f16b31dfec1a1e1f88b10cf6981645f9c986e05f4e7f55048"
+    "SHA256": "ec4f37256bfdf035a215401842b15d8273a118a76e1fca43d995b1fa90a507b7"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -428,8 +428,8 @@
   },
   {
     "Name": "FavGirl",
-    "Version": "2.4.1",
-    "Author": "RobotLucca",
+    "Version": "2.4.3",
+    "Author": "RobotLucca & AshtonMemer",
     "DownloadLink": "Mods/FavGirl.dll",
     "HomePage": "https://github.com/AshtonMemer/FavGirl",
     "ConfigFile": "FavGirl.cfg",
@@ -440,7 +440,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "5a9cf866c85d8ea4e6cc9d4c398a694d930d9e8986159d6bba44693cfa2f1d35"
+    "SHA256": "41d73ea28386638fbbebd96d693bd03f79607ec22f239adb11d3c4676db49bef"
   },
   {
     "Name": "FavGirl Cat Fix",
