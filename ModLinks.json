@@ -965,6 +965,22 @@
     "SHA256": "29617f015907d431be99d25f74dd42004a1d2fe7c198b19112748e13089ebc8c"
   },
   {
+    "Name": "UI tweaks",
+    "Version": "1.0.0",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/UITweaks.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "MelonPreferences.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Various small UI fixes",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "d464be1224d3328646bec9c8747f089d4a03eb154cfaa246141268fc852b2e71"
+  },
+  {
     "Name": "UltraInstinctSleepwalking",
     "Version": "3.0.0",
     "Author": "RobotLucca",
