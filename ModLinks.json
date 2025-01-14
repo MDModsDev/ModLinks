@@ -528,7 +528,7 @@
   },
   {
     "Name": "Info+",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Author": "KARPED1EM",
     "DownloadLink": "Mods/MuseDashInfo+.dll",
     "HomePage": "https://github.com/KARPED1EM/MuseDashInfoPlus",
@@ -540,7 +540,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "59d8fd7ac674e1544e5f47224e7fae221d496dacdbf3d0a2813a0966f6aab359"
+    "SHA256": "ab8959411a9960d081ca2aeddcff6f0c47e1637d55a2d4ba9da7d0b34d4851a4"
   },
   {
     "Name": "IntroSkip",
