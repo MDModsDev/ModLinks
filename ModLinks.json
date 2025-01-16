@@ -527,6 +527,22 @@
     "SHA256": "1362b76568485f6dbb5bd8b68ea628747ebe1fecd6b1c1c4b585b0f889342c2c"
   },
   {
+    "Name": "Info+",
+    "Version": "1.3.0",
+    "Author": "KARPED1EM",
+    "DownloadLink": "Mods/Info+.dll",
+    "HomePage": "https://github.com/KARPED1EM/MuseDashInfoPlus",
+    "ConfigFile": "Info+.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Displays additional in-game infos",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "5a036553290b41f8551f9f313219da6434c4a560cb704477c59cc4484de5c812"
+  },
+  {
     "Name": "IntroSkip",
     "Version": "4.0.0",
     "Author": "PBalint817",
