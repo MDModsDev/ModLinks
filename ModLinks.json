@@ -528,15 +528,15 @@
   },
   {
     "Name": "Info+",
-    "Version": "1.3.0",
+    "Version": "1.4.0",
     "Author": "KARPED1EM",
     "DownloadLink": "Mods/Info+.dll",
-    "HomePage": "https://github.com/KARPED1EM/MuseDashInfoPlus",
+    "HomePage": "https://github.com/MDMods/MuseDashInfoPlus",
     "ConfigFile": "Info+.cfg",
     "GameVersion": [
       "*"
     ],
-    "Description": "Displays additional in-game infos",
+    "Description": "Displays additional in-game info like miss/great counts, song name/difficulty, hi-score/gap from hi-score, accuracy etc.\n在游戏中显示更多信息例如：Miss、Great、当前准确率、歌名、难度、最高分、与最高分差值等。",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
