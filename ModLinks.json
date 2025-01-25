@@ -528,19 +528,19 @@
   },
   {
     "Name": "Info+",
-    "Version": "1.4.0",
+    "Version": "2.0.0",
     "Author": "KARPED1EM",
     "DownloadLink": "Mods/Info+.dll",
     "HomePage": "https://github.com/MDMods/MuseDashInfoPlus",
-    "ConfigFile": "Info+.cfg",
+    "ConfigFile": "Info+/MainConfigs.yml",
     "GameVersion": [
       "*"
     ],
-    "Description": "Displays additional in-game info like miss/great counts, song name/difficulty, hi-score/gap from hi-score, accuracy etc.\n在游戏中显示更多信息例如：Miss、Great、当前准确率、歌名、难度、最高分、与最高分差值等。",
+    "Description": "Displays additional in-game info like Chart Info (Song Name/Difficulty/Author/Level), Accuracy, Miss Count, Great Count, Early Count, Late Count, Note Counter (Hit/Total), Personal Best Score, and Score Gap etc.\n在游戏内显示各种信息，如 谱面信息（歌名/难度/作者/等级）、准确率、Miss 计数、Great 计数、Early 计数、Late 计数、物量计数（已击打/总物量）、历史最高分、与最高分差值 等。",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "5a036553290b41f8551f9f313219da6434c4a560cb704477c59cc4484de5c812"
+    "SHA256": "11dd17b8edd713179d486f67f18be1c7c7e8aa2e95bc0eddb06f835c291d013b"
   },
   {
     "Name": "IntroSkip",
