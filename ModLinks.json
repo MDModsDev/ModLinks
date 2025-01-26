@@ -33,7 +33,7 @@
   },
   {
     "Name": "Album scroll",
-    "Version": "2.0.1",
+    "Version": "2.0.2",
     "Author": "bnfour",
     "DownloadLink": "Mods/AlbumScroll.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -45,7 +45,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "cbc4402c08ec4d8eab368555354411a665e71e70706e0a973eaad139170f216e"
+    "SHA256": "077be6d63434249aab7638b0dd90b131f8c5f41aba1c4e24780f02cb3f992a38"
   },
   {
     "Name": "AltTabMute",
@@ -916,7 +916,7 @@
   },
   {
     "Name": "Song info",
-    "Version": "1.2.4",
+    "Version": "1.2.5",
     "Author": "bnfour",
     "DownloadLink": "Mods/SongInfo.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -928,7 +928,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "85d611284e512b4992cf04fd2abe60aca05037a70b28e4e1f7ef55fb5a5659eb"
+    "SHA256": "efde6b3d6da41321989b9d529e8baadd07687f71bf8b95fcaad2bfd04dd60df3"
   },
   {
     "Name": "StricterJudge",
@@ -948,7 +948,7 @@
   },
   {
     "Name": "True rank for 999+",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/TrueAbove1kRank.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -960,7 +960,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "2e2d67946da5add0f795b570937cae6fcd4b14ad1265e1db87257dc7fbdb8061"
+    "SHA256": "4446871a7165cc078b9a9068e375f7a79ffeab9d3389269391e733679186befc"
   },
   {
     "Name": "UIDisable",
@@ -982,7 +982,7 @@
   },
   {
     "Name": "UI tweaks",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/UITweaks.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -994,7 +994,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "d464be1224d3328646bec9c8747f089d4a03eb154cfaa246141268fc852b2e71"
+    "SHA256": "d2750556ff9f9be030af2d3212cf6655b3c0de35b3ff540467d9180fd9b5a570"
   },
   {
     "Name": "UltraInstinctSleepwalking",
