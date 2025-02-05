@@ -528,7 +528,7 @@
   },
   {
     "Name": "Info+",
-    "Version": "2.2.1",
+    "Version": "2.3.0",
     "Author": "KARPED1EM",
     "DownloadLink": "Mods/Info+.dll",
     "HomePage": "https://github.com/MDMods/MuseDashInfoPlus",
@@ -536,11 +536,11 @@
     "GameVersion": [
       "*"
     ],
-    "Description": "Displays additional in-game info including  Chart Info (Song Name/Difficulty/Author/Level), Accuracy, Miss Count, Great Count, Early Count, Late Count, Note Counter (Hit/Total), Personal Best Score, Score Gap, Sky Speed and Ground Speed etc.\n在游戏内显示各种信息，如 谱面信息（歌名/难度/作者/等级）、准确率、Miss 计数、Great 计数、Early 计数、Late 计数、物量计数（已击打/总物量）、历史最高分、与最高分差值、天空速度、地面速度 等。",
+    "Description": "Displays additional in-game info including Chart Info, Accuracy, Miss/Great/Early/Late/Hit/Total Counts, Score/Accuracy Gap from Personal Best, Sky/Ground Speed and so on.\n在游戏内显示各种信息，如谱面信息、准确率、Miss/Great/Early/Late/已击打/总物量计数、最高分数/准确率差值、天空/地面速度等",
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "942f673dad3563f965b10f366aa27cbfabf93e25103e281521311a5658f94ef9"
+    "SHA256": "8324154ab64258c8a9d7a137cdff6b81cae78f277bcb82cbecf401886b994120"
   },
   {
     "Name": "IntroSkip",
