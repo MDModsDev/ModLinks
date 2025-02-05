@@ -772,7 +772,7 @@
   },
   {
     "Name": "QuickSwitchCombination",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
     "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
@@ -784,7 +784,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "2406e439b807c2a6ea865c3d50ca8e45fd0faf475be49a6adc70e8797d4710bd"
+    "SHA256": "62b55642ffdcd313ed2591eab95576a5e3a631748c203a54c807a0b1bf4dc43b"
   },
   {
     "Name": "RomajiSongName",
