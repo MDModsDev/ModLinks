@@ -4,11 +4,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/AccuracyDisplay.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "AccuracyDisplay.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A live accuracy display.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -20,11 +18,9 @@
     "Version": "2.0.2",
     "Author": "Azn9 & lxy",
     "DownloadLink": "Mods/AccuracyIndicator.dll",
-    "HomePage": "https://github.com/Azn9/MDAccuracyIndicatorMod",
+    "RepositoryIdentifier": "Azn9/MDAccuracyIndicatorMod",
     "ConfigFile": "AccuracyIndicator.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Adds a more exact accuracy indicator on the bottom of the screen.\nAlso displays average accuracy in milliseconds at the end of the level.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -36,11 +32,9 @@
     "Version": "2.0.2",
     "Author": "bnfour",
     "DownloadLink": "Mods/AlbumScroll.dll",
-    "HomePage": "https://github.com/bnfour/md-mods",
+    "RepositoryIdentifier": "bnfour/md-mods",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "While holding shift, use the arrow keys to switch song categories in song selection",
     "DependentMods": [],
     "DependentLibs": [],
@@ -52,11 +46,9 @@
     "Version": "3.0.0",
     "Author": "Dom Gintoki",
     "DownloadLink": "Mods/AltTabMute.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Mutes the game when it's not focused.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -68,11 +60,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysAprilFool.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Boss always shoot pigeon and tutorial is always april fool's, activate good tek hidden",
     "DependentMods": [],
     "DependentLibs": [],
@@ -84,11 +74,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysBadApple.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A mod which changes the background and character etc into black and white in tohou scene",
     "DependentMods": [],
     "DependentLibs": [],
@@ -100,11 +88,9 @@
     "Version": "1.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/AlwaysPigeons.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Boss always shoots pigeon, do not use AlwaysAprilFool at the same time",
     "DependentMods": [],
     "DependentLibs": [],
@@ -116,11 +102,9 @@
     "Version": "1.0.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Ballcock.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Implements a simplified, less eye-straining and distracting fever effect.\nAlso includes a distasteful console message.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -132,11 +116,9 @@
     "Version": "1.0.0",
     "Author": "brooke_zb",
     "DownloadLink": "Mods/BestCombinationSuggest.dll",
-    "HomePage": "https://github.com/brooke-zb/MuseDashBestCombinationSuggest",
+    "RepositoryIdentifier": "brooke-zb/MuseDashBestCombinationSuggest",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -148,11 +130,9 @@
     "Version": "1.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/BetterNativeHook.dll",
-    "HomePage": "https://github.com/Balint817/BetterNativeHook",
+    "RepositoryIdentifier": "Balint817/BetterNativeHook",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A library mod to do what NativeHook was never for...\nand another hint as to what's coming next.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -164,11 +144,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/BPMDisplay.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A mod which displays the BPM info above level designer on preparation screen",
     "DependentMods": [],
     "DependentLibs": [],
@@ -180,11 +158,9 @@
     "Version": "1.1.4",
     "Author": "lxy",
     "DownloadLink": "Mods/CharacterRandomizer.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Everytime you play a chart, a random character combination will be selected.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -196,11 +172,9 @@
     "Version": "2.0.1",
     "Author": "Creepler13 & lxy",
     "DownloadLink": "Mods/CharacterScoreboard.dll",
-    "HomePage": "https://github.com/Creepler13/CharacterScoreboard",
+    "RepositoryIdentifier": "Creepler13/CharacterScoreboard",
     "ConfigFile": "CharacterScoreboard.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Displays which character a specific score was achieved with on the leaderboard",
     "DependentMods": [],
     "DependentLibs": [],
@@ -212,11 +186,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/ChartDeleter.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "ChartDeleter.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to queue charts to be deleted when you exit the game using a configurable keybind.",
     "DependentMods": [
       "KeybindManager",
@@ -233,11 +205,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/ChartReview.dll",
-    "HomePage": "https://github.com/MDMods/ChartReview",
+    "RepositoryIdentifier": "MDMods/ChartReview",
     "ConfigFile": "ChartReview.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
     "DependentMods": [
       "MuseDashMirror"
@@ -251,11 +221,9 @@
     "Version": "2.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ChineseMode.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Censores certain aspects of the game. (Characters, illustrations, etc)",
     "DependentMods": [],
     "DependentLibs": [],
@@ -267,11 +235,9 @@
     "Version": "1.2.1",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Cinema.dll",
-    "HomePage": "https://github.com/MDMods/Cinema",
+    "RepositoryIdentifier": "MDMods/Cinema",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
     "DependentMods": [
       "CustomAlbums"
@@ -285,11 +251,9 @@
     "Version": "1.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/CinemaToggler.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "CinemaToggler.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to toggle the Cinema mod on/off in-game",
     "DependentMods": [
       "KeybindManager"
@@ -303,11 +267,9 @@
     "Version": "1.2.3",
     "Author": "Asgragrt",
     "DownloadLink": "Mods/CurrentCombination.dll",
-    "HomePage": "https://github.com/MDMods/CurrentCombination",
+    "RepositoryIdentifier": "MDMods/CurrentCombination",
     "ConfigFile": "MelonPreferences.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Shows the current selected character and elfin in the song selection menu and the song view.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -319,11 +281,9 @@
     "Version": "4.1.3",
     "Author": "Team Baller",
     "DownloadLink": "Mods/CustomAlbums.dll",
-    "HomePage": "https://github.com/gamrguy/CustomAlbums",
+    "RepositoryIdentifier": "gamrguy/CustomAlbums",
     "ConfigFile": "MelonPreferences.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "The mod that allows you to load in custom charts.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -335,11 +295,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/CustomAnchorSupport.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Adds streamer mode support to custom songs via the 'streamer' tag in 'info.json'.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -351,11 +309,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomBGBrightness.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to adjust background brightness lower than 40%",
     "DependentMods": [],
     "DependentLibs": [],
@@ -367,11 +323,9 @@
     "Version": "2.1.0",
     "Author": "lxy",
     "DownloadLink": "Mods/CustomHitSound.dll",
-    "HomePage": "https://github.com/MDMods/CustomHitSound",
+    "RepositoryIdentifier": "MDMods/CustomHitSound",
     "ConfigFile": "CustomHitSound.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to make custom hit sound. Detailed instructions on github readme",
     "DependentMods": [],
     "DependentLibs": [],
@@ -383,11 +337,9 @@
     "Version": "1.1.1",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/CustomLoadingScreens.dll",
-    "HomePage": "https://github.com/MDMods/CustomLoadingScreens",
+    "RepositoryIdentifier": "MDMods/CustomLoadingScreens",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to add custom loading screens.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -399,11 +351,9 @@
     "Version": "2.1.0",
     "Author": "lxy & PBalint817",
     "DownloadLink": "Mods/CustomResolution.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "CustomResolution.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to set a custom resolution.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -415,11 +365,9 @@
     "Version": "1.0.1",
     "Author": "Asgragrt",
     "DownloadLink": "Mods/FadeIn.dll",
-    "HomePage": "https://github.com/MDMods/FadeIn",
+    "RepositoryIdentifier": "MDMods/FadeIn",
     "ConfigFile": "MelonPreferences.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to make all notes fade out.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -431,11 +379,9 @@
     "Version": "2.4.3",
     "Author": "RobotLucca & AshtonMemer",
     "DownloadLink": "Mods/FavGirl.dll",
-    "HomePage": "https://github.com/AshtonMemer/FavGirl",
+    "RepositoryIdentifier": "AshtonMemer/FavGirl",
     "ConfigFile": "FavGirl.cfg",
-    "GameVersion": [
-      "4.1.0"
-    ],
+    "GameVersion": "4.1.0",
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -447,11 +393,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/FavGirlCatFix.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Fixes a bug with favorited cat characters.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -463,11 +407,9 @@
     "Version": "1.7.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FC AP.dll",
-    "HomePage": "https://github.com/MDMods/FC-AP-Indicator",
+    "RepositoryIdentifier": "MDMods/FC-AP-Indicator",
     "ConfigFile": "FC AP.cfg",
-    "GameVersion": [
-      "3.12.0"
-    ],
+    "GameVersion": "3.12.0",
     "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
     "DependentMods": [
       "MuseDashMirror"
@@ -481,11 +423,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/FeverEffectDisable.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Disables the fever background effect (duh.)",
     "DependentMods": [],
     "DependentLibs": [],
@@ -497,11 +437,9 @@
     "Version": "3.3.4",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/Headquarters.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
     "DependentMods": [
       "CustomAlbums"
@@ -515,11 +453,9 @@
     "Version": "2.0.3",
     "Author": "RobotLucca & lxy",
     "DownloadLink": "Mods/HiddenQol.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "HiddenQol.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
     "DependentMods": [],
     "DependentLibs": [],
@@ -531,11 +467,9 @@
     "Version": "2.3.0",
     "Author": "KARPED1EM",
     "DownloadLink": "Mods/Info+.dll",
-    "HomePage": "https://github.com/MDMods/MuseDashInfoPlus",
+    "RepositoryIdentifier": "MDMods/MuseDashInfoPlus",
     "ConfigFile": "Info+/MainConfigs.yml",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Displays additional in-game info including Chart Info, Accuracy, Miss/Great/Early/Late/Hit/Total Counts, Score/Accuracy Gap from Personal Best, Sky/Ground Speed and so on.\n在游戏内显示各种信息，如谱面信息、准确率、Miss/Great/Early/Late/已击打/总物量计数、最高分数/准确率差值、天空/地面速度等",
     "DependentMods": [],
     "DependentLibs": [],
@@ -547,11 +481,9 @@
     "Version": "4.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/IntroSkip.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "IntroSkip.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Skips past the intro sequence.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -563,11 +495,9 @@
     "Version": "3.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/KeybindManager.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A library for other mods to implement configurable keybinds, and listen to key combinations",
     "DependentMods": [],
     "DependentLibs": [],
@@ -579,11 +509,9 @@
     "Version": "1.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/LeagueIsBad.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "...and you should feel bad.\nCloses the game if League of Legends is found on your PC.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -595,11 +523,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/LocalizeLib.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Makes localizing mods for the game's language settings easier.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -611,11 +537,9 @@
     "Version": "1.0.1",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/LockCursor.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Locks your cursor in the middle of the screen while in-game",
     "DependentMods": [],
     "DependentLibs": [],
@@ -627,11 +551,9 @@
     "Version": "0.1.0",
     "Author": "Brasileiro",
     "DownloadLink": "Mods/MDRPC.dll",
-    "HomePage": "https://github.com/Braasileiro/MDRPC",
+    "RepositoryIdentifier": "Braasileiro/MDRPC",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Muse Dash Rich Presence, which is exactly what it says it is.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -643,11 +565,9 @@
     "Version": "1.0.1",
     "Author": "Creepler13",
     "DownloadLink": "Mods/ModManager.dll",
-    "HomePage": "https://github.com/Creepler13/ModManagerMod",
+    "RepositoryIdentifier": "Creepler13/ModManagerMod",
     "ConfigFile": "",
-    "GameVersion": [
-      "3.7.0"
-    ],
+    "GameVersion": "3.7.0",
     "Description": "Allows you to disable & delete mods while in-game.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -659,11 +579,9 @@
     "Version": "3.1.3",
     "Author": "lxy",
     "DownloadLink": "Mods/MuseDashMirror.dll",
-    "HomePage": "https://github.com/MDMods/MuseDashMirror",
+    "RepositoryIdentifier": "MDMods/MuseDashMirror",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A library that makes it easier to access PlayerData, BattleComponents info and create UI elements.\nThis mod does nothing by itself.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -675,11 +593,9 @@
     "Version": "1.1.6",
     "Author": "lxy & \"Bálint\" as balls",
     "DownloadLink": "Mods/MuseDashModTools.dll",
-    "HomePage": "https://github.com/MDModsDev/MuseDashModToolsMod",
+    "RepositoryIdentifier": "MDModsDev/MuseDashModToolsMod",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Automatically detects and logs available mod updates.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -691,11 +607,9 @@
     "Version": "2.1.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/NoAutoPause.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Prevents the game from automatically pausing when the game loses focus.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -707,11 +621,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/NoLevelUpAnimations.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "NoLevelUp.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Makes leveling up a bit more bearable.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -723,11 +635,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/PopupLib.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "PopupLib.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A library for other mods to display prompts, take input, etc.,\nusing the game's built-in windows.",
     "DependentMods": [
       "LocalizeLib"
@@ -741,11 +651,9 @@
     "Version": "2.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/PreventLowAcc.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "PreventLowAcc.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Lets you disable score submissions, in case you want to take a screenshot\nof a low acc high score, but not actually submit it.\nFuture uses may have something to do with challenge runs ;)",
     "DependentMods": [
       "KeybindManager"
@@ -759,11 +667,9 @@
     "Version": "2.2.0",
     "Author": "AshtonMemer",
     "DownloadLink": "Mods/QuickRestart.dll",
-    "HomePage": "https://github.com/MDMods/QuickRestart",
+    "RepositoryIdentifier": "MDMods/QuickRestart",
     "ConfigFile": "MelonPreferences.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to use Delete to instantly leave a chart & Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -775,11 +681,9 @@
     "Version": "3.0.1",
     "Author": "lxy",
     "DownloadLink": "Mods/QuickSwitchCombination.dll",
-    "HomePage": "https://github.com/MDMods/QuickSwitchCombination",
+    "RepositoryIdentifier": "MDMods/QuickSwitchCombination",
     "ConfigFile": "QuickSwitchCombination.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds",
     "DependentMods": [],
     "DependentLibs": [],
@@ -791,11 +695,9 @@
     "Version": "1.0.2",
     "Author": "Asgragrt",
     "DownloadLink": "Mods/RomajiSongName.dll",
-    "HomePage": "https://github.com/Asgragrt/RomajiSongName",
+    "RepositoryIdentifier": "Asgragrt/RomajiSongName",
     "ConfigFile": "RomajiSongName.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Romanizes song names, doesn't include song names.\nBreaks the search function in a way that you can't use spaces.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -807,11 +709,9 @@
     "Version": "1.0.0",
     "Author": "PBalint817",
     "DownloadLink": "Mods/SaveMySpace.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Deletes old log files and similar junk automatically.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -823,11 +723,9 @@
     "Version": "1.1.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/SceneEggs.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "2.11.0"
-    ],
+    "GameVersion": "2.11.0",
     "Description": "Makes it possible for customs to use certain background decorations that the default charts use.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -839,11 +737,9 @@
     "Version": "1.5.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/ScoreboardCharacters.dll",
-    "HomePage": "https://github.com/bnfour/md-mods",
+    "RepositoryIdentifier": "bnfour/md-mods",
     "ConfigFile": "",
-    "GameVersion": [
-      "3.12.0"
-    ],
+    "GameVersion": "3.12.0",
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -855,11 +751,9 @@
     "Version": "1.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/ScrollSpeed.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "2.10.0"
-    ],
+    "GameVersion": "2.10.0",
     "Description": "Allows charters (not players) to set custom scroll speeds.\nIt's completely up to you whether you wanna use this, most charters don't use it though.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -871,11 +765,9 @@
     "Version": "1.2.1",
     "Author": "Asgragrt",
     "DownloadLink": "Mods/SelectiveEffects.dll",
-    "HomePage": "https://github.com/MDMods/SelectiveEffects",
+    "RepositoryIdentifier": "MDMods/SelectiveEffects",
     "ConfigFile": "SelectiveEffects.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Mod that allows disabling battle effects.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -887,11 +779,9 @@
     "Version": "1.0.0",
     "Author": "Mr. Talk",
     "DownloadLink": "Mods/ShopLift.dll",
-    "HomePage": "https://github.com/MDMods/ShopLift",
+    "RepositoryIdentifier": "MDMods/ShopLift",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Removes the store button and (attempts to) recreate the old UI",
     "DependentMods": [],
     "DependentLibs": [],
@@ -903,11 +793,9 @@
     "Version": "2.0.2",
     "Author": "lxy",
     "DownloadLink": "Mods/SongDesc.dll",
-    "HomePage": "https://github.com/MDMods/SongDesc",
+    "RepositoryIdentifier": "MDMods/SongDesc",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -919,11 +807,9 @@
     "Version": "1.2.5",
     "Author": "bnfour",
     "DownloadLink": "Mods/SongInfo.dll",
-    "HomePage": "https://github.com/bnfour/md-mods",
+    "RepositoryIdentifier": "bnfour/md-mods",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Displays the BPM and duration for selected song",
     "DependentMods": [],
     "DependentLibs": [],
@@ -935,11 +821,9 @@
     "Version": "2.1.2",
     "Author": "lxy & Asgragrt",
     "DownloadLink": "Mods/StricterJudge.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "MelonPreferences.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "A mod which changes the judgement window and make the game harder.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -951,11 +835,9 @@
     "Version": "2.0.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/TrueAbove1kRank.dll",
-    "HomePage": "https://github.com/bnfour/md-mods",
+    "RepositoryIdentifier": "bnfour/md-mods",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Displays actual ranking instead of \"999+\" for ranks 1000 to 2000",
     "DependentMods": [],
     "DependentLibs": [],
@@ -967,11 +849,9 @@
     "Version": "2.0.0",
     "Author": "lxy",
     "DownloadLink": "Mods/UIDisable.dll",
-    "HomePage": "https://github.com/MDMods/UIDisable",
+    "RepositoryIdentifier": "MDMods/UIDisable",
     "ConfigFile": "UI Disable.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
     "DependentMods": [
       "MuseDashMirror"
@@ -985,11 +865,9 @@
     "Version": "1.0.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/UITweaks.dll",
-    "HomePage": "https://github.com/bnfour/md-mods",
+    "RepositoryIdentifier": "bnfour/md-mods",
     "ConfigFile": "MelonPreferences.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Various small UI fixes",
     "DependentMods": [],
     "DependentLibs": [],
@@ -1001,11 +879,9 @@
     "Version": "3.0.0",
     "Author": "RobotLucca",
     "DownloadLink": "Mods/UltraInstinctSleepwalking.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Makes Sleepwalker Rin do mashers at max speed instead of the normal slow speed.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -1017,11 +893,9 @@
     "Version": "2.1.0",
     "Author": "thegamemaster1234",
     "DownloadLink": "Mods/UnlockAll.dll",
-    "HomePage": "",
+    "RepositoryIdentifier": "",
     "ConfigFile": "",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Unlocks all master difficulties for as long as the mod is installed.",
     "DependentMods": [],
     "DependentLibs": [],
@@ -1033,11 +907,9 @@
     "Version": "2.0.0",
     "Author": "Ultra_Rabbit",
     "DownloadLink": "Mods/VictoryScreenSwitcher.dll",
-    "HomePage": "https://github.com/TheBunnies/VictoryScreenSwitcher",
+    "RepositoryIdentifier": "TheBunnies/VictoryScreenSwitcher",
     "ConfigFile": "VictoryScreenSwitcher.cfg",
-    "GameVersion": [
-      "*"
-    ],
+    "GameVersion": "*",
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
     "DependentMods": [
       "MuseDashMirror"
