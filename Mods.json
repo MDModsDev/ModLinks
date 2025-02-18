@@ -8,8 +8,8 @@
     "ConfigFile": "AccuracyDisplay.cfg",
     "GameVersion": "*",
     "Description": "A live accuracy display.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "70df3cd6fe9cc073d1221aeffad3f5bce97016044b961414a7a3bb5ab10fde68"
   },
@@ -22,8 +22,8 @@
     "ConfigFile": "AccuracyIndicator.cfg",
     "GameVersion": "*",
     "Description": "Adds a more exact accuracy indicator on the bottom of the screen.\nAlso displays average accuracy in milliseconds at the end of the level.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "e47d28fe2545d80b0865b24af563ab38e043d2718023028a91de1b6e87b2e370"
   },
@@ -36,8 +36,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "While holding shift, use the arrow keys to switch song categories in song selection",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "077be6d63434249aab7638b0dd90b131f8c5f41aba1c4e24780f02cb3f992a38"
   },
@@ -50,8 +50,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Mutes the game when it's not focused.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "70e29d0dbfbc6712c3f13420527268878f8aa394c0cacae8a0410599b3159de3"
   },
@@ -64,8 +64,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Boss always shoot pigeon and tutorial is always april fool's, activate good tek hidden",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "9b0f7127da444038116bf7041f68636d169522850640dd1720785dc3c7f2edf2"
   },
@@ -78,8 +78,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "A mod which changes the background and character etc into black and white in tohou scene",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "c6413ba03722babb05b50636a2cb6de1a08e2909736b947a7193ffbbb3167523"
   },
@@ -92,8 +92,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Boss always shoots pigeon, do not use AlwaysAprilFool at the same time",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "0c304a3ef08dfa5a48077eaf98a3073f954147756e64e745230c442bb8faafaa"
   },
@@ -106,8 +106,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Implements a simplified, less eye-straining and distracting fever effect.\nAlso includes a distasteful console message.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "9217c2b58ce5a863c1ab4ab347345a20953db3a35b9d774d3f4784eb9669b1fe"
   },
@@ -120,8 +120,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Displays the best character combination for a level in the pause screen.\nThe character combo displayed is usually correct, but don't put your blind faith in it.\nWhen in doubt, refer to CharacterScoreboard.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "3acd91e466ccbed2585ee262c2e63e6c2430cb29dd7d9410ae83bdae06a35915"
   },
@@ -134,8 +134,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "A library mod to do what NativeHook was never for...\nand another hint as to what's coming next.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "6a8e949c75f73071a165e4a26ca3ddb4dd0c5a4c99feab027379b735947ab53b"
   },
@@ -148,8 +148,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "A mod which displays the BPM info above level designer on preparation screen",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "3bb437766d6ed5c329c6efe5b703aeab86361b31b7bb843a59ab3149dac961f7"
   },
@@ -162,8 +162,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Everytime you play a chart, a random character combination will be selected.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "8a6ff6b3edee3acec78769b4faf649219064159511d9c909116d3bdd12369940"
   },
@@ -176,8 +176,8 @@
     "ConfigFile": "CharacterScoreboard.cfg",
     "GameVersion": "*",
     "Description": "Displays which character a specific score was achieved with on the leaderboard",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "3030dc1781812c502706cb4dacfa35c7bcc7fc4e1e9df5041cd92e50a6f9223f"
   },
@@ -190,13 +190,13 @@
     "ConfigFile": "ChartDeleter.cfg",
     "GameVersion": "*",
     "Description": "Allows you to queue charts to be deleted when you exit the game using a configurable keybind.",
-    "DependentMods": [
+    "ModDependencies": [
       "KeybindManager",
       "LocalizeLib",
       "PopupLib",
       "CustomAlbums"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "4e9e91b59e4997b71c824b02e71c2fb67c92a3c6dadb2ce1c341c2388833658a"
   },
@@ -209,10 +209,10 @@
     "ConfigFile": "ChartReview.cfg",
     "GameVersion": "*",
     "Description": "Automatically selects sleepwalker, sets offset to 0, sets fever to manual, disables certain UI elements.\nCan be toggled on/off while in-game.",
-    "DependentMods": [
+    "ModDependencies": [
       "MuseDashMirror"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "6a43dd0edcdf6b557d56eabd977ec8cb3dd802bb2ad2d39b4bab01bbacd14d76"
   },
@@ -225,8 +225,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Censores certain aspects of the game. (Characters, illustrations, etc)",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "bdb9e51281f53e55d3189f98abf1220ba72962b27ccd87699fc8f136f78f6181"
   },
@@ -239,10 +239,10 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "The mod that allows you to see video backgrounds in custom charts.",
-    "DependentMods": [
+    "ModDependencies": [
       "CustomAlbums"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "e9db79a2ea3a3ea0f2e06d0a976668875d3217e2b6a1efc167358fa161ab204f"
   },
@@ -255,10 +255,10 @@
     "ConfigFile": "CinemaToggler.cfg",
     "GameVersion": "*",
     "Description": "Allows you to toggle the Cinema mod on/off in-game",
-    "DependentMods": [
+    "ModDependencies": [
       "KeybindManager"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "39c4c56d2741a368bade65479bbbce2a91a9aba6ecf3e9a6afe84ea9f1346da4"
   },
@@ -271,8 +271,8 @@
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "Shows the current selected character and elfin in the song selection menu and the song view.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "0472b8b6834c6ba2ad0cbab1f4e2c60298bb69c03bafc8c11d7e0dfb1ec7ffef"
   },
@@ -285,8 +285,8 @@
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "The mod that allows you to load in custom charts.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "ec4f37256bfdf035a215401842b15d8273a118a76e1fca43d995b1fa90a507b7"
   },
@@ -299,8 +299,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Adds streamer mode support to custom songs via the 'streamer' tag in 'info.json'.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "4d919e950d7508b24b95629a52ab2004a43839bafbf7a2691e7d0815d3d5162f"
   },
@@ -313,8 +313,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Allows you to adjust background brightness lower than 40%",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "798beb798de3b93c2195328d0b1db75c5ff81c0d386552aaaca1a56eb79bf0a7"
   },
@@ -327,8 +327,8 @@
     "ConfigFile": "CustomHitSound.cfg",
     "GameVersion": "*",
     "Description": "Allows you to make custom hit sound. Detailed instructions on github readme",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "caccb49d5920fb70f820e1b374a192ab7d60124ec5de9be4842f29da87103ceb"
   },
@@ -341,8 +341,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Allows you to add custom loading screens.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "841bcddb5453cdbbfed27e10ba4ea19113cfc2c2573e1fff870c95cdbc1ad7ac"
   },
@@ -355,8 +355,8 @@
     "ConfigFile": "CustomResolution.cfg",
     "GameVersion": "*",
     "Description": "Allows you to set a custom resolution.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "74b8b4e438e5230c143664a808d967ad71c0eb2bfb85b46a5461e434f4162aa0"
   },
@@ -369,8 +369,8 @@
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "Allows you to make all notes fade out.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "4d463379fe8d16e2ef5ff94c86c9446d4c4aa6d9b07b5e062b22f322ce71644b"
   },
@@ -383,8 +383,8 @@
     "ConfigFile": "FavGirl.cfg",
     "GameVersion": "4.1.0",
     "Description": "Allows you to favorite characters and elfins.\nThis will make you look like that character even if another character is selected.\nYou will have the abilities of the selected character & your plays will be submitted as such.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "41d73ea28386638fbbebd96d693bd03f79607ec22f239adb11d3c4676db49bef"
   },
@@ -397,8 +397,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Fixes a bug with favorited cat characters.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "21d8d9861fe56762a32239c62c4f44ab6bff57c5c48cf58c9f56a079efc8b00c"
   },
@@ -411,10 +411,10 @@
     "ConfigFile": "FC AP.cfg",
     "GameVersion": "3.12.0",
     "Description": "Tells you whether you're on All Perfect/Full Combo pace, and displays the number of misses/greats.",
-    "DependentMods": [
+    "ModDependencies": [
       "MuseDashMirror"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "37715f594b10d853428a6bb2454b2846be6332752146d698804c5072cafa1508"
   },
@@ -427,8 +427,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Disables the fever background effect (duh.)",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "7876096110007741491ef80dc8de7a3438fbadd8417e4b599fefeba80f97b87c"
   },
@@ -441,10 +441,10 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Allows you to submit scores on custom charts obtained from the MDMC website.",
-    "DependentMods": [
+    "ModDependencies": [
       "CustomAlbums"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "682713d1b7241c79811dba110521d7be19b0f98012f7e4dc195f748ac27972d1"
   },
@@ -457,8 +457,8 @@
     "ConfigFile": "HiddenQol.cfg",
     "GameVersion": "*",
     "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "1362b76568485f6dbb5bd8b68ea628747ebe1fecd6b1c1c4b585b0f889342c2c"
   },
@@ -471,8 +471,8 @@
     "ConfigFile": "Info+/MainConfigs.yml",
     "GameVersion": "*",
     "Description": "Displays additional in-game info including Chart Info, Accuracy, Miss/Great/Early/Late/Hit/Total Counts, Score/Accuracy Gap from Personal Best, Sky/Ground Speed and so on.\n在游戏内显示各种信息，如谱面信息、准确率、Miss/Great/Early/Late/已击打/总物量计数、最高分数/准确率差值、天空/地面速度等",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "8324154ab64258c8a9d7a137cdff6b81cae78f277bcb82cbecf401886b994120"
   },
@@ -485,8 +485,8 @@
     "ConfigFile": "IntroSkip.cfg",
     "GameVersion": "*",
     "Description": "Skips past the intro sequence.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "2456c6cb992bb6c1a3fa51b5b5ba33ba2ee92cc093e4f77a5139c2a6c812f2e1"
   },
@@ -499,8 +499,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "A library for other mods to implement configurable keybinds, and listen to key combinations",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "bc9c354dc8a9e3f3c268faefad36bcc96cc76a6d197d45d5840ccd7e81e2b309"
   },
@@ -513,8 +513,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "...and you should feel bad.\nCloses the game if League of Legends is found on your PC.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "8e24ae4cc98c5da156e0bb236e1d25fd9e9498e69c24cdc0e329b99dd7843b9a"
   },
@@ -527,8 +527,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Makes localizing mods for the game's language settings easier.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "187ce4b60c076419d88010254952c6d461583519c46663f4cf5f17c404632ef0"
   },
@@ -541,8 +541,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Locks your cursor in the middle of the screen while in-game",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "8a36df47ea2955f1d534e22b8e93becb1322ea47a3953a0404efa9b4d1021119"
   },
@@ -555,8 +555,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Muse Dash Rich Presence, which is exactly what it says it is.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "f95dbca9bd659302f38619edebf2dd16ac9721a2da8e7adbbcdcb7d40f340026"
   },
@@ -569,8 +569,8 @@
     "ConfigFile": "",
     "GameVersion": "3.7.0",
     "Description": "Allows you to disable & delete mods while in-game.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "c5ff14b90e0a1642ed4f9ce75518850ee816d906f6fc2ba9b5bb521efaa2bfa0"
   },
@@ -583,8 +583,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "A library that makes it easier to access PlayerData, BattleComponents info and create UI elements.\nThis mod does nothing by itself.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "0eb74d39986bc97920299152de4c20c54baee1205d9b0bbbef4d87bd2b1f16e1"
   },
@@ -597,8 +597,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Automatically detects and logs available mod updates.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "8806a560a112e084fe665988a4a512692f077148c9fe2ff6c1a632f0571dd632"
   },
@@ -611,8 +611,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Prevents the game from automatically pausing when the game loses focus.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "53e1b8ff7fc18e8adf98afa999ef53ca7293fef308692d12e67b65d914ba00eb"
   },
@@ -625,8 +625,8 @@
     "ConfigFile": "NoLevelUp.cfg",
     "GameVersion": "*",
     "Description": "Makes leveling up a bit more bearable.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "a1857a77c9aaca978cff67a90d93f868a0fc70a3e5064238dfb74bcbc8e0ddb9"
   },
@@ -639,10 +639,10 @@
     "ConfigFile": "PopupLib.cfg",
     "GameVersion": "*",
     "Description": "A library for other mods to display prompts, take input, etc.,\nusing the game's built-in windows.",
-    "DependentMods": [
+    "ModDependencies": [
       "LocalizeLib"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "2af6407f25d7b35ebf0ea9fa57df1cca1f6a9edfc84ad7d9f997ade4a5f45a45"
   },
@@ -655,10 +655,10 @@
     "ConfigFile": "PreventLowAcc.cfg",
     "GameVersion": "*",
     "Description": "Lets you disable score submissions, in case you want to take a screenshot\nof a low acc high score, but not actually submit it.\nFuture uses may have something to do with challenge runs ;)",
-    "DependentMods": [
+    "ModDependencies": [
       "KeybindManager"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "ea735cf87422c6fd2482d61e4996b8dffca0d33eb42d13483e2b49dd728b3123"
   },
@@ -671,8 +671,8 @@
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "Allows you to use Delete to instantly leave a chart & Allows you to use Backspace to instantly restart a chart\nUpdate now allows you to set custom keybinds.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "621fa97e5f77350bbc00e1a25308bdece521482d8658bad4f3dfc26d56f00588"
   },
@@ -685,8 +685,8 @@
     "ConfigFile": "QuickSwitchCombination.cfg",
     "GameVersion": "*",
     "Description": "Allows you to set keybinds to quickly change your characters.\nNow has an in-game menu to add keybinds",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "62b55642ffdcd313ed2591eab95576a5e3a631748c203a54c807a0b1bf4dc43b"
   },
@@ -699,8 +699,8 @@
     "ConfigFile": "RomajiSongName.cfg",
     "GameVersion": "*",
     "Description": "Romanizes song names, doesn't include song names.\nBreaks the search function in a way that you can't use spaces.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "4224de7d73d5257e2b7ca1812a60a1a5c939218bbe0248d157b300f37166ca4f"
   },
@@ -713,8 +713,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Deletes old log files and similar junk automatically.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "65df94141f42d65363b5a04d28777fdd50cf1fe6c4eecadfa6f1b10250026866"
   },
@@ -727,8 +727,8 @@
     "ConfigFile": "",
     "GameVersion": "2.11.0",
     "Description": "Makes it possible for customs to use certain background decorations that the default charts use.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "afe1f40fd11081ac0f36f14c7372bd31b06d6fd8b0a2dcd78f7cef43e1f79e76"
   },
@@ -741,8 +741,8 @@
     "ConfigFile": "",
     "GameVersion": "3.12.0",
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "a726a135d9127ea7389760b0c54f040171a7aa7650ca04c8abef928c71da11f7"
   },
@@ -755,8 +755,8 @@
     "ConfigFile": "",
     "GameVersion": "2.10.0",
     "Description": "Allows charters (not players) to set custom scroll speeds.\nIt's completely up to you whether you wanna use this, most charters don't use it though.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "62f0b60a1a9bd68fa25c7fee36db9c10e3753f0ae1e67b05c3ea18a3c299df3c"
   },
@@ -769,8 +769,8 @@
     "ConfigFile": "SelectiveEffects.cfg",
     "GameVersion": "*",
     "Description": "Mod that allows disabling battle effects.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "cd4e297b0ce4a6e95db4da82cc62d6d98a1bbc2eff932e765f89e6c7fd36b412"
   },
@@ -783,8 +783,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Removes the store button and (attempts to) recreate the old UI",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "8f5afa98dab73774ad583124b35a0791c5772bc9a502979e30369996af9ae5c9"
   },
@@ -797,8 +797,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Displays the title, artist, and difficulty of the song in the top-right corner during play.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "d62c6f080df6319df44ec4c115b90ec7035e1b150bfc6bba6a98e669b4064060"
   },
@@ -811,8 +811,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Displays the BPM and duration for selected song",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "efde6b3d6da41321989b9d529e8baadd07687f71bf8b95fcaad2bfd04dd60df3"
   },
@@ -825,8 +825,8 @@
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "A mod which changes the judgement window and make the game harder.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "1aa9d418e0983a08bbae2ec7c00300ce059ddd732bfc1bcca08c82e3a5467dc9"
   },
@@ -839,8 +839,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Displays actual ranking instead of \"999+\" for ranks 1000 to 2000",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "4446871a7165cc078b9a9068e375f7a79ffeab9d3389269391e733679186befc"
   },
@@ -853,10 +853,10 @@
     "ConfigFile": "UI Disable.cfg",
     "GameVersion": "*",
     "Description": "Allows you to disable certain visual aspects of the game (example: hit circles)",
-    "DependentMods": [
+    "ModDependencies": [
       "MuseDashMirror"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "29617f015907d431be99d25f74dd42004a1d2fe7c198b19112748e13089ebc8c"
   },
@@ -869,8 +869,8 @@
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "Various small UI fixes",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "d2750556ff9f9be030af2d3212cf6655b3c0de35b3ff540467d9180fd9b5a570"
   },
@@ -883,8 +883,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Makes Sleepwalker Rin do mashers at max speed instead of the normal slow speed.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "15401a7326577ff257e13b1c0837e3a613dfbdf437141a2949377d9062287b12"
   },
@@ -897,8 +897,8 @@
     "ConfigFile": "",
     "GameVersion": "*",
     "Description": "Unlocks all master difficulties for as long as the mod is installed.",
-    "DependentMods": [],
-    "DependentLibs": [],
+    "ModDependencies": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "3685edd6c143779eaea0eb93196c24a22f7d1c48bcd04c271fbb1a72737171dc"
   },
@@ -911,10 +911,10 @@
     "ConfigFile": "VictoryScreenSwitcher.cfg",
     "GameVersion": "*",
     "Description": "Allows you to switch victory screen in the settings menu either to DjMax or Arknights. Swaps original screen with arknights/djmax and vise versa.",
-    "DependentMods": [
+    "ModDependencies": [
       "MuseDashMirror"
     ],
-    "DependentLibs": [],
+    "LibDependencies": [],
     "IncompatibleMods": [],
     "SHA256": "0f1587f605dac70caee21573c1c409934b028265f177c262a1c6dde0a9234dfc"
   }
