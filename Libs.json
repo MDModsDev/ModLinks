@@ -1,9 +1,11 @@
 [
     {
+        "Name": "libSkiaSharp",
         "FileName": "libSkiaSharp.dll",
         "SHA256": "9a0d95e8caaa852c70d085af6a40a744242172ad9ea3fd6bc7599875a8a1dbcd"
     },
     {
+        "Name": "SkiaSharp",
         "FileName": "SkiaSharp.dll",
         "SHA256": "17ee1284313749f73a5cf5f309318d831741a8d6d397c998c5fc6485843c28bb"
     }
