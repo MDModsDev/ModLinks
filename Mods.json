@@ -734,7 +734,7 @@
   },
   {
     "Name": "Scoreboard characters and elfins",
-    "Version": "1.5.0",
+    "Version": "2.5.0",
     "Author": "bnfour",
     "FileName": "ScoreboardCharacters.dll",
     "Repository": "bnfour/md-mods",
@@ -742,7 +742,9 @@
     "GameVersion": "3.12.0",
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
     "ModDependencies": [],
-    "LibDependencies": [],
+    "LibDependencies": [
+      "SkiaSharp"
+    ],
     "IncompatibleMods": [],
     "SHA256": "a726a135d9127ea7389760b0c54f040171a7aa7650ca04c8abef928c71da11f7"
   },
