@@ -739,10 +739,11 @@
     "FileName": "ScoreboardCharacters.dll",
     "Repository": "bnfour/md-mods",
     "ConfigFile": "",
-    "GameVersion": "3.12.0",
+    "GameVersion": "*",
     "Description": "Similar to CharacterScoreboard, however, it instead adds icon clickable icon representations,\nwhich automatically switches to the character combo when clicked.",
     "ModDependencies": [],
     "LibDependencies": [
+      "libSkiaSharp",
       "SkiaSharp"
     ],
     "IncompatibleMods": [],
