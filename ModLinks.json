@@ -916,7 +916,7 @@
   },
   {
     "Name": "Song info",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Author": "bnfour",
     "DownloadLink": "Mods/SongInfo.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -928,7 +928,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "4fbe7d0abfc743fa759ad5deda5b21be7b058daca6ea4b15aab41aaf136e4656"
+    "SHA256": "d00dc0a237352d602655ee4443fbb460155c7faf9ae3ad1e31c4e9704d5156be"
   },
   {
     "Name": "StricterJudge",
@@ -982,7 +982,7 @@
   },
   {
     "Name": "UI tweaks",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/UITweaks.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -994,7 +994,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "e571e72abdb035dc29010396703c9bc1c8e9ba03802705b932aca2339a9a7405"
+    "SHA256": "a80a717193ec324ec70e8223b3483fdc821e7afc40e3f606e02c37f76540f0b9"
   },
   {
     "Name": "UltraInstinctSleepwalking",
