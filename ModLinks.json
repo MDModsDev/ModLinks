@@ -316,8 +316,8 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.1.3",
-    "Author": "Team Baller",
+    "Version": "4.1.9",
+    "Author": "Two Fellas",
     "DownloadLink": "Mods/CustomAlbums.dll",
     "HomePage": "https://github.com/gamrguy/CustomAlbums",
     "ConfigFile": "MelonPreferences.cfg",
@@ -328,7 +328,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "ec4f37256bfdf035a215401842b15d8273a118a76e1fca43d995b1fa90a507b7"
+    "SHA256": "26432f26da4f9a64ddb9d0978b4519341fdbf5554f1ea77e65ffcf9f40137d9e"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -933,7 +933,7 @@
   {
     "Name": "StricterJudge",
     "Version": "2.1.2",
-    "Author": "lxy & Asgragrt",
+    "Author": "Ixy & Asgragrt",
     "DownloadLink": "Mods/StricterJudge.dll",
     "HomePage": "",
     "ConfigFile": "MelonPreferences.cfg",
