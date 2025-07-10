@@ -278,17 +278,17 @@
   },
   {
     "Name": "CustomAlbums",
-    "Version": "4.1.3",
-    "Author": "Team Baller",
+    "Version": "4.1.9",
+    "Author": "Two Fellas",
     "FileName": "CustomAlbums.dll",
-    "Repository": "gamrguy/CustomAlbums",
+    "Repository": "MDMods/CustomAlbums",
     "ConfigFile": "MelonPreferences.cfg",
     "GameVersion": "*",
     "Description": "The mod that allows you to load in custom charts.",
     "ModDependencies": [],
     "LibDependencies": [],
     "IncompatibleMods": [],
-    "SHA256": "ec4f37256bfdf035a215401842b15d8273a118a76e1fca43d995b1fa90a507b7"
+    "SHA256": "26432f26da4f9a64ddb9d0978b4519341fdbf5554f1ea77e65ffcf9f40137d9e"
   },
   {
     "Name": "CustomAnchorSupport",
@@ -450,31 +450,31 @@
   },
   {
     "Name": "HiddenQol",
-    "Version": "2.0.3",
-    "Author": "RobotLucca & lxy",
+    "Version": "2.2.1",
+    "Author": "RobotLucca, lxy & Asgragrt",
     "FileName": "HiddenQol.dll",
-    "Repository": "",
+    "Repository": "Asgragrt/HiddenQol",
     "ConfigFile": "HiddenQol.cfg",
     "GameVersion": "*",
     "Description": "Adds a button to always show hidden difficulties.\nE.g. you don't need to spam click and such to unlock them before playing",
     "ModDependencies": [],
     "LibDependencies": [],
     "IncompatibleMods": [],
-    "SHA256": "1362b76568485f6dbb5bd8b68ea628747ebe1fecd6b1c1c4b585b0f889342c2c"
+    "SHA256": "e35b763646b1225d97744fcbf45d1237fe2f7bd1c006c2f40beb3191f81ead93"
   },
   {
     "Name": "Info+",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Author": "KARPED1EM",
     "FileName": "Info+.dll",
     "Repository": "MDMods/MuseDashInfoPlus",
     "ConfigFile": "Info+/MainConfigs.yml",
     "GameVersion": "*",
-    "Description": "Displays additional in-game info including Chart Info, Accuracy, Miss/Great/Early/Late/Hit/Total Counts, Score/Accuracy Gap from Personal Best, Sky/Ground Speed and so on.\n在游戏内显示各种信息，如谱面信息、准确率、Miss/Great/Early/Late/已击打/总物量计数、最高分数/准确率差值、天空/地面速度等",
+    "Description": "Displays additional in-game info including Chart Info, Accuracy, Miss/Great/Early/Late/Hit/Total Counts, Score/Accuracy Gap from Personal Best, Sky/Ground Speed and so on.",
     "ModDependencies": [],
     "LibDependencies": [],
     "IncompatibleMods": [],
-    "SHA256": "8324154ab64258c8a9d7a137cdff6b81cae78f277bcb82cbecf401886b994120"
+    "SHA256": "552e23e047080c47eafd69257f96ab3192a6a40847e7efceac43cabde279f5d7"
   },
   {
     "Name": "IntroSkip",
@@ -807,7 +807,7 @@
   },
   {
     "Name": "Song info",
-    "Version": "1.2.5",
+    "Version": "1.3.4",
     "Author": "bnfour",
     "FileName": "SongInfo.dll",
     "Repository": "bnfour/md-mods",
@@ -817,7 +817,7 @@
     "ModDependencies": [],
     "LibDependencies": [],
     "IncompatibleMods": [],
-    "SHA256": "efde6b3d6da41321989b9d529e8baadd07687f71bf8b95fcaad2bfd04dd60df3"
+    "SHA256": "ffec9589f445957696112b7ddb475a81bd58b022593e4c29ee0c66e34974f9bc"
   },
   {
     "Name": "StricterJudge",
@@ -865,7 +865,7 @@
   },
   {
     "Name": "UI tweaks",
-    "Version": "1.0.1",
+    "Version": "1.1.2",
     "Author": "bnfour",
     "FileName": "UITweaks.dll",
     "Repository": "bnfour/md-mods",
@@ -875,7 +875,7 @@
     "ModDependencies": [],
     "LibDependencies": [],
     "IncompatibleMods": [],
-    "SHA256": "d2750556ff9f9be030af2d3212cf6655b3c0de35b3ff540467d9180fd9b5a570"
+    "SHA256": "6dd961a8ed47a41e3bcacec1d56580f07f42e947ab4f4b6b371fa71789fcd1d3"
   },
   {
     "Name": "UltraInstinctSleepwalking",
