@@ -103,7 +103,7 @@
     "HomePage": "",
     "ConfigFile": "",
     "GameVersion": [
-      "*"
+      "5.4.0"
     ],
     "Description": "Boss always shoots pigeon, do not use AlwaysAprilFool at the same time",
     "DependentMods": [],
