@@ -787,6 +787,22 @@
     "SHA256": "62b55642ffdcd313ed2591eab95576a5e3a631748c203a54c807a0b1bf4dc43b"
   },
   {
+    "Name": "Rank preview",
+    "Version": "1.0.0",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/RankPreview.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Displays a rank prediction (if in top 100) on song clear, based on the scoreboard state before starting the song.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "eb7283d36309072f9bc691a8f935b314e0bdd4d7d56594511654bad02afbe242"
+  },
+  {
     "Name": "RomajiSongName",
     "Version": "1.0.2",
     "Author": "Asgragrt",
